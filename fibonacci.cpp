@@ -2,13 +2,22 @@
 using namespace std;
 
 int fibonacci(int n) {
-    if (n == 0) return 0;
-    if (n == 1) return 1;
-    return fibonacci(n - 1) + fibonacci(n - 2);
+    if(n <= 1){
+        return n;
+    }else{
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+    
+}
+
+void displayFibonacci(int n){
+
+    for(int i=0; i<n; i++){
+        cout << fibonacci(i) << " ";
+    }
+
 }
 
 int main() {
-    int n = 10;
-    cout << "Fibonacci number at position " << n << " is: " << fibonacci(n) << endl;
-    return 0;
+    displayFibonacci(5);
 }
