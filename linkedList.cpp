@@ -33,3 +33,70 @@ class Node{
             return next;
         }
 };
+
+class LinkedList{
+    Node * head;
+
+    public:
+
+        LinkedList(){
+            head == nullptr;
+        }
+
+        void insertBeginning(int num){
+            Node * temp = new Node(num);
+            temp->setNext(head);
+            head = temp;
+        }
+
+        void insertEnd(int num){
+            Node * temp = new Node(num);
+            if(head == nullptr){
+                head = temp;
+            }else{
+                Node * traverse = head;
+
+                while(traverse->getNext() != NULL){
+                    traverse = traverse->getNext();
+                }
+
+                traverse->setNext(temp);
+            }
+        }
+
+        void deleteBeginning(){
+            if(head == NULL){
+                cout << "Empty linked list. Cannot delete." << endl;
+            }else{
+                Node * temp = head->getNext();
+                delete head;
+                head = temp;
+            }
+            
+        }
+
+        void deleteEnd(){
+            if(head == NULL){
+                cout << "Empty linked list. Cannot delete." << endl;
+            }else{
+                if(head->getNext() == NULL){
+                    delete head;
+                    head = NULL;
+                }else{
+                    Node * previous , * present;
+                    previous = head;
+                    present = head;
+
+                    while(present->getNext() != NULL){
+                        previous = present;
+                        present = present->getNext();
+                    }
+
+                    delete present;
+                    previous->setNext(NULL);
+                }
+            }
+        }
+
+};
+
