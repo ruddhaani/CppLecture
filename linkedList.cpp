@@ -40,7 +40,7 @@ class LinkedList{
     public:
 
         LinkedList(){
-            head == nullptr;
+            head = nullptr;
         }
 
         void insertBeginning(int num){
@@ -98,5 +98,25 @@ class LinkedList{
             }
         }
 
+
+
 };
+
+int main() {
+
+    LinkedList list;
+
+    list.deleteBeginning();
+    list.deleteEnd();
+
+    list.insertEnd(10);
+    list.insertEnd(20);
+    list.insertEnd(30);
+    list.insertBeginning(40);
+    list.deleteEnd();
+
+    list.traverse();
+
+    return 0;
+}
 
