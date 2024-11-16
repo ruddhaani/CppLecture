@@ -98,7 +98,17 @@ class LinkedList{
             }
         }
 
-
+        void traverse(){
+            if(head == NULL){
+                cout << "Empty Linked list. Cannot traverse." << endl;
+            }else{
+                Node * trav = head;
+                while(trav != NULL){
+                    cout << trav->getData() << endl;
+                    trav = trav->getNext();
+                }
+            }    
+        }
 
 };
 
