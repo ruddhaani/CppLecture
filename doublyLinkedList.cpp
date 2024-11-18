@@ -154,9 +154,42 @@ class DoublyLinkedList{
             }
         }
 
-        void deleteBetween(){
-            
+        void deleteBetween(int pos) {
+            if (head == NULL) {
+                cout << "Linked list empty." << endl;
+                return;
+            }
+
+            if (pos <= 0) {
+                cout << "Invalid position" << endl;
+                return;
+            } else if (pos == 1) {
+                deleteBeginning();
+                return;
+            } else {
+                Node* prev = head;
+                Node* pres = head;
+                int i = 1; 
+
+                while (i < pos && pres != NULL) {
+                    prev = pres;
+                    pres = pres->getNext();
+                    i++;
+                }
+
+                if (pres == NULL) {
+                    cout << "Invalid position." << endl;
+                    return;
+                }
+
+                prev->setNext(pres->getNext());
+                if (pres->getNext() != NULL) {
+                    pres->getNext()->setPrevious(prev);
+                }
+                delete pres;
+            }
         }
+
 
         void traverse() {
             if(head == NULL){
@@ -180,8 +213,7 @@ int main(){
     list.insertBeginning(20);
     list.insertEnd(30);
     list.insertBetween(100,3);
-    list.deleteBeginning();
-    list.deleteEnd();
+    list.deleteBetween(2);
 
     list.traverse();
 
