@@ -64,6 +64,33 @@ class LinkedList{
             }
         }
 
+        void insertBetween(int data , int pos){
+            if(pos <= 0){
+                cout << "Invalid Syntax" << endl;
+                return;
+            }else if(pos == 1){
+                insertBeginning(data);
+                return;
+            }else{
+                int i = 1;
+                Node * trav = head;
+
+                while(i<pos - 1){
+                    if(trav != NULL){
+                        trav = trav->getNext();
+                        i++;
+                    }else {
+                        cout << "Invalid position." << endl;
+                        return;
+                    }
+                }
+
+                Node * temp = new Node(data);
+                temp->setNext(trav->getNext());
+                trav->setNext(temp);
+            }
+        }
+
         void deleteBeginning(){
             if(head == NULL){
                 cout << "Empty linked list. Cannot delete." << endl;
@@ -98,6 +125,44 @@ class LinkedList{
             }
         }
 
+        void deleteBetween(int pos){
+            if(head == NULL){
+                cout << "Empty linked list." << endl;
+                return;
+            }else{
+                if(pos <=0){
+                    cout << "Invalid position" << endl;
+                    return;
+                }else if(pos == 1){
+                    deleteBeginning();
+                    return;
+                }else{
+                    Node * prev , * pres;
+                    prev = head;
+                    pres = head;
+                    int i = 0;
+                    while (i < pos-1){
+                        if(pres != NULL){
+                            prev = pres;
+                            pres = pres->getNext();
+                            i++;
+                        }else {
+                            cout << "Invalid position" << endl;
+                            return;
+                        }
+                    }
+
+                    if(pres != NULL){
+                        prev->setNext(pres->getNext());
+                        delete pres;
+                    }else {
+                        cout << "Invalid position." << endl;
+                        return;
+                    }
+                }
+            }
+        }
+
         void traverse(){
             if(head == NULL){
                 cout << "Empty Linked list. Cannot traverse." << endl;
@@ -123,7 +188,10 @@ int main() {
     list.insertEnd(20);
     list.insertEnd(30);
     list.insertBeginning(40);
+    list.insertBetween(50,2);
     list.deleteEnd();
+
+    list.deleteBetween(2);
 
     list.traverse();
 
