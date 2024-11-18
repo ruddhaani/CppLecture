@@ -46,6 +46,20 @@ class Node{
 
 class DoublyLinkedList{
     Node * head;
+    void deleteAll(){
+        if(head == NULL){
+            cout << "Already empty." << endl;
+        }else{
+                Node * trav = head;
+                Node * prev;
+                while(trav != NULL){
+                    prev = trav;
+                    trav = trav->getNext();
+                    delete prev;
+                    cout << "Deleted" << endl;
+                }
+            }
+        }
 
     public:
         DoublyLinkedList(){
@@ -203,6 +217,10 @@ class DoublyLinkedList{
             }    
         }
 
+        ~DoublyLinkedList(){
+            deleteAll();
+        }
+
 };
 
 int main(){
@@ -213,7 +231,6 @@ int main(){
     list.insertBeginning(20);
     list.insertEnd(30);
     list.insertBetween(100,3);
-    list.deleteBetween(2);
 
     list.traverse();
 

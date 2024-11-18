@@ -36,6 +36,20 @@ class Node{
 
 class LinkedList{
     Node * head;
+    void deleteAll(){
+        if(head == NULL){
+            cout << "Already empty." << endl;
+        }else{
+                Node * trav = head;
+                Node * prev;
+                while(trav != NULL){
+                    prev = trav;
+                    trav = trav->getNext();
+                    delete prev;
+                    cout << "Deleted" << endl;
+                }
+            }
+        }
 
     public:
 
@@ -173,6 +187,10 @@ class LinkedList{
                     trav = trav->getNext();
                 }
             }    
+        }
+
+        ~LinkedList(){
+            deleteAll();
         }
 
 };
