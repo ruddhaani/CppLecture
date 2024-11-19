@@ -5,7 +5,6 @@ using namespace std;
 class Node{
     int data;
     Node * next;
-
     public:
         Node(){
             data = 0;
@@ -50,6 +49,16 @@ class LinkedList{
                 }
             }
         }
+
+    void travReverseHelper(Node * node){
+        if(node == NULL){
+            return;
+        }else{
+            travReverseHelper(node->getNext());
+            cout << node->getData() << " ";
+        }
+    }
+
 
     public:
 
@@ -189,6 +198,14 @@ class LinkedList{
             }    
         }
 
+        void travReverse(){
+            cout << "The entire linked list in reverse looks like: ";
+            travReverseHelper(head);
+            return;
+        }
+
+
+
         ~LinkedList(){
             deleteAll();
         }
@@ -207,11 +224,12 @@ int main() {
     list.insertEnd(30);
     list.insertBeginning(40);
     list.insertBetween(50,2);
-    list.deleteEnd();
-
-    list.deleteBetween(2);
 
     list.traverse();
+
+    cout << "############################" << endl;
+
+    list.travReverse();
 
     return 0;
 }
