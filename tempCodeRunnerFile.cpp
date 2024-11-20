@@ -1,3 +1,1 @@
-        ~LinkedList(){
-            deleteAll();
-        }
+root

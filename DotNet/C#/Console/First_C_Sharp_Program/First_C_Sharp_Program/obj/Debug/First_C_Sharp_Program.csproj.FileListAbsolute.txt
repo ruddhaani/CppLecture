@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\bin\Debug\First_C_Sharp_Program.exe.config
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\bin\Debug\First_C_Sharp_Program.exe
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\bin\Debug\First_C_Sharp_Program.pdb
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\obj\Debug\First_C_Sharp_Program.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\obj\Debug\First_C_Sharp_Program.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\obj\Debug\First_C_Sharp_Program.exe
+D:\Lecture\DotNet\C#\Console\First_C_Sharp_Program\First_C_Sharp_Program\obj\Debug\First_C_Sharp_Program.pdb
