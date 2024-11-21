@@ -85,6 +85,53 @@ class BinaryTree{
             cout << "Added as right child of: " << prev->getData() << endl;
         }
     }
+
+
+    void deleteData(int data){
+        if(root == NULL){
+            cout << "Empty" << endl;
+            return;
+        }
+
+        Node * prev = root;
+        Node * pres = root;
+
+        while(pres->getData() != data){
+            prev = pres;
+
+            if(data < pres->getData()){
+                pres = pres->getLChild();
+            }else{
+                pres = pres->getRChild();
+            }
+        }
+
+        if(pres->getLChild() == NULL && pres->getRChild() == NULL){
+            if(pres->getData() < prev->getData()){
+                prev->setLChild(NULL);
+            }else{
+                prev->setRChild(NULL);
+            }
+
+            delete pres;
+        }else if(pres->getLChild()!=NULL && pres->getRChild() == NULL){
+            if(pres->getData() < prev->getData()){
+                prev->setLChild(pres->getLChild());
+            }else{
+                prev->setRChild(pres->getLChild());
+            }
+
+            delete pres;
+        }else if(pres->getLChild()==NULL && pres->getRChild() != NULL){
+            if(pres->getData() < prev->getData()){
+                prev->setLChild(pres->getRChild());
+            }else{
+                prev->setRChild(pres->getRChild());
+            }
+
+            delete pres;
+        }
+    }
 };
 
 int main(){
