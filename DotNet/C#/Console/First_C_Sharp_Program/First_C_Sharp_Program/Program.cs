@@ -10,8 +10,15 @@ namespace First_C_Sharp_Program
     {
         static void Main(string[] args)
         {
-            char a = Convert.ToChar(Console.ReadLine());
-            Console.WriteLine((a));        
+
+            Console.WriteLine("Enter first number: ");
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter second number: ");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Addition of " + firstNumber + " and " + secondNumber + " is " + (firstNumber + secondNumber));
+
         }
     }
 }
