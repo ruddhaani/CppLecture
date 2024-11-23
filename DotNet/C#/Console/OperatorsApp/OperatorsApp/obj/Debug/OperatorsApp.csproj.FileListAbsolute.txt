@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\bin\Debug\OperatorsApp.exe.config
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\bin\Debug\OperatorsApp.exe
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\bin\Debug\OperatorsApp.pdb
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\obj\Debug\OperatorsApp.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\obj\Debug\OperatorsApp.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\obj\Debug\OperatorsApp.exe
+D:\Lecture\DotNet\C#\Console\OperatorsApp\OperatorsApp\obj\Debug\OperatorsApp.pdb

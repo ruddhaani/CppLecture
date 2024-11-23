@@ -1,0 +1,12 @@
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\Calculator.dll
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\Calculator.pdb
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\obj\Debug\ClassLib.939BCD28.Up2Date
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.exe
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\Arithmetic.dll
+D:\Lecture\DotNet\C#\Console\ClassLibrary\ClassLibrary\bin\Debug\Arithmetic.pdb

@@ -1,0 +1,6 @@
+D:\Lecture\DotNet\C#\Console\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll
+D:\Lecture\DotNet\C#\Console\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\Lecture\DotNet\C#\Console\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
+D:\Lecture\DotNet\C#\Console\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

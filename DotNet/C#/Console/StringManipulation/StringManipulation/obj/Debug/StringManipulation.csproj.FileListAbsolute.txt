@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+D:\Lecture\DotNet\C#\Console\StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb

@@ -1,0 +1,10 @@
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\bin\Debug\LibExample02.exe.config
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\bin\Debug\LibExample02.exe
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\bin\Debug\LibExample02.pdb
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\bin\Debug\LibraryExample01.dll
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\bin\Debug\LibraryExample01.pdb
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\obj\Debug\LibExample02.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\obj\Debug\LibExample02.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\obj\Debug\LibExamp.8E1692A2.Up2Date
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\obj\Debug\LibExample02.exe
+D:\Lecture\DotNet\C#\Console\LibExample02\LibExample02\obj\Debug\LibExample02.pdb

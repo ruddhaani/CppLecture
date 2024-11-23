@@ -1,0 +1,6 @@
+D:\Lecture\DotNet\C#\Console\LibraryExample01\LibraryExample01\bin\Debug\LibraryExample01.dll
+D:\Lecture\DotNet\C#\Console\LibraryExample01\LibraryExample01\bin\Debug\LibraryExample01.pdb
+D:\Lecture\DotNet\C#\Console\LibraryExample01\LibraryExample01\obj\Debug\LibraryExample01.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\LibraryExample01\LibraryExample01\obj\Debug\LibraryExample01.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\LibraryExample01\LibraryExample01\obj\Debug\LibraryExample01.dll
+D:\Lecture\DotNet\C#\Console\LibraryExample01\LibraryExample01\obj\Debug\LibraryExample01.pdb
