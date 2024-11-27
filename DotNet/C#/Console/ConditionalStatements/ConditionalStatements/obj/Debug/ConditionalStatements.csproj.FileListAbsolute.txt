@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+D:\Lecture\DotNet\C#\Console\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

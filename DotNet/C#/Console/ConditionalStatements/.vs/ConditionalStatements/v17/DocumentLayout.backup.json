@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\ConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564F99BD-4F4D-41CC-B6F9-DAB1A09086D6}|ConditionalStatements\\ConditionalStatements.csproj|d:\\lecture\\dotnet\\c#\\console\\conditionalstatements\\conditionalstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F99BD-4F4D-41CC-B6F9-DAB1A09086D6}|ConditionalStatements\\ConditionalStatements.csproj|solutionrelative:conditionalstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\ConditionalStatements\\ConditionalStatements\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionalStatements\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\ConditionalStatements\\ConditionalStatements\\Program.cs",
+              "RelativeToolTip": "ConditionalStatements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:19:40.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

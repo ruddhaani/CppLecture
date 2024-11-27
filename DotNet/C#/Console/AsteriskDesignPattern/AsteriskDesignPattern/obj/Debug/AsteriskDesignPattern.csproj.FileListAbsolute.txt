@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\bin\Debug\AsteriskDesignPattern.exe.config
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\bin\Debug\AsteriskDesignPattern.exe
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\bin\Debug\AsteriskDesignPattern.pdb
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\obj\Debug\AsteriskDesignPattern.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\obj\Debug\AsteriskDesignPattern.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\obj\Debug\AsteriskDesignPattern.exe
+D:\Lecture\DotNet\C#\Console\AsteriskDesignPattern\AsteriskDesignPattern\obj\Debug\AsteriskDesignPattern.pdb
