@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+D:\Lecture\DotNet\C#\Console\StringReverse\StringReverse\obj\Debug\StringReverse.pdb

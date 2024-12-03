@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\AsteriskDesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23326D02-7FFA-40AD-B9DD-BCDC2F9359F0}|AsteriskDesignPattern\\AsteriskDesignPattern.csproj|d:\\lecture\\dotnet\\c#\\console\\asteriskdesignpattern\\asteriskdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23326D02-7FFA-40AD-B9DD-BCDC2F9359F0}|AsteriskDesignPattern\\AsteriskDesignPattern.csproj|D:\\Lecture\\DotNet\\C#\\Console\\AsteriskDesignPattern\\asteriskdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23326D02-7FFA-40AD-B9DD-BCDC2F9359F0}|AsteriskDesignPattern\\AsteriskDesignPattern.csproj|solutionrelative:asteriskdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "AsteriskDesignPattern\\Design.cs",
               "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\AsteriskDesignPattern\\AsteriskDesignPattern\\Design.cs",
               "RelativeToolTip": "AsteriskDesignPattern\\Design.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T06:53:59.379Z",
               "EditorCaption": ""
@@ -39,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\AsteriskDesignPattern\\AsteriskDesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "AsteriskDesignPattern\\Program.cs",
-              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\AsteriskDesignPattern\\AsteriskDesignPattern\\Program.cs",
-              "RelativeToolTip": "AsteriskDesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\AsteriskDesignPattern\\AsteriskDesignPattern\\Program.cs*",
+              "RelativeToolTip": "AsteriskDesignPattern\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T06:49:32.319Z",
               "EditorCaption": ""

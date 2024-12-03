@@ -12,7 +12,8 @@ namespace AsteriskDesignPattern
         {
             Design design = new Design();
 
-            design.DesignPattern(10);
+            design.DesignPattern(20);
+
         }
     }
 }

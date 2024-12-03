@@ -45,8 +45,33 @@ class Node{
 
 };
 
+
 class BinaryTree{
     Node * root;
+
+    void preOrderTraversal(Node * temp){
+        if(temp != NULL){
+            cout << temp->getData() << " ";
+            preOrderTraversal(temp->getLChild());
+            preOrderTraversal(temp->getRChild());
+        }
+    }
+
+    void inOrderTraversal(Node * temp){
+        if(temp != NULL){
+            inOrderTraversal(temp->getLChild());
+            cout << temp->getData() << " ";
+            inOrderTraversal(temp->getRChild());
+        }
+    }
+
+    void postOrderTraversal(Node * temp){
+        if(temp != NULL){
+            postOrderTraversal(temp->getLChild());
+            postOrderTraversal(temp->getRChild());
+            cout << temp -> getData() << " ";
+        }
+    }
 
     public:
         BinaryTree(){
@@ -130,13 +155,39 @@ class BinaryTree{
             }
 
             delete pres;
+        }else if(pres->getLChild() !=NULL && pres->getRChild()!=NULL){
+            if(pres->getData() < prev->getData()){
+                prev->setLChild(pres->getLChild());
+            }else{
+                prev->setRChild(pres->getLChild());
+            }
+
+            Node * trav = pres;
+
+            while(trav->getRChild() != NULL){
+                trav = trav->getRChild();
+            }
+
+            trav->setRChild(pres->getRChild());
+            delete pres;
         }
+    }
+
+    void preOrderTraversal(){
+        preOrderTraversal(root);
+    }
+
+    void inOrderTraversal(){
+        inOrderTraversal(root);
+    }
+
+    void postOrderTraversal(){
+        postOrderTraversal(root);
     }
 };
 
 int main(){
     BinaryTree binarytree;
-
     binarytree.insertData(10);
     binarytree.insertData(10);
     binarytree.insertData(20);
@@ -144,5 +195,15 @@ int main(){
     binarytree.insertData(7);
     binarytree.insertData(9);
     binarytree.insertData(5);
-    
+
+    cout << "Pre-order" <<endl;
+    binarytree.preOrderTraversal();
+
+    cout << endl;
+    cout << "In-order" << endl; 
+    binarytree.inOrderTraversal();
+
+    cout << endl;
+    cout << "Post-order" << endl; 
+    binarytree.postOrderTraversal();
 }

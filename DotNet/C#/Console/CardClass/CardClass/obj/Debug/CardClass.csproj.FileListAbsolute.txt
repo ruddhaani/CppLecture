@@ -1,0 +1,6 @@
+D:\Lecture\DotNet\C#\Console\CardClass\CardClass\bin\Debug\CardClass.dll
+D:\Lecture\DotNet\C#\Console\CardClass\CardClass\bin\Debug\CardClass.pdb
+D:\Lecture\DotNet\C#\Console\CardClass\CardClass\obj\Debug\CardClass.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\CardClass\CardClass\obj\Debug\CardClass.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\CardClass\CardClass\obj\Debug\CardClass.dll
+D:\Lecture\DotNet\C#\Console\CardClass\CardClass\obj\Debug\CardClass.pdb

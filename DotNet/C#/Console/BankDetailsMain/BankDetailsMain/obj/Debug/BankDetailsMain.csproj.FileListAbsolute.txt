@@ -1,0 +1,10 @@
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\bin\Debug\BankDetailsMain.exe.config
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\bin\Debug\BankDetailsMain.exe
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\bin\Debug\BankDetailsMain.pdb
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\bin\Debug\CardClass.dll
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\bin\Debug\CardClass.pdb
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\obj\Debug\BankDetailsMain.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\obj\Debug\BankDetailsMain.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\obj\Debug\BankDeta.68705F7C.Up2Date
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\obj\Debug\BankDetailsMain.exe
+D:\Lecture\DotNet\C#\Console\BankDetailsMain\BankDetailsMain\obj\Debug\BankDetailsMain.pdb

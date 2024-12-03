@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF01B4-F03C-44D5-A4B7-342A81A9F5CA}|Inheritance\\Inheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF01B4-F03C-44D5-A4B7-342A81A9F5CA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF01B4-F03C-44D5-A4B7-342A81A9F5CA}|Inheritance\\Inheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\inheritance\\inheritance\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF01B4-F03C-44D5-A4B7-342A81A9F5CA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FF01B4-F03C-44D5-A4B7-342A81A9F5CA}|Inheritance\\Inheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\inheritance\\inheritance\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FF01B4-F03C-44D5-A4B7-342A81A9F5CA}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\Inheritance\\RoomService.cs",
+              "RelativeDocumentMoniker": "Inheritance\\RoomService.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\Inheritance\\RoomService.cs",
+              "RelativeToolTip": "Inheritance\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:12:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\Inheritance\\Company.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Company.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\Inheritance\\Company.cs",
+              "RelativeToolTip": "Inheritance\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:43:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:43:22.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

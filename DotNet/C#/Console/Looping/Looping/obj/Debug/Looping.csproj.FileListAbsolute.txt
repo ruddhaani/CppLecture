@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\Looping\Looping\bin\Debug\Looping.exe.config
+D:\Lecture\DotNet\C#\Console\Looping\Looping\bin\Debug\Looping.exe
+D:\Lecture\DotNet\C#\Console\Looping\Looping\bin\Debug\Looping.pdb
+D:\Lecture\DotNet\C#\Console\Looping\Looping\obj\Debug\Looping.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\Looping\Looping\obj\Debug\Looping.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\Looping\Looping\obj\Debug\Looping.exe
+D:\Lecture\DotNet\C#\Console\Looping\Looping\obj\Debug\Looping.pdb
