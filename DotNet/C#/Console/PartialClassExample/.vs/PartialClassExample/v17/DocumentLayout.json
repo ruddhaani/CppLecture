@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE30DE18-4393-464E-A105-687CBA3B299A}|PartialClassExample\\PartialClassExample.csproj|d:\\lecture\\dotnet\\c#\\console\\partialclassexample\\partialclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE30DE18-4393-464E-A105-687CBA3B299A}|PartialClassExample\\PartialClassExample.csproj|solutionrelative:partialclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE30DE18-4393-464E-A105-687CBA3B299A}|PartialClassExample\\PartialClassExample.csproj|d:\\lecture\\dotnet\\c#\\console\\partialclassexample\\partialclassexample\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE30DE18-4393-464E-A105-687CBA3B299A}|PartialClassExample\\PartialClassExample.csproj|solutionrelative:partialclassexample\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE30DE18-4393-464E-A105-687CBA3B299A}|PartialClassExample\\PartialClassExample.csproj|d:\\lecture\\dotnet\\c#\\console\\partialclassexample\\partialclassexample\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE30DE18-4393-464E-A105-687CBA3B299A}|PartialClassExample\\PartialClassExample.csproj|solutionrelative:partialclassexample\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\PartialClassExample\\Inventory.cs",
+              "RelativeDocumentMoniker": "PartialClassExample\\Inventory.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\PartialClassExample\\Inventory.cs",
+              "RelativeToolTip": "PartialClassExample\\Inventory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:42:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\PartialClassExample\\UserModel.cs",
+              "RelativeDocumentMoniker": "PartialClassExample\\UserModel.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\PartialClassExample\\UserModel.cs",
+              "RelativeToolTip": "PartialClassExample\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:40:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\PartialClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClassExample\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample\\PartialClassExample\\Program.cs",
+              "RelativeToolTip": "PartialClassExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:30:25.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
