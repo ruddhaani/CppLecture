@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE0106-166B-43ED-AFA1-8C337DE4E18C}|ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\parameterisedconstructorinheritance\\parameterisedconstructorinheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE0106-166B-43ED-AFA1-8C337DE4E18C}|ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance.csproj|solutionrelative:parameterisedconstructorinheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE0106-166B-43ED-AFA1-8C337DE4E18C}|ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\parameterisedconstructorinheritance\\parameterisedconstructorinheritance\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE0106-166B-43ED-AFA1-8C337DE4E18C}|ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance.csproj|solutionrelative:parameterisedconstructorinheritance\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE0106-166B-43ED-AFA1-8C337DE4E18C}|ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\parameterisedconstructorinheritance\\parameterisedconstructorinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBE0106-166B-43ED-AFA1-8C337DE4E18C}|ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance.csproj|solutionrelative:parameterisedconstructorinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance\\Employee.cs",
+              "RelativeDocumentMoniker": "ParameterisedConstructorInheritance\\Employee.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance\\Employee.cs",
+              "RelativeToolTip": "ParameterisedConstructorInheritance\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:09:07.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance\\Company.cs",
+              "RelativeDocumentMoniker": "ParameterisedConstructorInheritance\\Company.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance\\Company.cs",
+              "RelativeToolTip": "ParameterisedConstructorInheritance\\Company.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:08:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ParameterisedConstructorInheritance\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\ParameterisedConstructorInheritance\\ParameterisedConstructorInheritance\\Program.cs",
+              "RelativeToolTip": "ParameterisedConstructorInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:08:07.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

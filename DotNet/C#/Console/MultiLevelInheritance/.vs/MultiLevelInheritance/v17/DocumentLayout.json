@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritance\\multilevelinheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|solutionrelative:multilevelinheritance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritance\\multilevelinheritance\\seniordeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|solutionrelative:multilevelinheritance\\seniordeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritance\\multilevelinheritance\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|solutionrelative:multilevelinheritance\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritance\\multilevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BF017-74F9-41F0-9D97-ABC6A2626051}|MultiLevelInheritance\\MultiLevelInheritance.csproj|solutionrelative:multilevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeniorDeveloper.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\SeniorDeveloper.cs",
+              "RelativeDocumentMoniker": "MultiLevelInheritance\\SeniorDeveloper.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\SeniorDeveloper.cs",
+              "RelativeToolTip": "MultiLevelInheritance\\SeniorDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:19:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\Developer.cs",
+              "RelativeDocumentMoniker": "MultiLevelInheritance\\Developer.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\Developer.cs",
+              "RelativeToolTip": "MultiLevelInheritance\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:19:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\Employee.cs",
+              "RelativeDocumentMoniker": "MultiLevelInheritance\\Employee.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\Employee.cs",
+              "RelativeToolTip": "MultiLevelInheritance\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:18:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "MultiLevelInheritance\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultiLevelInheritance\\MultiLevelInheritance\\Program.cs",
+              "RelativeToolTip": "MultiLevelInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:18:39.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

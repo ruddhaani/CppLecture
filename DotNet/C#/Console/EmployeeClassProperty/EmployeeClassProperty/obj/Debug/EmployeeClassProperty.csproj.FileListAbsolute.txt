@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\bin\Debug\EmployeeClassProperty.exe.config
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\bin\Debug\EmployeeClassProperty.exe
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\bin\Debug\EmployeeClassProperty.pdb
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\obj\Debug\EmployeeClassProperty.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\obj\Debug\EmployeeClassProperty.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\obj\Debug\EmployeeClassProperty.exe
+D:\Lecture\DotNet\C#\Console\EmployeeClassProperty\EmployeeClassProperty\obj\Debug\EmployeeClassProperty.pdb

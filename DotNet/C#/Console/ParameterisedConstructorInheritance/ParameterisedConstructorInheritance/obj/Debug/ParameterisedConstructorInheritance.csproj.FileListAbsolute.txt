@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\obj\Debug\ParameterisedConstructorInheritance.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\obj\Debug\ParameterisedConstructorInheritance.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\bin\Debug\ParameterisedConstructorInheritance.exe.config
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\bin\Debug\ParameterisedConstructorInheritance.exe
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\bin\Debug\ParameterisedConstructorInheritance.pdb
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\obj\Debug\ParameterisedConstructorInheritance.exe
+D:\Lecture\DotNet\C#\Console\ParameterisedConstructorInheritance\ParameterisedConstructorInheritance\obj\Debug\ParameterisedConstructorInheritance.pdb

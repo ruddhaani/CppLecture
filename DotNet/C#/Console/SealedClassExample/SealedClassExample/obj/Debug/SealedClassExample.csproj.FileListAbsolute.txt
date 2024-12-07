@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\bin\Debug\SealedClassExample.exe.config
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\bin\Debug\SealedClassExample.exe
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\bin\Debug\SealedClassExample.pdb
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\obj\Debug\SealedClassExample.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\obj\Debug\SealedClassExample.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\obj\Debug\SealedClassExample.exe
+D:\Lecture\DotNet\C#\Console\SealedClassExample\SealedClassExample\obj\Debug\SealedClassExample.pdb

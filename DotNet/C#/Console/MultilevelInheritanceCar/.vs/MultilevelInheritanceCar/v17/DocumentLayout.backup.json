@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritancecar\\multilevelinheritancecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|solutionrelative:multilevelinheritancecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritancecar\\multilevelinheritancecar\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|solutionrelative:multilevelinheritancecar\\sports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritancecar\\multilevelinheritancecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|solutionrelative:multilevelinheritancecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|d:\\lecture\\dotnet\\c#\\console\\multilevelinheritancecar\\multilevelinheritancecar\\ferrari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EAC0A-1E01-4FBF-B431-AC29C762A738}|MultilevelInheritanceCar\\MultilevelInheritanceCar.csproj|solutionrelative:multilevelinheritancecar\\ferrari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ferrari.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Ferrari.cs",
+              "RelativeDocumentMoniker": "MultilevelInheritanceCar\\Ferrari.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Ferrari.cs",
+              "RelativeToolTip": "MultilevelInheritanceCar\\Ferrari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:23:25.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sports.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Sports.cs",
+              "RelativeDocumentMoniker": "MultilevelInheritanceCar\\Sports.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Sports.cs*",
+              "RelativeToolTip": "MultilevelInheritanceCar\\Sports.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:23:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Car.cs",
+              "RelativeDocumentMoniker": "MultilevelInheritanceCar\\Car.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Car.cs",
+              "RelativeToolTip": "MultilevelInheritanceCar\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:23:01.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Program.cs",
+              "RelativeDocumentMoniker": "MultilevelInheritanceCar\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultilevelInheritanceCar\\MultilevelInheritanceCar\\Program.cs",
+              "RelativeToolTip": "MultilevelInheritanceCar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:22:52.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
