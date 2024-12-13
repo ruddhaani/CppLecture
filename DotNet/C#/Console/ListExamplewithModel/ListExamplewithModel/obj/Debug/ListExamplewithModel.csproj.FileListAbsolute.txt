@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\bin\Debug\ListExamplewithModel.exe.config
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\bin\Debug\ListExamplewithModel.exe
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\bin\Debug\ListExamplewithModel.pdb
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\obj\Debug\ListExamplewithModel.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\obj\Debug\ListExamplewithModel.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\obj\Debug\ListExamplewithModel.exe
+D:\Lecture\DotNet\C#\Console\ListExamplewithModel\ListExamplewithModel\obj\Debug\ListExamplewithModel.pdb

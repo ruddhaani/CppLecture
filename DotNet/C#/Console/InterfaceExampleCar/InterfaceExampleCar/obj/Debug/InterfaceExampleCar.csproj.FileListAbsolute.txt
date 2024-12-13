@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\bin\Debug\InterfaceExampleCar.exe.config
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\bin\Debug\InterfaceExampleCar.exe
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\bin\Debug\InterfaceExampleCar.pdb
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\obj\Debug\InterfaceExampleCar.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\obj\Debug\InterfaceExampleCar.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\obj\Debug\InterfaceExampleCar.exe
+D:\Lecture\DotNet\C#\Console\InterfaceExampleCar\InterfaceExampleCar\obj\Debug\InterfaceExampleCar.pdb

@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\bin\Debug\TryCatchExample2.exe.config
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\bin\Debug\TryCatchExample2.exe
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\bin\Debug\TryCatchExample2.pdb
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\obj\Debug\TryCatchExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\obj\Debug\TryCatchExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\obj\Debug\TryCatchExample2.exe
+D:\Lecture\DotNet\C#\Console\TryCatchExample2\TryCatchExample2\obj\Debug\TryCatchExample2.pdb

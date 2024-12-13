@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|d:\\lecture\\dotnet\\c#\\console\\interfaceexamplecar\\interfaceexamplecar\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|solutionrelative:interfaceexamplecar\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|d:\\lecture\\dotnet\\c#\\console\\interfaceexamplecar\\interfaceexamplecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|solutionrelative:interfaceexamplecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|d:\\lecture\\dotnet\\c#\\console\\interfaceexamplecar\\interfaceexamplecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|solutionrelative:interfaceexamplecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|d:\\lecture\\dotnet\\c#\\console\\interfaceexamplecar\\interfaceexamplecar\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75673406-80C1-402C-B33B-EBE4B61E3543}|InterfaceExampleCar\\InterfaceExampleCar.csproj|solutionrelative:interfaceexamplecar\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\Bike.cs",
+              "RelativeDocumentMoniker": "InterfaceExampleCar\\Bike.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\Bike.cs",
+              "RelativeToolTip": "InterfaceExampleCar\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:23:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\Car.cs",
+              "RelativeDocumentMoniker": "InterfaceExampleCar\\Car.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\Car.cs",
+              "RelativeToolTip": "InterfaceExampleCar\\Car.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:20:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\IVehicle.cs",
+              "RelativeDocumentMoniker": "InterfaceExampleCar\\IVehicle.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\IVehicle.cs",
+              "RelativeToolTip": "InterfaceExampleCar\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:19:44.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExampleCar\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\InterfaceExampleCar\\InterfaceExampleCar\\Program.cs",
+              "RelativeToolTip": "InterfaceExampleCar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:15:37.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\bin\Debug\AbstractClassAnimalExample.exe.config
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\bin\Debug\AbstractClassAnimalExample.exe
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\bin\Debug\AbstractClassAnimalExample.pdb
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\obj\Debug\AbstractClassAnimalExample.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\obj\Debug\AbstractClassAnimalExample.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\obj\Debug\AbstractClassAnimalExample.exe
+D:\Lecture\DotNet\C#\Console\AbstractClassAnimalExample\AbstractClassAnimalExample\obj\Debug\AbstractClassAnimalExample.pdb

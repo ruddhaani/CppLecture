@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\bin\Debug\AbstractClassCar.exe.config
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\bin\Debug\AbstractClassCar.exe
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\bin\Debug\AbstractClassCar.pdb
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\obj\Debug\AbstractClassCar.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\obj\Debug\AbstractClassCar.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\obj\Debug\AbstractClassCar.exe
+D:\Lecture\DotNet\C#\Console\AbstractClassCar\AbstractClassCar\obj\Debug\AbstractClassCar.pdb

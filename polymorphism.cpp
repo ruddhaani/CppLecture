@@ -20,6 +20,8 @@ class Person {
         void display(){
             cout << this->name << endl;
         }
+
+        
 };
 
 int main(){

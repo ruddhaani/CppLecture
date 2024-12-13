@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|d:\\lecture\\dotnet\\c#\\console\\multipleinheritance\\multipleinheritance\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\multipleinheritance\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\multipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\multipleinheritance\\icompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5B004-F5CB-409F-9D57-0885E0EC67C8}|MultipleInheritance\\MultipleInheritance.csproj|solutionrelative:multipleinheritance\\icompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\Developer.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\Developer.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\Developer.cs",
+              "RelativeToolTip": "MultipleInheritance\\Developer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:16:52.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\IEmployee.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\IEmployee.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\IEmployee.cs",
+              "RelativeToolTip": "MultipleInheritance\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:15:46.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICompany.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\ICompany.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\ICompany.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\ICompany.cs",
+              "RelativeToolTip": "MultipleInheritance\\ICompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:14:54.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "MultipleInheritance\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MultipleInheritance\\MultipleInheritance\\Program.cs",
+              "RelativeToolTip": "MultipleInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:14:35.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

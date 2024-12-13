@@ -37,6 +37,18 @@ class Developer:public Employee{
         }
 };
 
+// class A {
+//     public:
+//     A(int a){}
+// };
+
+// class B: public A{
+//     public:
+//     B(int a):A(a){
+
+//     }
+// };
+
 int main(){
     // Employee obj;
 

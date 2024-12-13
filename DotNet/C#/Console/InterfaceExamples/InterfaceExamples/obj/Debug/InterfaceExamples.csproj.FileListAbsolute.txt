@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\bin\Debug\InterfaceExamples.exe.config
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\bin\Debug\InterfaceExamples.exe
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\bin\Debug\InterfaceExamples.pdb
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.exe
+D:\Lecture\DotNet\C#\Console\InterfaceExamples\InterfaceExamples\obj\Debug\InterfaceExamples.pdb
