@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\SortedListExampleNonGeneric1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{106E5A06-70BF-4281-8620-78B10183B315}|SortedListExampleNonGeneric1\\SortedListExampleNonGeneric1.csproj|d:\\lecture\\dotnet\\c#\\console\\sortedlistexamplenongeneric1\\sortedlistexamplenongeneric1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106E5A06-70BF-4281-8620-78B10183B315}|SortedListExampleNonGeneric1\\SortedListExampleNonGeneric1.csproj|solutionrelative:sortedlistexamplenongeneric1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\SortedListExampleNonGeneric1\\SortedListExampleNonGeneric1\\Program.cs",
+              "RelativeDocumentMoniker": "SortedListExampleNonGeneric1\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\SortedListExampleNonGeneric1\\SortedListExampleNonGeneric1\\Program.cs",
+              "RelativeToolTip": "SortedListExampleNonGeneric1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:46:07.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

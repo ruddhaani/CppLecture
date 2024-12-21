@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\bin\Debug\StreamExample1.exe.config
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\bin\Debug\StreamExample1.exe
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\bin\Debug\StreamExample1.pdb
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\obj\Debug\StreamExample1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\obj\Debug\StreamExample1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\obj\Debug\StreamExample1.exe
+D:\Lecture\DotNet\C#\Console\StreamExample1\StreamExample1\obj\Debug\StreamExample1.pdb

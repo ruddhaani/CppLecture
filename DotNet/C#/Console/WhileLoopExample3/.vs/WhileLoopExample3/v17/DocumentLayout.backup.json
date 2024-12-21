@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\WhileLoopExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5932A1B-9595-43E4-AF10-F90CEF559531}|WhileLoopExample3\\WhileLoopExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\whileloopexample3\\whileloopexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5932A1B-9595-43E4-AF10-F90CEF559531}|WhileLoopExample3\\WhileLoopExample3.csproj|solutionrelative:whileloopexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\WhileLoopExample3\\WhileLoopExample3\\Program.cs",
+              "RelativeDocumentMoniker": "WhileLoopExample3\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\WhileLoopExample3\\WhileLoopExample3\\Program.cs",
+              "RelativeToolTip": "WhileLoopExample3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:37:12.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

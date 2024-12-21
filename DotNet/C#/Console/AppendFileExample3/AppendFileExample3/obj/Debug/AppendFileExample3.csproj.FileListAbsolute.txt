@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\bin\Debug\AppendFileExample3.exe.config
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\bin\Debug\AppendFileExample3.exe
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\bin\Debug\AppendFileExample3.pdb
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\obj\Debug\AppendFileExample3.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\obj\Debug\AppendFileExample3.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\obj\Debug\AppendFileExample3.exe
+D:\Lecture\DotNet\C#\Console\AppendFileExample3\AppendFileExample3\obj\Debug\AppendFileExample3.pdb

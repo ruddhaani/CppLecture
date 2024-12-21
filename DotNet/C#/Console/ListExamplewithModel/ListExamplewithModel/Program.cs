@@ -10,10 +10,10 @@ namespace ListExamplewithModel
     {
         static void Main(string[] args)
         {
-            List<Employee> employeesObj = new List<Employee>(
+            List<Employee> employeesObj = new List<Employee> {
                 new Employee { Name="Rohit" , Salary = 1234 , Email = "abc.xyz.com"}
-                
-                );
+
+                };
 
             //traditional approach
             //Employee obj1 = new Employee();

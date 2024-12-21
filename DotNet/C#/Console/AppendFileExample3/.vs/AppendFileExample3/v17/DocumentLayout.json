@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\AppendFileExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25DD33-2469-4FD6-9212-6760FE58D3CD}|AppendFileExample3\\AppendFileExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\appendfileexample3\\appendfileexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25DD33-2469-4FD6-9212-6760FE58D3CD}|AppendFileExample3\\AppendFileExample3.csproj|solutionrelative:appendfileexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\AppendFileExample3\\AppendFileExample3\\Program.cs",
+              "RelativeDocumentMoniker": "AppendFileExample3\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\AppendFileExample3\\AppendFileExample3\\Program.cs",
+              "RelativeToolTip": "AppendFileExample3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:11:56.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

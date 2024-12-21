@@ -1,0 +1,6 @@
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\FileManagement\bin\Debug\FileManagement.dll
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\FileManagement\bin\Debug\FileManagement.pdb
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\FileManagement\obj\Debug\FileManagement.dll
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\FileManagement\obj\Debug\FileManagement.pdb

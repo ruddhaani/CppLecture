@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\bin\Debug\SwitchCaseExample3.exe.config
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\bin\Debug\SwitchCaseExample3.exe
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\bin\Debug\SwitchCaseExample3.pdb
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\obj\Debug\SwitchCaseExample3.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\obj\Debug\SwitchCaseExample3.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\obj\Debug\SwitchCaseExample3.exe
+D:\Lecture\DotNet\C#\Console\SwitchCaseExample3\SwitchCaseExample3\obj\Debug\SwitchCaseExample3.pdb

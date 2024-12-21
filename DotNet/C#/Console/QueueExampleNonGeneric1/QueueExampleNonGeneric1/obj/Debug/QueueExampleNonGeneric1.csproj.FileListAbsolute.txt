@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\bin\Debug\QueueExampleNonGeneric1.exe.config
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\bin\Debug\QueueExampleNonGeneric1.exe
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\bin\Debug\QueueExampleNonGeneric1.pdb
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\obj\Debug\QueueExampleNonGeneric1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\obj\Debug\QueueExampleNonGeneric1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\obj\Debug\QueueExampleNonGeneric1.exe
+D:\Lecture\DotNet\C#\Console\QueueExampleNonGeneric1\QueueExampleNonGeneric1\obj\Debug\QueueExampleNonGeneric1.pdb

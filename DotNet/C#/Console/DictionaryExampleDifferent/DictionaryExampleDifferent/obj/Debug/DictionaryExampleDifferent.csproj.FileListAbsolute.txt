@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\bin\Debug\DictionaryExampleDifferent.exe.config
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\bin\Debug\DictionaryExampleDifferent.exe
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\bin\Debug\DictionaryExampleDifferent.pdb
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\obj\Debug\DictionaryExampleDifferent.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\obj\Debug\DictionaryExampleDifferent.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\obj\Debug\DictionaryExampleDifferent.exe
+D:\Lecture\DotNet\C#\Console\DictionaryExampleDifferent\DictionaryExampleDifferent\obj\Debug\DictionaryExampleDifferent.pdb

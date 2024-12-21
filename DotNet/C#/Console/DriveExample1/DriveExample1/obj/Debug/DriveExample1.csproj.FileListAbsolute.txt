@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\bin\Debug\DriveExample1.exe.config
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\bin\Debug\DriveExample1.exe
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\bin\Debug\DriveExample1.pdb
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\obj\Debug\DriveExample1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\obj\Debug\DriveExample1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\obj\Debug\DriveExample1.exe
+D:\Lecture\DotNet\C#\Console\DriveExample1\DriveExample1\obj\Debug\DriveExample1.pdb

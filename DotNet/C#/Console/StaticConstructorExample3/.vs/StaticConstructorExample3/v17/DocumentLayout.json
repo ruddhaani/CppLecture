@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\StaticConstructorExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5264955A-174B-49F8-9BCC-247070B03E1D}|StaticConstructorExample3\\StaticConstructorExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\staticconstructorexample3\\staticconstructorexample3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5264955A-174B-49F8-9BCC-247070B03E1D}|StaticConstructorExample3\\StaticConstructorExample3.csproj|solutionrelative:staticconstructorexample3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5264955A-174B-49F8-9BCC-247070B03E1D}|StaticConstructorExample3\\StaticConstructorExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\staticconstructorexample3\\staticconstructorexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5264955A-174B-49F8-9BCC-247070B03E1D}|StaticConstructorExample3\\StaticConstructorExample3.csproj|solutionrelative:staticconstructorexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\StaticConstructorExample3\\StaticConstructorExample3\\Employee.cs",
+              "RelativeDocumentMoniker": "StaticConstructorExample3\\Employee.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\StaticConstructorExample3\\StaticConstructorExample3\\Employee.cs",
+              "RelativeToolTip": "StaticConstructorExample3\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:46:18.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\StaticConstructorExample3\\StaticConstructorExample3\\Program.cs",
+              "RelativeDocumentMoniker": "StaticConstructorExample3\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\StaticConstructorExample3\\StaticConstructorExample3\\Program.cs",
+              "RelativeToolTip": "StaticConstructorExample3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:44:06.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

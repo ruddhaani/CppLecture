@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{436E2262-41D3-45B6-999C-D66E8B5D0643}|ListExamplewithModel\\ListExamplewithModel.csproj|solutionrelative:listexamplewithmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{436E2262-41D3-45B6-999C-D66E8B5D0643}|ListExamplewithModel\\ListExamplewithModel.csproj|d:\\lecture\\dotnet\\c#\\console\\listexamplewithmodel\\listexamplewithmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{436E2262-41D3-45B6-999C-D66E8B5D0643}|ListExamplewithModel\\ListExamplewithModel.csproj|D:\\Lecture\\DotNet\\C#\\Console\\ListExamplewithModel\\listexamplewithmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{436E2262-41D3-45B6-999C-D66E8B5D0643}|ListExamplewithModel\\ListExamplewithModel.csproj|solutionrelative:listexamplewithmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "ListExamplewithModel\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:44:12.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T08:44:12.983Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "ListExamplewithModel\\Program.cs",
               "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\ListExamplewithModel\\ListExamplewithModel\\Program.cs",
               "RelativeToolTip": "ListExamplewithModel\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T08:43:56.385Z",
               "EditorCaption": ""

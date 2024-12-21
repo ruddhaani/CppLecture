@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\bin\Debug\WhileLoopExample2.exe.config
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\bin\Debug\WhileLoopExample2.exe
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\bin\Debug\WhileLoopExample2.pdb
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\obj\Debug\WhileLoopExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\obj\Debug\WhileLoopExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\obj\Debug\WhileLoopExample2.exe
+D:\Lecture\DotNet\C#\Console\WhileLoopExample2\WhileLoopExample2\obj\Debug\WhileLoopExample2.pdb

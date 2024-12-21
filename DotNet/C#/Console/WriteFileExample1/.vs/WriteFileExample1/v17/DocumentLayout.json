@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\WriteFileExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F2A4B-C6FD-4CBD-8F14-7529523259AF}|WriteFileExample1\\WriteFileExample1.csproj|d:\\lecture\\dotnet\\c#\\console\\writefileexample1\\writefileexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36F2A4B-C6FD-4CBD-8F14-7529523259AF}|WriteFileExample1\\WriteFileExample1.csproj|solutionrelative:writefileexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\WriteFileExample1\\WriteFileExample1\\Program.cs",
+              "RelativeDocumentMoniker": "WriteFileExample1\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\WriteFileExample1\\WriteFileExample1\\Program.cs",
+              "RelativeToolTip": "WriteFileExample1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:40:08.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

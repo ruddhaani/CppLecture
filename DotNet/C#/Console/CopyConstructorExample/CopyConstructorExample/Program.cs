@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CopyConstructorExample
 {
     internal class Program
-    {
+    {   
         static void Main(string[] args)
         {
             Employee employeeObj1 = new Employee();

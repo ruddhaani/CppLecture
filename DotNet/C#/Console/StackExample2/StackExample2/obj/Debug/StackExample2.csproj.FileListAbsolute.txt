@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\obj\Debug\StackExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\obj\Debug\StackExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\bin\Debug\StackExample2.exe.config
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\bin\Debug\StackExample2.exe
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\bin\Debug\StackExample2.pdb
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\obj\Debug\StackExample2.exe
+D:\Lecture\DotNet\C#\Console\StackExample2\StackExample2\obj\Debug\StackExample2.pdb

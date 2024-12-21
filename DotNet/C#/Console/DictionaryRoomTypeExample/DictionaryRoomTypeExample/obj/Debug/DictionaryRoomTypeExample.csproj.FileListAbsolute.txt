@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\bin\Debug\DictionaryRoomTypeExample.exe.config
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\bin\Debug\DictionaryRoomTypeExample.exe
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\bin\Debug\DictionaryRoomTypeExample.pdb
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\obj\Debug\DictionaryRoomTypeExample.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\obj\Debug\DictionaryRoomTypeExample.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\obj\Debug\DictionaryRoomTypeExample.exe
+D:\Lecture\DotNet\C#\Console\DictionaryRoomTypeExample\DictionaryRoomTypeExample\obj\Debug\DictionaryRoomTypeExample.pdb

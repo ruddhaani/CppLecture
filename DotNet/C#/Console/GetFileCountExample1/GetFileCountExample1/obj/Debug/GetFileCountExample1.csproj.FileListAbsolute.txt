@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\bin\Debug\GetFileCountExample1.exe.config
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\bin\Debug\GetFileCountExample1.exe
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\bin\Debug\GetFileCountExample1.pdb
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\obj\Debug\GetFileCountExample1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\obj\Debug\GetFileCountExample1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\obj\Debug\GetFileCountExample1.exe
+D:\Lecture\DotNet\C#\Console\GetFileCountExample1\GetFileCountExample1\obj\Debug\GetFileCountExample1.pdb

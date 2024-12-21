@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\bin\Debug\StaticConstructorExample2.exe.config
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\bin\Debug\StaticConstructorExample2.exe
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\bin\Debug\StaticConstructorExample2.pdb
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\obj\Debug\StaticConstructorExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\obj\Debug\StaticConstructorExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\obj\Debug\StaticConstructorExample2.exe
+D:\Lecture\DotNet\C#\Console\StaticConstructorExample2\StaticConstructorExample2\obj\Debug\StaticConstructorExample2.pdb

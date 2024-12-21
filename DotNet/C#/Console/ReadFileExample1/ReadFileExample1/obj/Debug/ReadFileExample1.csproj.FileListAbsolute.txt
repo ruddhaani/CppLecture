@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\bin\Debug\ReadFileExample1.exe.config
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\bin\Debug\ReadFileExample1.exe
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\bin\Debug\ReadFileExample1.pdb
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\obj\Debug\ReadFileExample1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\obj\Debug\ReadFileExample1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\obj\Debug\ReadFileExample1.exe
+D:\Lecture\DotNet\C#\Console\ReadFileExample1\ReadFileExample1\obj\Debug\ReadFileExample1.pdb

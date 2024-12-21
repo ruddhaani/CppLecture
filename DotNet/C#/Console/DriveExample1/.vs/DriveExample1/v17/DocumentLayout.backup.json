@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\DriveExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C0020A-C5E5-4F95-A83B-EE1D95FF140F}|DriveExample1\\DriveExample1.csproj|d:\\lecture\\dotnet\\c#\\console\\driveexample1\\driveexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C0020A-C5E5-4F95-A83B-EE1D95FF140F}|DriveExample1\\DriveExample1.csproj|solutionrelative:driveexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\DriveExample1\\DriveExample1\\Program.cs",
+              "RelativeDocumentMoniker": "DriveExample1\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\DriveExample1\\DriveExample1\\Program.cs",
+              "RelativeToolTip": "DriveExample1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:08:03.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

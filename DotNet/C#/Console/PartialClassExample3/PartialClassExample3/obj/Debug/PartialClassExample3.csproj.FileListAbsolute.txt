@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\bin\Debug\PartialClassExample3.exe.config
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\bin\Debug\PartialClassExample3.exe
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\bin\Debug\PartialClassExample3.pdb
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\obj\Debug\PartialClassExample3.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\obj\Debug\PartialClassExample3.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\obj\Debug\PartialClassExample3.exe
+D:\Lecture\DotNet\C#\Console\PartialClassExample3\PartialClassExample3\obj\Debug\PartialClassExample3.pdb

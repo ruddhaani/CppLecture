@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\GetFileCountExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC064BAC-F455-4BD3-98AF-04D40FDC5DE9}|GetFileCountExample1\\GetFileCountExample1.csproj|d:\\lecture\\dotnet\\c#\\console\\getfilecountexample1\\getfilecountexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC064BAC-F455-4BD3-98AF-04D40FDC5DE9}|GetFileCountExample1\\GetFileCountExample1.csproj|solutionrelative:getfilecountexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\GetFileCountExample1\\GetFileCountExample1\\Program.cs",
+              "RelativeDocumentMoniker": "GetFileCountExample1\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\GetFileCountExample1\\GetFileCountExample1\\Program.cs",
+              "RelativeToolTip": "GetFileCountExample1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:58:42.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

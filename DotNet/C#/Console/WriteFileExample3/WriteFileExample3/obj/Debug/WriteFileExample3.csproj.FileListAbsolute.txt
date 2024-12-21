@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\bin\Debug\WriteFileExample3.exe.config
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\bin\Debug\WriteFileExample3.exe
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\bin\Debug\WriteFileExample3.pdb
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\obj\Debug\WriteFileExample3.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\obj\Debug\WriteFileExample3.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\obj\Debug\WriteFileExample3.exe
+D:\Lecture\DotNet\C#\Console\WriteFileExample3\WriteFileExample3\obj\Debug\WriteFileExample3.pdb

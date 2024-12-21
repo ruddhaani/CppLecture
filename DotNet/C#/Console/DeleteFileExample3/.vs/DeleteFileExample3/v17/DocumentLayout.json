@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\DeleteFileExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1046D5-BCED-4934-B037-E571F2D98877}|DeleteFileExample3\\DeleteFileExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\deletefileexample3\\deletefileexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1046D5-BCED-4934-B037-E571F2D98877}|DeleteFileExample3\\DeleteFileExample3.csproj|solutionrelative:deletefileexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\DeleteFileExample3\\DeleteFileExample3\\Program.cs",
+              "RelativeDocumentMoniker": "DeleteFileExample3\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\DeleteFileExample3\\DeleteFileExample3\\Program.cs",
+              "RelativeToolTip": "DeleteFileExample3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:14:39.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

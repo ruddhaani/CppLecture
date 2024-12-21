@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1E8BA-E359-48D4-B773-D5B18AB9AC84}|PartialClassExample3\\PartialClassExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\partialclassexample3\\partialclassexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1E8BA-E359-48D4-B773-D5B18AB9AC84}|PartialClassExample3\\PartialClassExample3.csproj|solutionrelative:partialclassexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1E8BA-E359-48D4-B773-D5B18AB9AC84}|PartialClassExample3\\PartialClassExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\partialclassexample3\\partialclassexample3\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1E8BA-E359-48D4-B773-D5B18AB9AC84}|PartialClassExample3\\PartialClassExample3.csproj|solutionrelative:partialclassexample3\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1E8BA-E359-48D4-B773-D5B18AB9AC84}|PartialClassExample3\\PartialClassExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\partialclassexample3\\partialclassexample3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1E8BA-E359-48D4-B773-D5B18AB9AC84}|PartialClassExample3\\PartialClassExample3.csproj|solutionrelative:partialclassexample3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\PartialClassExample3\\Developer.cs",
+              "RelativeDocumentMoniker": "PartialClassExample3\\Developer.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\PartialClassExample3\\Developer.cs",
+              "RelativeToolTip": "PartialClassExample3\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:54:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\PartialClassExample3\\Employee.cs",
+              "RelativeDocumentMoniker": "PartialClassExample3\\Employee.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\PartialClassExample3\\Employee.cs",
+              "RelativeToolTip": "PartialClassExample3\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:53:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\PartialClassExample3\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClassExample3\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\PartialClassExample3\\PartialClassExample3\\Program.cs",
+              "RelativeToolTip": "PartialClassExample3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:53:26.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\bin\Debug\StaticClassExample2.exe.config
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\bin\Debug\StaticClassExample2.exe
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\bin\Debug\StaticClassExample2.pdb
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\obj\Debug\StaticClassExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\obj\Debug\StaticClassExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\obj\Debug\StaticClassExample2.exe
+D:\Lecture\DotNet\C#\Console\StaticClassExample2\StaticClassExample2\obj\Debug\StaticClassExample2.pdb

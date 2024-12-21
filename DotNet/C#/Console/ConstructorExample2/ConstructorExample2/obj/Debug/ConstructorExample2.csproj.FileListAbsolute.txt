@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\obj\Debug\ConstructorExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\obj\Debug\ConstructorExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\bin\Debug\ConstructorExample2.exe.config
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\bin\Debug\ConstructorExample2.exe
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\bin\Debug\ConstructorExample2.pdb
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\obj\Debug\ConstructorExample2.exe
+D:\Lecture\DotNet\C#\Console\ConstructorExample2\ConstructorExample2\obj\Debug\ConstructorExample2.pdb

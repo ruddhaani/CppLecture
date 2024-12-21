@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D186CD-C1B0-4014-812B-D2B7DFEBCEAB}|SingleInheritanceExample3\\SingleInheritanceExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\singleinheritanceexample3\\singleinheritanceexample3\\snehal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D186CD-C1B0-4014-812B-D2B7DFEBCEAB}|SingleInheritanceExample3\\SingleInheritanceExample3.csproj|solutionrelative:singleinheritanceexample3\\snehal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D186CD-C1B0-4014-812B-D2B7DFEBCEAB}|SingleInheritanceExample3\\SingleInheritanceExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\singleinheritanceexample3\\singleinheritanceexample3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D186CD-C1B0-4014-812B-D2B7DFEBCEAB}|SingleInheritanceExample3\\SingleInheritanceExample3.csproj|solutionrelative:singleinheritanceexample3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D186CD-C1B0-4014-812B-D2B7DFEBCEAB}|SingleInheritanceExample3\\SingleInheritanceExample3.csproj|d:\\lecture\\dotnet\\c#\\console\\singleinheritanceexample3\\singleinheritanceexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D186CD-C1B0-4014-812B-D2B7DFEBCEAB}|SingleInheritanceExample3\\SingleInheritanceExample3.csproj|solutionrelative:singleinheritanceexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snehal.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\SingleInheritanceExample3\\Snehal.cs",
+              "RelativeDocumentMoniker": "SingleInheritanceExample3\\Snehal.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\SingleInheritanceExample3\\Snehal.cs",
+              "RelativeToolTip": "SingleInheritanceExample3\\Snehal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:18:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\SingleInheritanceExample3\\Animal.cs",
+              "RelativeDocumentMoniker": "SingleInheritanceExample3\\Animal.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\SingleInheritanceExample3\\Animal.cs",
+              "RelativeToolTip": "SingleInheritanceExample3\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:18:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\SingleInheritanceExample3\\Program.cs",
+              "RelativeDocumentMoniker": "SingleInheritanceExample3\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\SingleInheritanceExample3\\SingleInheritanceExample3\\Program.cs",
+              "RelativeToolTip": "SingleInheritanceExample3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:17:56.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

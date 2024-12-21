@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\bin\Debug\SortedListExampleNonGeneric1.exe.config
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\bin\Debug\SortedListExampleNonGeneric1.exe
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\bin\Debug\SortedListExampleNonGeneric1.pdb
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\obj\Debug\SortedListExampleNonGeneric1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\obj\Debug\SortedListExampleNonGeneric1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\obj\Debug\SortedListExampleNonGeneric1.exe
+D:\Lecture\DotNet\C#\Console\SortedListExampleNonGeneric1\SortedListExampleNonGeneric1\obj\Debug\SortedListExampleNonGeneric1.pdb

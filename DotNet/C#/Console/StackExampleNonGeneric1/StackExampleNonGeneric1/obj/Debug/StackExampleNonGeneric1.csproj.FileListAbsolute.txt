@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\bin\Debug\StackExampleNonGeneric1.exe.config
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\bin\Debug\StackExampleNonGeneric1.exe
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\bin\Debug\StackExampleNonGeneric1.pdb
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\obj\Debug\StackExampleNonGeneric1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\obj\Debug\StackExampleNonGeneric1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\obj\Debug\StackExampleNonGeneric1.exe
+D:\Lecture\DotNet\C#\Console\StackExampleNonGeneric1\StackExampleNonGeneric1\obj\Debug\StackExampleNonGeneric1.pdb

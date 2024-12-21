@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\bin\Debug\CreateDirectoryExample2.exe.config
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\bin\Debug\CreateDirectoryExample2.exe
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\bin\Debug\CreateDirectoryExample2.pdb
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\obj\Debug\CreateDirectoryExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\obj\Debug\CreateDirectoryExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\obj\Debug\CreateDirectoryExample2.exe
+D:\Lecture\DotNet\C#\Console\CreateDirectoryExample2\CreateDirectoryExample2\obj\Debug\CreateDirectoryExample2.pdb

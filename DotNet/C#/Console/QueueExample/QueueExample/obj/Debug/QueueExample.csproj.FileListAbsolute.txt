@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+D:\Lecture\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.pdb

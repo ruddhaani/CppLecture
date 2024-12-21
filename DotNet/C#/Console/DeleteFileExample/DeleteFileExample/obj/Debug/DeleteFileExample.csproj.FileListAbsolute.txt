@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\bin\Debug\DeleteFileExample.exe.config
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\bin\Debug\DeleteFileExample.exe
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\bin\Debug\DeleteFileExample.pdb
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\obj\Debug\DeleteFileExample.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\obj\Debug\DeleteFileExample.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\obj\Debug\DeleteFileExample.exe
+D:\Lecture\DotNet\C#\Console\DeleteFileExample\DeleteFileExample\obj\Debug\DeleteFileExample.pdb

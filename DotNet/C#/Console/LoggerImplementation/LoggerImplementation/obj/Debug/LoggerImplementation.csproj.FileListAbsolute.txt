@@ -1,0 +1,10 @@
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\bin\Debug\LoggerImplementation.exe.config
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\bin\Debug\LoggerImplementation.exe
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\bin\Debug\LoggerImplementation.pdb
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\bin\Debug\Logger.dll
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\bin\Debug\Logger.pdb
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerIm.F8C688BC.Up2Date
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.exe
+D:\Lecture\DotNet\C#\Console\LoggerImplementation\LoggerImplementation\obj\Debug\LoggerImplementation.pdb

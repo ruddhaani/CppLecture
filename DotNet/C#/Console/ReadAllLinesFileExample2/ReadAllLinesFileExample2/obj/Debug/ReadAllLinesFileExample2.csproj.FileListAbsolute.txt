@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\bin\Debug\ReadAllLinesFileExample2.exe.config
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\bin\Debug\ReadAllLinesFileExample2.exe
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\bin\Debug\ReadAllLinesFileExample2.pdb
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\obj\Debug\ReadAllLinesFileExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\obj\Debug\ReadAllLinesFileExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\obj\Debug\ReadAllLinesFileExample2.exe
+D:\Lecture\DotNet\C#\Console\ReadAllLinesFileExample2\ReadAllLinesFileExample2\obj\Debug\ReadAllLinesFileExample2.pdb

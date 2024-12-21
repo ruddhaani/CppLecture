@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\MethodOverloadingExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C95B82-CE54-40D3-B8C8-9494E531EB08}|MethodOverloadingExample2\\MethodOverloadingExample2.csproj|d:\\lecture\\dotnet\\c#\\console\\methodoverloadingexample2\\methodoverloadingexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C95B82-CE54-40D3-B8C8-9494E531EB08}|MethodOverloadingExample2\\MethodOverloadingExample2.csproj|solutionrelative:methodoverloadingexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C95B82-CE54-40D3-B8C8-9494E531EB08}|MethodOverloadingExample2\\MethodOverloadingExample2.csproj|d:\\lecture\\dotnet\\c#\\console\\methodoverloadingexample2\\methodoverloadingexample2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C95B82-CE54-40D3-B8C8-9494E531EB08}|MethodOverloadingExample2\\MethodOverloadingExample2.csproj|solutionrelative:methodoverloadingexample2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MethodOverloadingExample2\\MethodOverloadingExample2\\Calculator.cs",
+              "RelativeDocumentMoniker": "MethodOverloadingExample2\\Calculator.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MethodOverloadingExample2\\MethodOverloadingExample2\\Calculator.cs",
+              "RelativeToolTip": "MethodOverloadingExample2\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:20:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\MethodOverloadingExample2\\MethodOverloadingExample2\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverloadingExample2\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\MethodOverloadingExample2\\MethodOverloadingExample2\\Program.cs",
+              "RelativeToolTip": "MethodOverloadingExample2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:20:33.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

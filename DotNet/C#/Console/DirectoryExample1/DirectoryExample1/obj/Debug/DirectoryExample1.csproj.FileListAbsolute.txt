@@ -1,0 +1,10 @@
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\bin\Debug\DirectoryExample1.exe.config
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\bin\Debug\DirectoryExample1.exe
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\bin\Debug\DirectoryExample1.pdb
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\obj\Debug\DirectoryExample1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\obj\Debug\DirectoryExample1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\obj\Debug\DirectoryExample1.exe
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\obj\Debug\DirectoryExample1.pdb
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\bin\Debug\FileManagement.dll
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\bin\Debug\FileManagement.pdb
+D:\Lecture\DotNet\C#\Console\DirectoryExample1\DirectoryExample1\obj\Debug\Director.D393C86A.Up2Date
