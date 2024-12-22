@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\bin\Debug\FileExample1.exe.config
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\bin\Debug\FileExample1.exe
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\bin\Debug\FileExample1.pdb
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\obj\Debug\FileExample1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\obj\Debug\FileExample1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\obj\Debug\FileExample1.exe
+D:\Lecture\DotNet\C#\Console\FileExample1\FileExample1\obj\Debug\FileExample1.pdb
