@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\bin\Debug\ArrayExampleInput1.exe.config
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\bin\Debug\ArrayExampleInput1.exe
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\bin\Debug\ArrayExampleInput1.pdb
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\obj\Debug\ArrayExampleInput1.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\obj\Debug\ArrayExampleInput1.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\obj\Debug\ArrayExampleInput1.exe
+D:\Lecture\DotNet\C#\Console\ArrayExampleInput1\ArrayExampleInput1\obj\Debug\ArrayExampleInput1.pdb

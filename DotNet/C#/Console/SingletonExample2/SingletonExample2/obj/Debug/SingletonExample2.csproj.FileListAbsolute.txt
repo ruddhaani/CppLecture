@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\bin\Debug\SingletonExample2.exe.config
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\bin\Debug\SingletonExample2.exe
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\bin\Debug\SingletonExample2.pdb
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\obj\Debug\SingletonExample2.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\obj\Debug\SingletonExample2.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\obj\Debug\SingletonExample2.exe
+D:\Lecture\DotNet\C#\Console\SingletonExample2\SingletonExample2\obj\Debug\SingletonExample2.pdb

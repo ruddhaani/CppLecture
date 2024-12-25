@@ -1,0 +1,7 @@
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\bin\Debug\StringMutableOrImmutable.exe.config
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\bin\Debug\StringMutableOrImmutable.exe
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\bin\Debug\StringMutableOrImmutable.pdb
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.csproj.AssemblyReference.cache
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.csproj.CoreCompileInputs.cache
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.exe
+D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.pdb

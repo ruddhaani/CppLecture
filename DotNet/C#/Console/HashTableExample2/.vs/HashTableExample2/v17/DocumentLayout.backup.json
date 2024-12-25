@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\HashTableExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865D36B3-4FFA-447D-9CD5-D200122BB7BD}|HashTableExample2\\HashTableExample2.csproj|d:\\lecture\\dotnet\\c#\\console\\hashtableexample2\\hashtableexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865D36B3-4FFA-447D-9CD5-D200122BB7BD}|HashTableExample2\\HashTableExample2.csproj|solutionrelative:hashtableexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\HashTableExample2\\HashTableExample2\\Program.cs",
+              "RelativeDocumentMoniker": "HashTableExample2\\Program.cs",
+              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\HashTableExample2\\HashTableExample2\\Program.cs",
+              "RelativeToolTip": "HashTableExample2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:48:02.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
