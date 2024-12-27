@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90764894-5465-4407-AF87-CEA00E3DD776}|EventExample1\\EventExample1.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\eventexample1\\eventexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90764894-5465-4407-AF87-CEA00E3DD776}|EventExample1\\EventExample1.csproj|solutionrelative:eventexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90764894-5465-4407-AF87-CEA00E3DD776}|EventExample1\\EventExample1.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\eventexample1\\eventexample1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90764894-5465-4407-AF87-CEA00E3DD776}|EventExample1\\EventExample1.csproj|solutionrelative:eventexample1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90764894-5465-4407-AF87-CEA00E3DD776}|EventExample1\\EventExample1.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\eventexample1\\eventexample1\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90764894-5465-4407-AF87-CEA00E3DD776}|EventExample1\\EventExample1.csproj|solutionrelative:eventexample1\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\EventExample1\\Subscriber.cs",
+              "RelativeDocumentMoniker": "EventExample1\\Subscriber.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\EventExample1\\Subscriber.cs",
+              "RelativeToolTip": "EventExample1\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:35:11.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\EventExample1\\Publisher.cs",
+              "RelativeDocumentMoniker": "EventExample1\\Publisher.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\EventExample1\\Publisher.cs",
+              "RelativeToolTip": "EventExample1\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:33:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\EventExample1\\Program.cs",
+              "RelativeDocumentMoniker": "EventExample1\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventExample1\\EventExample1\\Program.cs",
+              "RelativeToolTip": "EventExample1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:32:41.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
