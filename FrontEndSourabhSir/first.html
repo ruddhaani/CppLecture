@@ -1,0 +1,103 @@
+<html>
+  <head>
+    <title>First Program</title>
+  </head>
+  <style>
+    table,
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+  </style>
+  <body>
+    <form action="">
+      <label for="input1">Name<span style="color: red">*</span>: </label
+      ><input
+        type="text"
+        name="input1"
+        id="input1"
+        placeholder="Enter Name"
+        required
+      />
+      <br />
+      <label for="input2">Email<span style="color: red">*</span>: </label
+      ><input
+        type="email"
+        name="input2"
+        id="input2"
+        placeholder="Enter Email"
+      /><br />
+      <label for="input3">Age<span style="color: red">*</span>: </label
+      ><input
+        type="number"
+        name="input3"
+        id="input3"
+        placeholder="Enter Phone Number"
+      /><br />
+      <label for="gender"> Gender: </label>
+      <input type="radio" id="gender" name="gender" />Male
+      <input type="radio" id="gender" name="gender" /> Female
+      <br />
+      <label for="country">Country</label>
+      <select name="" id="country">
+        <option value="">US</option>
+        <option value="">UK</option>
+        <option value="">India</option>
+      </select>
+      <br />
+      <label for="checkbox">Gender: </label>
+      <input type="checkbox" id="male" /> Male
+      <input type="checkbox" id="female" /> Female
+      <br />
+      <label for="textarea">Address: </label>
+      <textarea name="" id="textarea"></textarea>
+      <br />
+      <br />
+      <button style="background-color: green; color: white; border: none">
+        Submit
+      </button>
+    </form>
+
+    <h3>Employee Information</h3>
+    <table>
+      <tr>
+        <th>Department</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Action</th>
+      </tr>
+
+      <tr>
+        <td rowspan="2">IT</td>
+        <td>Abc</td>
+        <td>abc@g.com</td>
+        <td>937539858</td>
+        <td>Edit/Delete</td>
+      </tr>
+      <tr>
+        <td>XYZ</td>
+        <td>abc@g.com</td>
+        <td>937539858</td>
+        <td>Edit/Delete</td>
+      </tr>
+      <tr>
+        <td rowspan="2">HR</td>
+        <td>PQR</td>
+        <td>abc@g.com</td>
+        <td>937539858</td>
+        <td>Edit/Delete</td>
+      </tr>
+
+      <tr>
+        <td>LMN</td>
+        <td>abc@g.com</td>
+        <td>937539858</td>
+        <td>Edit/Delete</td>
+      </tr>
+    </table>
+
+    <br />
+  </body>
+</html>
