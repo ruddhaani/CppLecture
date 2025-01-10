@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\CountVowels\CountVowels\bin\Debug\CountVowels.exe.config
+E:\DotNet\C#\Console\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+E:\DotNet\C#\Console\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+E:\DotNet\C#\Console\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\CountVowels\CountVowels\obj\Debug\CountVowels.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\CountVowels\CountVowels\obj\Debug\CountVowels.exe
+E:\DotNet\C#\Console\CountVowels\CountVowels\obj\Debug\CountVowels.pdb

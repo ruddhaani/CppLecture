@@ -1,0 +1,10 @@
+E:\DotNet\C#\Console\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+E:\DotNet\C#\Console\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+E:\DotNet\C#\Console\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+E:\DotNet\C#\Console\FileOperations\FileOperations\bin\Debug\FileManagement.dll
+E:\DotNet\C#\Console\FileOperations\FileOperations\bin\Debug\FileManagement.pdb
+E:\DotNet\C#\Console\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\FileOperations\FileOperations\obj\Debug\FileOper.DD5C2DC9.Up2Date
+E:\DotNet\C#\Console\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+E:\DotNet\C#\Console\FileOperations\FileOperations\obj\Debug\FileOperations.pdb

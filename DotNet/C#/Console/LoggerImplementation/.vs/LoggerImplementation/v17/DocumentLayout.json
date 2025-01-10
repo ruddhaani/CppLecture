@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\LoggerImplementation\\",
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\LoggerImplementation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED1E2D77-6E4D-4800-8790-976C496D9789}|LoggerImplementation\\LoggerImplementation.csproj|d:\\lecture\\dotnet\\c#\\console\\loggerimplementation\\loggerimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED1E2D77-6E4D-4800-8790-976C496D9789}|LoggerImplementation\\LoggerImplementation.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\loggerimplementation\\loggerimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED1E2D77-6E4D-4800-8790-976C496D9789}|LoggerImplementation\\LoggerImplementation.csproj|solutionrelative:loggerimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\LoggerImplementation\\LoggerImplementation\\Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\LoggerImplementation\\LoggerImplementation\\Program.cs",
               "RelativeDocumentMoniker": "LoggerImplementation\\Program.cs",
-              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\LoggerImplementation\\LoggerImplementation\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\LoggerImplementation\\LoggerImplementation\\Program.cs",
               "RelativeToolTip": "LoggerImplementation\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T17:23:25.371Z",
               "EditorCaption": ""

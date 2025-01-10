@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\bin\Debug\ArrayListExample2.exe.config
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\bin\Debug\ArrayListExample2.exe
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\bin\Debug\ArrayListExample2.pdb
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\obj\Debug\ArrayListExample2.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\obj\Debug\ArrayListExample2.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\obj\Debug\ArrayListExample2.exe
+E:\DotNet\C#\Console\ArrayListExample2\ArrayListExample2\obj\Debug\ArrayListExample2.pdb

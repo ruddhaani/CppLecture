@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\bin\Debug\IsNoPositive.exe.config
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\bin\Debug\IsNoPositive.exe
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\bin\Debug\IsNoPositive.pdb
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\obj\Debug\IsNoPositive.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\obj\Debug\IsNoPositive.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\obj\Debug\IsNoPositive.exe
+E:\DotNet\C#\Console\IsNoPositive\IsNoPositive\obj\Debug\IsNoPositive.pdb

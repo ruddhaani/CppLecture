@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\bin\Debug\MultiDimensionalArrays120.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\bin\Debug\MultiDimensionalArrays120.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\bin\Debug\MultiDimensionalArrays120.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\obj\Debug\MultiDimensionalArrays120.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\obj\Debug\MultiDimensionalArrays120.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\obj\Debug\MultiDimensionalArrays120.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrays120\MultiDimensionalArrays120\obj\Debug\MultiDimensionalArrays120.pdb

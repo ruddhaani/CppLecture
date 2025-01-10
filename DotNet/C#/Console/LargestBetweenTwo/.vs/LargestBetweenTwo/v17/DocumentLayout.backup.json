@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\LargestBetweenTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{322046EA-0E36-4B1D-B2EB-4DA688D60A7F}|LargestBetweenTwo\\LargestBetweenTwo.csproj|e:\\dotnet\\c#\\console\\largestbetweentwo\\largestbetweentwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322046EA-0E36-4B1D-B2EB-4DA688D60A7F}|LargestBetweenTwo\\LargestBetweenTwo.csproj|solutionrelative:largestbetweentwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\LargestBetweenTwo\\LargestBetweenTwo\\Program.cs",
+              "RelativeDocumentMoniker": "LargestBetweenTwo\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\LargestBetweenTwo\\LargestBetweenTwo\\Program.cs*",
+              "RelativeToolTip": "LargestBetweenTwo\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:52:07.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

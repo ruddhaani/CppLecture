@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\bin\Debug\additionUserInput.exe.config
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\bin\Debug\additionUserInput.exe
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\bin\Debug\additionUserInput.pdb
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\obj\Debug\additionUserInput.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\obj\Debug\additionUserInput.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\obj\Debug\additionUserInput.exe
+E:\DotNet\C#\Console\additionUserInput\additionUserInput\obj\Debug\additionUserInput.pdb

@@ -5,3 +5,10 @@ D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\o
 D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.csproj.CoreCompileInputs.cache
 D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.exe
 D:\Lecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\bin\Debug\StringMutableOrImmutable.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\bin\Debug\StringMutableOrImmutable.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\bin\Debug\StringMutableOrImmutable.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StringMutableOrImmutable\StringMutableOrImmutable\obj\Debug\StringMutableOrImmutable.pdb

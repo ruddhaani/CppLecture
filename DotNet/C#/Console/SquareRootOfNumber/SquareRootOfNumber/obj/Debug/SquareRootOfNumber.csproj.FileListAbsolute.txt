@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.exe.config
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.exe
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.pdb
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\obj\Debug\SquareRootOfNumber.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\obj\Debug\SquareRootOfNumber.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\obj\Debug\SquareRootOfNumber.exe
+E:\DotNet\C#\Console\SquareRootOfNumber\SquareRootOfNumber\obj\Debug\SquareRootOfNumber.pdb

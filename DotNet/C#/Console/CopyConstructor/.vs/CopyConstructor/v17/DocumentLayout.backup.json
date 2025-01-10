@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\CopyConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EB81A8-FE49-4DDF-AE58-A375122A17F6}|CopyConstructor\\CopyConstructor.csproj|e:\\dotnet\\c#\\console\\copyconstructor\\copyconstructor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EB81A8-FE49-4DDF-AE58-A375122A17F6}|CopyConstructor\\CopyConstructor.csproj|solutionrelative:copyconstructor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EB81A8-FE49-4DDF-AE58-A375122A17F6}|CopyConstructor\\CopyConstructor.csproj|E:\\DotNet\\C#\\Console\\CopyConstructor\\copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EB81A8-FE49-4DDF-AE58-A375122A17F6}|CopyConstructor\\CopyConstructor.csproj|solutionrelative:copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\CopyConstructor\\CopyConstructor\\Employee.cs",
+              "RelativeDocumentMoniker": "CopyConstructor\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\CopyConstructor\\CopyConstructor\\Employee.cs",
+              "RelativeToolTip": "CopyConstructor\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:56:58.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\CopyConstructor\\CopyConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "CopyConstructor\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\CopyConstructor\\CopyConstructor\\Program.cs",
+              "RelativeToolTip": "CopyConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:56:27.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

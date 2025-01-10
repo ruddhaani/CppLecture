@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\IsNoPositive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59115FB1-A4BF-4010-8652-4EF56FD6EFAA}|IsNoPositive\\IsNoPositive.csproj|e:\\dotnet\\c#\\console\\isnopositive\\isnopositive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59115FB1-A4BF-4010-8652-4EF56FD6EFAA}|IsNoPositive\\IsNoPositive.csproj|solutionrelative:isnopositive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\IsNoPositive\\IsNoPositive\\Program.cs",
+              "RelativeDocumentMoniker": "IsNoPositive\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\IsNoPositive\\IsNoPositive\\Program.cs",
+              "RelativeToolTip": "IsNoPositive\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:35:01.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

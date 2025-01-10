@@ -1,0 +1,6 @@
+E:\DotNet\C#\Console\Bank details\Bank details\bin\Debug\Bank details.dll
+E:\DotNet\C#\Console\Bank details\Bank details\bin\Debug\Bank details.pdb
+E:\DotNet\C#\Console\Bank details\Bank details\obj\Debug\Bank details.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\Bank details\Bank details\obj\Debug\Bank details.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\Bank details\Bank details\obj\Debug\Bank details.dll
+E:\DotNet\C#\Console\Bank details\Bank details\obj\Debug\Bank details.pdb

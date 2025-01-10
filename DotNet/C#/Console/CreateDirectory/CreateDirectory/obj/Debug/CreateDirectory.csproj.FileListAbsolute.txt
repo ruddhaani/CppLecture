@@ -1,0 +1,10 @@
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.exe.config
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.exe
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.pdb
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.exe
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.pdb
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\bin\Debug\FileManagement.dll
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\bin\Debug\FileManagement.pdb
+E:\DotNet\C#\Console\CreateDirectory\CreateDirectory\obj\Debug\CreateDi.A185B1A0.Up2Date

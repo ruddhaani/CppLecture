@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\obj\Debug\Dictionary2.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe.config
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\bin\Debug\Dictionary2.exe
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\bin\Debug\Dictionary2.pdb
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\obj\Debug\Dictionary2.exe
+E:\DotNet\C#\Console\Dictionary2\Dictionary2\obj\Debug\Dictionary2.pdb

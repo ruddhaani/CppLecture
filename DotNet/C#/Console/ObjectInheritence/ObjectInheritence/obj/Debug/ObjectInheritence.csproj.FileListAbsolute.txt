@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\bin\Debug\ObjectInheritence.exe.config
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\bin\Debug\ObjectInheritence.exe
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\bin\Debug\ObjectInheritence.pdb
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\obj\Debug\ObjectInheritence.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\obj\Debug\ObjectInheritence.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\obj\Debug\ObjectInheritence.exe
+E:\DotNet\C#\Console\ObjectInheritence\ObjectInheritence\obj\Debug\ObjectInheritence.pdb

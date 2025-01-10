@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\bin\Debug\ArrayListProgram.exe.config
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\bin\Debug\ArrayListProgram.exe
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\bin\Debug\ArrayListProgram.pdb
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\obj\Debug\ArrayListProgram.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\obj\Debug\ArrayListProgram.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\obj\Debug\ArrayListProgram.exe
+E:\DotNet\C#\Console\ArrayListProgram\ArrayListProgram\obj\Debug\ArrayListProgram.pdb

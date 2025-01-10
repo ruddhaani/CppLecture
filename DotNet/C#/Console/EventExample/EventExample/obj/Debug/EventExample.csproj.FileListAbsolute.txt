@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\EventExample\EventExample\bin\Debug\EventExample.exe.config
+E:\DotNet\C#\Console\EventExample\EventExample\bin\Debug\EventExample.exe
+E:\DotNet\C#\Console\EventExample\EventExample\bin\Debug\EventExample.pdb
+E:\DotNet\C#\Console\EventExample\EventExample\obj\Debug\EventExample.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\EventExample\EventExample\obj\Debug\EventExample.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\EventExample\EventExample\obj\Debug\EventExample.exe
+E:\DotNet\C#\Console\EventExample\EventExample\obj\Debug\EventExample.pdb

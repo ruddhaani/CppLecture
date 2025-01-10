@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1627A76C-414A-4EF0-A4C5-56CC42CFF68C}|ObjectInheritence\\ObjectInheritence.csproj|e:\\dotnet\\c#\\console\\objectinheritence\\objectinheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1627A76C-414A-4EF0-A4C5-56CC42CFF68C}|ObjectInheritence\\ObjectInheritence.csproj|solutionrelative:objectinheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1627A76C-414A-4EF0-A4C5-56CC42CFF68C}|ObjectInheritence\\ObjectInheritence.csproj|e:\\dotnet\\c#\\console\\objectinheritence\\objectinheritence\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1627A76C-414A-4EF0-A4C5-56CC42CFF68C}|ObjectInheritence\\ObjectInheritence.csproj|solutionrelative:objectinheritence\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1627A76C-414A-4EF0-A4C5-56CC42CFF68C}|ObjectInheritence\\ObjectInheritence.csproj|e:\\dotnet\\c#\\console\\objectinheritence\\objectinheritence\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1627A76C-414A-4EF0-A4C5-56CC42CFF68C}|ObjectInheritence\\ObjectInheritence.csproj|solutionrelative:objectinheritence\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassB.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\ObjectInheritence\\ClassB.cs",
+              "RelativeDocumentMoniker": "ObjectInheritence\\ClassB.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\ObjectInheritence\\ClassB.cs",
+              "RelativeToolTip": "ObjectInheritence\\ClassB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:02:40.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassA.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\ObjectInheritence\\ClassA.cs",
+              "RelativeDocumentMoniker": "ObjectInheritence\\ClassA.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\ObjectInheritence\\ClassA.cs",
+              "RelativeToolTip": "ObjectInheritence\\ClassA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:01:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\ObjectInheritence\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectInheritence\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ObjectInheritence\\ObjectInheritence\\Program.cs*",
+              "RelativeToolTip": "ObjectInheritence\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:00:14.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

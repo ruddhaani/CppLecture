@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\ConstructorExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A37C7EE6-7CC0-4232-BF10-E7DE32AD553D}|ConstructorExample\\ConstructorExample.csproj|e:\\dotnet\\c#\\console\\constructorexample\\constructorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37C7EE6-7CC0-4232-BF10-E7DE32AD553D}|ConstructorExample\\ConstructorExample.csproj|solutionrelative:constructorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37C7EE6-7CC0-4232-BF10-E7DE32AD553D}|ConstructorExample\\ConstructorExample.csproj|e:\\dotnet\\c#\\console\\constructorexample\\constructorexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37C7EE6-7CC0-4232-BF10-E7DE32AD553D}|ConstructorExample\\ConstructorExample.csproj|solutionrelative:constructorexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ConstructorExample\\ConstructorExample\\Person.cs",
+              "RelativeDocumentMoniker": "ConstructorExample\\Person.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ConstructorExample\\ConstructorExample\\Person.cs*",
+              "RelativeToolTip": "ConstructorExample\\Person.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:44:18.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ConstructorExample\\ConstructorExample\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorExample\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ConstructorExample\\ConstructorExample\\Program.cs*",
+              "RelativeToolTip": "ConstructorExample\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:44:04.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

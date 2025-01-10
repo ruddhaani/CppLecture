@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\bin\Debug\ReverseNumberProgram.exe.config
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\bin\Debug\ReverseNumberProgram.exe
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\bin\Debug\ReverseNumberProgram.pdb
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\obj\Debug\ReverseNumberProgram.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\obj\Debug\ReverseNumberProgram.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\obj\Debug\ReverseNumberProgram.exe
+E:\DotNet\C#\Console\ReverseNumberProgram\ReverseNumberProgram\obj\Debug\ReverseNumberProgram.pdb

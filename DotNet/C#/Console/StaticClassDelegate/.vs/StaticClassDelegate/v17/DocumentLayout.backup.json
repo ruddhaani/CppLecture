@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\StaticClassDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1750A641-C9C8-4410-9E41-7911B5DEB725}|StaticClassDelegate\\StaticClassDelegate.csproj|e:\\dotnet\\c#\\console\\staticclassdelegate\\staticclassdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1750A641-C9C8-4410-9E41-7911B5DEB725}|StaticClassDelegate\\StaticClassDelegate.csproj|solutionrelative:staticclassdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1750A641-C9C8-4410-9E41-7911B5DEB725}|StaticClassDelegate\\StaticClassDelegate.csproj|e:\\dotnet\\c#\\console\\staticclassdelegate\\staticclassdelegate\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1750A641-C9C8-4410-9E41-7911B5DEB725}|StaticClassDelegate\\StaticClassDelegate.csproj|solutionrelative:staticclassdelegate\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\StaticClassDelegate\\StaticClassDelegate\\Content.cs",
+              "RelativeDocumentMoniker": "StaticClassDelegate\\Content.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\StaticClassDelegate\\StaticClassDelegate\\Content.cs*",
+              "RelativeToolTip": "StaticClassDelegate\\Content.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:43:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\StaticClassDelegate\\StaticClassDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClassDelegate\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\StaticClassDelegate\\StaticClassDelegate\\Program.cs*",
+              "RelativeToolTip": "StaticClassDelegate\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:42:48.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

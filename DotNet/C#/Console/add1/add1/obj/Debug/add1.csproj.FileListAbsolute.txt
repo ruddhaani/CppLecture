@@ -1,0 +1,10 @@
+E:\DotNet\C#\Console\add1\add1\bin\Debug\add1.exe.config
+E:\DotNet\C#\Console\add1\add1\bin\Debug\add1.exe
+E:\DotNet\C#\Console\add1\add1\bin\Debug\add1.pdb
+E:\DotNet\C#\Console\add1\add1\bin\Debug\ClassLibrary3.dll
+E:\DotNet\C#\Console\add1\add1\bin\Debug\ClassLibrary3.pdb
+E:\DotNet\C#\Console\add1\add1\obj\Debug\add1.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\add1\add1\obj\Debug\add1.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\add1\add1\obj\Debug\add1.csproj.Up2Date
+E:\DotNet\C#\Console\add1\add1\obj\Debug\add1.exe
+E:\DotNet\C#\Console\add1\add1\obj\Debug\add1.pdb

@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\bin\Debug\StaticClassExample117.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\bin\Debug\StaticClassExample117.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\bin\Debug\StaticClassExample117.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\obj\Debug\StaticClassExample117.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\obj\Debug\StaticClassExample117.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\obj\Debug\StaticClassExample117.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StaticClassExample117\StaticClassExample117\obj\Debug\StaticClassExample117.pdb

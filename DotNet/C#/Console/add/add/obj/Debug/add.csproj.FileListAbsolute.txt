@@ -1,0 +1,10 @@
+E:\DotNet\C#\Console\add\add\bin\Debug\add.exe.config
+E:\DotNet\C#\Console\add\add\bin\Debug\add.exe
+E:\DotNet\C#\Console\add\add\bin\Debug\add.pdb
+E:\DotNet\C#\Console\add\add\bin\Debug\Calculator.dll
+E:\DotNet\C#\Console\add\add\bin\Debug\Calculator.pdb
+E:\DotNet\C#\Console\add\add\obj\Debug\add.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\add\add\obj\Debug\add.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\add\add\obj\Debug\add.csproj.Up2Date
+E:\DotNet\C#\Console\add\add\obj\Debug\add.exe
+E:\DotNet\C#\Console\add\add\obj\Debug\add.pdb

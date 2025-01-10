@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\constructorCalling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F9D55C-124D-447C-A045-0C3F95253891}|constructorCalling\\constructorCalling.csproj|e:\\dotnet\\c#\\console\\constructorcalling\\constructorcalling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F9D55C-124D-447C-A045-0C3F95253891}|constructorCalling\\constructorCalling.csproj|solutionrelative:constructorcalling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F9D55C-124D-447C-A045-0C3F95253891}|constructorCalling\\constructorCalling.csproj|e:\\dotnet\\c#\\console\\constructorcalling\\constructorcalling\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F9D55C-124D-447C-A045-0C3F95253891}|constructorCalling\\constructorCalling.csproj|solutionrelative:constructorcalling\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F9D55C-124D-447C-A045-0C3F95253891}|constructorCalling\\constructorCalling.csproj|e:\\dotnet\\c#\\console\\constructorcalling\\constructorcalling\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F9D55C-124D-447C-A045-0C3F95253891}|constructorCalling\\constructorCalling.csproj|solutionrelative:constructorcalling\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\constructorCalling\\constructorCalling\\Employee.cs",
+              "RelativeDocumentMoniker": "constructorCalling\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\constructorCalling\\constructorCalling\\Employee.cs",
+              "RelativeToolTip": "constructorCalling\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:01:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\constructorCalling\\constructorCalling\\Company.cs",
+              "RelativeDocumentMoniker": "constructorCalling\\Company.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\constructorCalling\\constructorCalling\\Company.cs",
+              "RelativeToolTip": "constructorCalling\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:01:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\constructorCalling\\constructorCalling\\Program.cs",
+              "RelativeDocumentMoniker": "constructorCalling\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\constructorCalling\\constructorCalling\\Program.cs",
+              "RelativeToolTip": "constructorCalling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:01:22.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

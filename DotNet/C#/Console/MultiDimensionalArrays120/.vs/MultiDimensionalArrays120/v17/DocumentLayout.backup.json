@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\MultiDimensionalArrays120\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07FD0DB-D52E-4878-9415-BE1DE297A443}|MultiDimensionalArrays120\\MultiDimensionalArrays120.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\multidimensionalarrays120\\multidimensionalarrays120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07FD0DB-D52E-4878-9415-BE1DE297A443}|MultiDimensionalArrays120\\MultiDimensionalArrays120.csproj|solutionrelative:multidimensionalarrays120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\MultiDimensionalArrays120\\MultiDimensionalArrays120\\Program.cs",
+              "RelativeDocumentMoniker": "MultiDimensionalArrays120\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\MultiDimensionalArrays120\\MultiDimensionalArrays120\\Program.cs*",
+              "RelativeToolTip": "MultiDimensionalArrays120\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:22:18.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

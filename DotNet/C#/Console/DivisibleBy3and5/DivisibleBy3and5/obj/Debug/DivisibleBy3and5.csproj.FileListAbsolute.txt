@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\bin\Debug\DivisibleBy3and5.exe.config
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\bin\Debug\DivisibleBy3and5.exe
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\bin\Debug\DivisibleBy3and5.pdb
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\obj\Debug\DivisibleBy3and5.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\obj\Debug\DivisibleBy3and5.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\obj\Debug\DivisibleBy3and5.exe
+E:\DotNet\C#\Console\DivisibleBy3and5\DivisibleBy3and5\obj\Debug\DivisibleBy3and5.pdb

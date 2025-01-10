@@ -5,3 +5,10 @@ D:\Lecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExamp
 D:\Lecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.csproj.CoreCompileInputs.cache
 D:\Lecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.exe
 D:\Lecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\bin\Debug\StreamExample2.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\bin\Debug\StreamExample2.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\bin\Debug\StreamExample2.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\StreamExample2\StreamExample2\obj\Debug\StreamExample2.pdb

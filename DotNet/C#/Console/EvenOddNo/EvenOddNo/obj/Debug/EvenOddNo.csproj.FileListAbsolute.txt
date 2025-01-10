@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\bin\Debug\EvenOddNo.exe.config
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\bin\Debug\EvenOddNo.exe
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\bin\Debug\EvenOddNo.pdb
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\obj\Debug\EvenOddNo.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\obj\Debug\EvenOddNo.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\obj\Debug\EvenOddNo.exe
+E:\DotNet\C#\Console\EvenOddNo\EvenOddNo\obj\Debug\EvenOddNo.pdb

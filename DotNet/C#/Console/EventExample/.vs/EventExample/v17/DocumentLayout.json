@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\EventExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54AACCB8-F616-4194-BBE9-0BB0B62E8D6F}|EventExample\\EventExample.csproj|e:\\dotnet\\c#\\console\\eventexample\\eventexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AACCB8-F616-4194-BBE9-0BB0B62E8D6F}|EventExample\\EventExample.csproj|solutionrelative:eventexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AACCB8-F616-4194-BBE9-0BB0B62E8D6F}|EventExample\\EventExample.csproj|E:\\DotNet\\C#\\Console\\EventExample\\eventexample\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AACCB8-F616-4194-BBE9-0BB0B62E8D6F}|EventExample\\EventExample.csproj|solutionrelative:eventexample\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AACCB8-F616-4194-BBE9-0BB0B62E8D6F}|EventExample\\EventExample.csproj|E:\\DotNet\\C#\\Console\\EventExample\\eventexample\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AACCB8-F616-4194-BBE9-0BB0B62E8D6F}|EventExample\\EventExample.csproj|solutionrelative:eventexample\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EventExample\\EventExample\\Subscriber.cs",
+              "RelativeDocumentMoniker": "EventExample\\Subscriber.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\EventExample\\EventExample\\Subscriber.cs",
+              "RelativeToolTip": "EventExample\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:00:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EventExample\\EventExample\\Publisher.cs",
+              "RelativeDocumentMoniker": "EventExample\\Publisher.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\EventExample\\EventExample\\Publisher.cs",
+              "RelativeToolTip": "EventExample\\Publisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:57:14.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EventExample\\EventExample\\Program.cs",
+              "RelativeDocumentMoniker": "EventExample\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\EventExample\\EventExample\\Program.cs",
+              "RelativeToolTip": "EventExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:56:59.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

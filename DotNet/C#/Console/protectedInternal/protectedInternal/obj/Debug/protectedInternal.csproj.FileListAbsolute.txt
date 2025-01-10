@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\bin\Debug\protectedInternal.exe.config
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\bin\Debug\protectedInternal.exe
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\bin\Debug\protectedInternal.pdb
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\obj\Debug\protectedInternal.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\obj\Debug\protectedInternal.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\obj\Debug\protectedInternal.exe
+E:\DotNet\C#\Console\protectedInternal\protectedInternal\obj\Debug\protectedInternal.pdb

@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\obj\Debug\InheritanceBaseOption.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\obj\Debug\InheritanceBaseOption.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\bin\Debug\InheritanceBaseOption.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\bin\Debug\InheritanceBaseOption.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\bin\Debug\InheritanceBaseOption.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\obj\Debug\InheritanceBaseOption.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\InheritanceBaseOption\InheritanceBaseOption\obj\Debug\InheritanceBaseOption.pdb

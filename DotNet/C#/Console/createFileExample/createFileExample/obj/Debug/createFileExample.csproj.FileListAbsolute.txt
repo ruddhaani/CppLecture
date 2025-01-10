@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\createFileExample\createFileExample\bin\Debug\createFileExample.exe.config
+E:\DotNet\C#\Console\createFileExample\createFileExample\bin\Debug\createFileExample.exe
+E:\DotNet\C#\Console\createFileExample\createFileExample\bin\Debug\createFileExample.pdb
+E:\DotNet\C#\Console\createFileExample\createFileExample\obj\Debug\createFileExample.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\createFileExample\createFileExample\obj\Debug\createFileExample.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\createFileExample\createFileExample\obj\Debug\createFileExample.exe
+E:\DotNet\C#\Console\createFileExample\createFileExample\obj\Debug\createFileExample.pdb

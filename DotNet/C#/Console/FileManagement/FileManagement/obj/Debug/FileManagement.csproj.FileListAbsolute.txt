@@ -1,0 +1,6 @@
+E:\DotNet\C#\Console\FileManagement\FileManagement\bin\Debug\FileManagement.dll
+E:\DotNet\C#\Console\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+E:\DotNet\C#\Console\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\FileManagement\FileManagement\obj\Debug\FileManagement.dll
+E:\DotNet\C#\Console\FileManagement\FileManagement\obj\Debug\FileManagement.pdb

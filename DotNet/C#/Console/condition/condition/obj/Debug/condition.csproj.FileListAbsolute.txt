@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\condition\condition\bin\Debug\condition.exe.config
+E:\DotNet\C#\Console\condition\condition\bin\Debug\condition.exe
+E:\DotNet\C#\Console\condition\condition\bin\Debug\condition.pdb
+E:\DotNet\C#\Console\condition\condition\obj\Debug\condition.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\condition\condition\obj\Debug\condition.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\condition\condition\obj\Debug\condition.exe
+E:\DotNet\C#\Console\condition\condition\obj\Debug\condition.pdb

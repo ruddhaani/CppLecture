@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\bin\Debug\IsStringPallindrome.exe.config
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\bin\Debug\IsStringPallindrome.exe
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\bin\Debug\IsStringPallindrome.pdb
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\obj\Debug\IsStringPallindrome.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\obj\Debug\IsStringPallindrome.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\obj\Debug\IsStringPallindrome.exe
+E:\DotNet\C#\Console\IsStringPallindrome\IsStringPallindrome\obj\Debug\IsStringPallindrome.pdb

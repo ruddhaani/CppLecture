@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\bin\Debug\FactorsOfNumbers.exe.config
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\bin\Debug\FactorsOfNumbers.exe
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\bin\Debug\FactorsOfNumbers.pdb
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\obj\Debug\FactorsOfNumbers.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\obj\Debug\FactorsOfNumbers.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\obj\Debug\FactorsOfNumbers.exe
+E:\DotNet\C#\Console\FactorsOfNumbers\FactorsOfNumbers\obj\Debug\FactorsOfNumbers.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\bin\Debug\DeleteProjectExample2.exe.config
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\bin\Debug\DeleteProjectExample2.exe
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\bin\Debug\DeleteProjectExample2.pdb
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\obj\Debug\DeleteProjectExample2.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\obj\Debug\DeleteProjectExample2.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\obj\Debug\DeleteProjectExample2.exe
+E:\DotNet\C#\Console\DeleteProjectExample2\DeleteProjectExample2\obj\Debug\DeleteProjectExample2.pdb

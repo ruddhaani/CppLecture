@@ -1,0 +1,10 @@
+E:\DotNet\C#\Console\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\bank\bank\bin\Debug\bank.exe.config
+E:\DotNet\C#\Console\bank\bank\bin\Debug\bank.exe
+E:\DotNet\C#\Console\bank\bank\bin\Debug\bank.pdb
+E:\DotNet\C#\Console\bank\bank\bin\Debug\Bank details.dll
+E:\DotNet\C#\Console\bank\bank\bin\Debug\Bank details.pdb
+E:\DotNet\C#\Console\bank\bank\obj\Debug\bank.csproj.Up2Date
+E:\DotNet\C#\Console\bank\bank\obj\Debug\bank.exe
+E:\DotNet\C#\Console\bank\bank\obj\Debug\bank.pdb

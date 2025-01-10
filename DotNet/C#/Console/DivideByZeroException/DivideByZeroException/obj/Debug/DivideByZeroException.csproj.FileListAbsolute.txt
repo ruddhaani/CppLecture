@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\bin\Debug\DivideByZeroException.exe.config
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\bin\Debug\DivideByZeroException.exe
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\bin\Debug\DivideByZeroException.pdb
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\obj\Debug\DivideByZeroException.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\obj\Debug\DivideByZeroException.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\obj\Debug\DivideByZeroException.exe
+E:\DotNet\C#\Console\DivideByZeroException\DivideByZeroException\obj\Debug\DivideByZeroException.pdb

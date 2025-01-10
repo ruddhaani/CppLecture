@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\bin\Debug\DivisibleByTwo.exe.config
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\bin\Debug\DivisibleByTwo.exe
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\bin\Debug\DivisibleByTwo.pdb
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\obj\Debug\DivisibleByTwo.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\obj\Debug\DivisibleByTwo.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\obj\Debug\DivisibleByTwo.exe
+E:\DotNet\C#\Console\DivisibleByTwo\DivisibleByTwo\obj\Debug\DivisibleByTwo.pdb

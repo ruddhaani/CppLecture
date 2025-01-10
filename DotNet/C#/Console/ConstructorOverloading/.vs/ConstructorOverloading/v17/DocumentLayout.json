@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\ConstructorOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A75EA871-17E9-4FE3-A363-7058F59C3934}|ConstructorOverloading\\ConstructorOverloading.csproj|e:\\dotnet\\c#\\console\\constructoroverloading\\constructoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75EA871-17E9-4FE3-A363-7058F59C3934}|ConstructorOverloading\\ConstructorOverloading.csproj|solutionrelative:constructoroverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75EA871-17E9-4FE3-A363-7058F59C3934}|ConstructorOverloading\\ConstructorOverloading.csproj|e:\\dotnet\\c#\\console\\constructoroverloading\\constructoroverloading\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75EA871-17E9-4FE3-A363-7058F59C3934}|ConstructorOverloading\\ConstructorOverloading.csproj|solutionrelative:constructoroverloading\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ConstructorOverloading\\ConstructorOverloading\\Person.cs",
+              "RelativeDocumentMoniker": "ConstructorOverloading\\Person.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ConstructorOverloading\\ConstructorOverloading\\Person.cs",
+              "RelativeToolTip": "ConstructorOverloading\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:57:10.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\ConstructorOverloading\\ConstructorOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorOverloading\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\ConstructorOverloading\\ConstructorOverloading\\Program.cs",
+              "RelativeToolTip": "ConstructorOverloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:56:52.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

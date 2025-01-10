@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\StreamExample2\\",
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\StreamExample2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88AA8788-CAD9-4784-A2AA-4A6DB45D8EFF}|StreamExample2\\StreamExample2.csproj|d:\\lecture\\dotnet\\c#\\console\\streamexample2\\streamexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88AA8788-CAD9-4784-A2AA-4A6DB45D8EFF}|StreamExample2\\StreamExample2.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\streamexample2\\streamexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88AA8788-CAD9-4784-A2AA-4A6DB45D8EFF}|StreamExample2\\StreamExample2.csproj|solutionrelative:streamexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\StreamExample2\\StreamExample2\\Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\StreamExample2\\StreamExample2\\Program.cs",
               "RelativeDocumentMoniker": "StreamExample2\\Program.cs",
-              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\StreamExample2\\StreamExample2\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\StreamExample2\\StreamExample2\\Program.cs",
               "RelativeToolTip": "StreamExample2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:46:14.894Z",
               "EditorCaption": ""

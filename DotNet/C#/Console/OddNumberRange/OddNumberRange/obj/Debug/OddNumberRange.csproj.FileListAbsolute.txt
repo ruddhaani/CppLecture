@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\obj\Debug\OddNumberRange.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\obj\Debug\OddNumberRange.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\bin\Debug\OddNumberRange.exe.config
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\bin\Debug\OddNumberRange.exe
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\bin\Debug\OddNumberRange.pdb
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\obj\Debug\OddNumberRange.exe
+E:\DotNet\C#\Console\OddNumberRange\OddNumberRange\obj\Debug\OddNumberRange.pdb

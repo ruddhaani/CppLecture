@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\bin\Debug\NonGenericCollections124.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\bin\Debug\NonGenericCollections124.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\bin\Debug\NonGenericCollections124.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\obj\Debug\NonGenericCollections124.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\obj\Debug\NonGenericCollections124.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\obj\Debug\NonGenericCollections124.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\NonGenericCollections124\NonGenericCollections124\obj\Debug\NonGenericCollections124.pdb

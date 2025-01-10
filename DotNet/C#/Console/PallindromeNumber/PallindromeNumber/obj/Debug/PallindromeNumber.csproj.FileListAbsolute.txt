@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\bin\Debug\PallindromeNumber.exe.config
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\bin\Debug\PallindromeNumber.exe
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\bin\Debug\PallindromeNumber.pdb
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\obj\Debug\PallindromeNumber.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\obj\Debug\PallindromeNumber.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\obj\Debug\PallindromeNumber.exe
+E:\DotNet\C#\Console\PallindromeNumber\PallindromeNumber\obj\Debug\PallindromeNumber.pdb

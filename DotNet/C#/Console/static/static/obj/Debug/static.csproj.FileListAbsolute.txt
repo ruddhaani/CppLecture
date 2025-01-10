@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\static\static\bin\Debug\@static.exe.config
+E:\DotNet\C#\Console\static\static\bin\Debug\@static.exe
+E:\DotNet\C#\Console\static\static\bin\Debug\@static.pdb
+E:\DotNet\C#\Console\static\static\obj\Debug\static.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\static\static\obj\Debug\static.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\static\static\obj\Debug\@static.exe
+E:\DotNet\C#\Console\static\static\obj\Debug\@static.pdb

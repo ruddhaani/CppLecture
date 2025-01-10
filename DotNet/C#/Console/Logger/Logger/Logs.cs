@@ -70,7 +70,7 @@ namespace Logger
             filepath = filepath + "logs" + "_" + DateTime.Now.ToString("yyyyMMdd") + ".txt";
 
             if (CheckFile(filepath))
-            {
+            { 
                 //File.Create(filepath);
                 using (File.Create(filepath)) { }
                 File.AppendAllText(filepath, entireMsg);

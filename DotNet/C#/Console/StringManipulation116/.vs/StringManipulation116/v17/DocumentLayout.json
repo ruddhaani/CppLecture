@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\StringManipulation116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47162CD7-B37B-487E-918C-BA22A2EB58FE}|StringManipulation116\\StringManipulation116.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\stringmanipulation116\\stringmanipulation116\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47162CD7-B37B-487E-918C-BA22A2EB58FE}|StringManipulation116\\StringManipulation116.csproj|solutionrelative:stringmanipulation116\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\StringManipulation116\\StringManipulation116\\Program.cs",
+              "RelativeDocumentMoniker": "StringManipulation116\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\StringManipulation116\\StringManipulation116\\Program.cs",
+              "RelativeToolTip": "StringManipulation116\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:06:06.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

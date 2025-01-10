@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\Dictionary2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71ED2E34-EC12-4ED8-89BD-E9678D94BB32}|Dictionary2\\Dictionary2.csproj|e:\\dotnet\\c#\\console\\dictionary2\\dictionary2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71ED2E34-EC12-4ED8-89BD-E9678D94BB32}|Dictionary2\\Dictionary2.csproj|solutionrelative:dictionary2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\Dictionary2\\Dictionary2\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary2\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\Dictionary2\\Dictionary2\\Program.cs",
+              "RelativeToolTip": "Dictionary2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:47:50.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

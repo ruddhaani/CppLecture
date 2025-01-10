@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\Normalclass\Normalclass\bin\Debug\Normalclass.exe.config
+E:\DotNet\C#\Console\Normalclass\Normalclass\bin\Debug\Normalclass.exe
+E:\DotNet\C#\Console\Normalclass\Normalclass\bin\Debug\Normalclass.pdb
+E:\DotNet\C#\Console\Normalclass\Normalclass\obj\Debug\Normalclass.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\Normalclass\Normalclass\obj\Debug\Normalclass.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\Normalclass\Normalclass\obj\Debug\Normalclass.exe
+E:\DotNet\C#\Console\Normalclass\Normalclass\obj\Debug\Normalclass.pdb

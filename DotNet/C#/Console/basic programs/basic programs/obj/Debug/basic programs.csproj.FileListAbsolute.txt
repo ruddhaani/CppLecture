@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\basic programs\basic programs\bin\Debug\basic programs.exe.config
+E:\DotNet\C#\Console\basic programs\basic programs\bin\Debug\basic programs.exe
+E:\DotNet\C#\Console\basic programs\basic programs\bin\Debug\basic programs.pdb
+E:\DotNet\C#\Console\basic programs\basic programs\obj\Debug\basic programs.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\basic programs\basic programs\obj\Debug\basic programs.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\basic programs\basic programs\obj\Debug\basic programs.exe
+E:\DotNet\C#\Console\basic programs\basic programs\obj\Debug\basic programs.pdb

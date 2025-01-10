@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\loop\loop\bin\Debug\loop.exe.config
+E:\DotNet\C#\Console\loop\loop\bin\Debug\loop.exe
+E:\DotNet\C#\Console\loop\loop\bin\Debug\loop.pdb
+E:\DotNet\C#\Console\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\loop\loop\obj\Debug\loop.exe
+E:\DotNet\C#\Console\loop\loop\obj\Debug\loop.pdb

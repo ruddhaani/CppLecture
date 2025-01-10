@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\bin\Debug\ConversionOfCharacters.exe.config
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\bin\Debug\ConversionOfCharacters.exe
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\bin\Debug\ConversionOfCharacters.pdb
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\obj\Debug\ConversionOfCharacters.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\obj\Debug\ConversionOfCharacters.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\obj\Debug\ConversionOfCharacters.exe
+E:\DotNet\C#\Console\ConversionOfCharacters\ConversionOfCharacters\obj\Debug\ConversionOfCharacters.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\bin\Debug\DeleteFile.exe.config
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\bin\Debug\DeleteFile.exe
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\bin\Debug\DeleteFile.pdb
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\obj\Debug\DeleteFile.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\obj\Debug\DeleteFile.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\obj\Debug\DeleteFile.exe
+E:\DotNet\C#\Console\DeleteFile\DeleteFile\obj\Debug\DeleteFile.pdb

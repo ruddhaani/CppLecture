@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\bin\Debug\copyFileExample.exe.config
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\bin\Debug\copyFileExample.exe
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\bin\Debug\copyFileExample.pdb
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\obj\Debug\copyFileExample.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\obj\Debug\copyFileExample.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\obj\Debug\copyFileExample.exe
+E:\DotNet\C#\Console\copyFileExample\copyFileExample\obj\Debug\copyFileExample.pdb

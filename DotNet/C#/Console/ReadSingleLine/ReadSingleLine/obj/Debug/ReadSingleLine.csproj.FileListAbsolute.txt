@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\bin\Debug\ReadSingleLine.exe.config
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\bin\Debug\ReadSingleLine.exe
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\bin\Debug\ReadSingleLine.pdb
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\obj\Debug\ReadSingleLine.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\obj\Debug\ReadSingleLine.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\obj\Debug\ReadSingleLine.exe
+E:\DotNet\C#\Console\ReadSingleLine\ReadSingleLine\obj\Debug\ReadSingleLine.pdb

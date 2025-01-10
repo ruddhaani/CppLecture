@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\FileCreation\FileCreation\bin\Debug\FileCreation.exe.config
+E:\DotNet\C#\Console\FileCreation\FileCreation\bin\Debug\FileCreation.exe
+E:\DotNet\C#\Console\FileCreation\FileCreation\bin\Debug\FileCreation.pdb
+E:\DotNet\C#\Console\FileCreation\FileCreation\obj\Debug\FileCreation.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\FileCreation\FileCreation\obj\Debug\FileCreation.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\FileCreation\FileCreation\obj\Debug\FileCreation.exe
+E:\DotNet\C#\Console\FileCreation\FileCreation\obj\Debug\FileCreation.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\Boolean\Boolean\bin\Debug\Boolean.exe.config
+E:\DotNet\C#\Console\Boolean\Boolean\bin\Debug\Boolean.exe
+E:\DotNet\C#\Console\Boolean\Boolean\bin\Debug\Boolean.pdb
+E:\DotNet\C#\Console\Boolean\Boolean\obj\Debug\Boolean.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\Boolean\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\Boolean\Boolean\obj\Debug\Boolean.exe
+E:\DotNet\C#\Console\Boolean\Boolean\obj\Debug\Boolean.pdb

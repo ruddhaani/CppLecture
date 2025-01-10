@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\staticClass\staticClass\bin\Debug\staticClass.exe.config
+E:\DotNet\C#\Console\staticClass\staticClass\bin\Debug\staticClass.exe
+E:\DotNet\C#\Console\staticClass\staticClass\bin\Debug\staticClass.pdb
+E:\DotNet\C#\Console\staticClass\staticClass\obj\Debug\staticClass.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\staticClass\staticClass\obj\Debug\staticClass.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\staticClass\staticClass\obj\Debug\staticClass.exe
+E:\DotNet\C#\Console\staticClass\staticClass\obj\Debug\staticClass.pdb

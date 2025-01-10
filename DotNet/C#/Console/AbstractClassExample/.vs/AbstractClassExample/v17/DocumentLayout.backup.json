@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDF3EAE-6C75-4A70-B70F-858F61709175}|AbstractClassExample\\AbstractClassExample.csproj|E:\\DotNet\\C#\\Console\\AbstractClassExample\\abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDF3EAE-6C75-4A70-B70F-858F61709175}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDF3EAE-6C75-4A70-B70F-858F61709175}|AbstractClassExample\\AbstractClassExample.csproj|E:\\DotNet\\C#\\Console\\AbstractClassExample\\abstractclassexample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDF3EAE-6C75-4A70-B70F-858F61709175}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDF3EAE-6C75-4A70-B70F-858F61709175}|AbstractClassExample\\AbstractClassExample.csproj|e:\\dotnet\\c#\\console\\abstractclassexample\\abstractclassexample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDF3EAE-6C75-4A70-B70F-858F61709175}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\AbstractClassExample\\Cat.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Cat.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\AbstractClassExample\\Cat.cs*",
+              "RelativeToolTip": "AbstractClassExample\\Cat.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:41:24.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\AbstractClassExample\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animal.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\AbstractClassExample\\Animal.cs*",
+              "RelativeToolTip": "AbstractClassExample\\Animal.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:39:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\AbstractClassExample\\AbstractClassExample\\Program.cs*",
+              "RelativeToolTip": "AbstractClassExample\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:37:23.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

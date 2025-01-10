@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+E:\DotNet\C#\Console\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

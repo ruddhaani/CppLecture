@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\bin\Debug\MultiDimensionalArrayOperations121.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\bin\Debug\MultiDimensionalArrayOperations121.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\bin\Debug\MultiDimensionalArrayOperations121.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\obj\Debug\MultiDimensionalArrayOperations121.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\obj\Debug\MultiDimensionalArrayOperations121.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\obj\Debug\MultiDimensionalArrayOperations121.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\MultiDimensionalArrayOperations121\MultiDimensionalArrayOperations121\obj\Debug\MultiDimensionalArrayOperations121.pdb

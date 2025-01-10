@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\bin\Debug\ConvertStringIntoCase.exe.config
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\bin\Debug\ConvertStringIntoCase.exe
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\bin\Debug\ConvertStringIntoCase.pdb
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\obj\Debug\ConvertStringIntoCase.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\obj\Debug\ConvertStringIntoCase.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\obj\Debug\ConvertStringIntoCase.exe
+E:\DotNet\C#\Console\ConvertStringIntoCase\ConvertStringIntoCase\obj\Debug\ConvertStringIntoCase.pdb

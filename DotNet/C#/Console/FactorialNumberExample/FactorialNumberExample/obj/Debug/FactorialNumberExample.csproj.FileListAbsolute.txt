@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\bin\Debug\FactorialNumberExample.exe.config
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\bin\Debug\FactorialNumberExample.exe
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\bin\Debug\FactorialNumberExample.pdb
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\obj\Debug\FactorialNumberExample.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\obj\Debug\FactorialNumberExample.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\obj\Debug\FactorialNumberExample.exe
+E:\DotNet\C#\Console\FactorialNumberExample\FactorialNumberExample\obj\Debug\FactorialNumberExample.pdb

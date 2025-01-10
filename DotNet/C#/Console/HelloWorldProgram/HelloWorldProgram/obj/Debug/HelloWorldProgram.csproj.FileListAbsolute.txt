@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe.config
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.exe
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\bin\Debug\HelloWorldProgram.pdb
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.exe
+E:\DotNet\C#\Console\HelloWorldProgram\HelloWorldProgram\obj\Debug\HelloWorldProgram.pdb

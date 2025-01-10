@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lecture\\DotNet\\C#\\Console\\Logger\\",
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Logger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2153765D-C1B6-4DC7-B10B-669F7356E11F}|Logger\\Logger.csproj|d:\\lecture\\dotnet\\c#\\console\\logger\\logger\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2153765D-C1B6-4DC7-B10B-669F7356E11F}|Logger\\Logger.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\logger\\logger\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2153765D-C1B6-4DC7-B10B-669F7356E11F}|Logger\\Logger.csproj|solutionrelative:logger\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Logs.cs",
-              "DocumentMoniker": "D:\\Lecture\\DotNet\\C#\\Console\\Logger\\Logger\\Logs.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Logger\\Logger\\Logs.cs",
               "RelativeDocumentMoniker": "Logger\\Logs.cs",
-              "ToolTip": "D:\\Lecture\\DotNet\\C#\\Console\\Logger\\Logger\\Logs.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Logger\\Logger\\Logs.cs",
               "RelativeToolTip": "Logger\\Logs.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwEgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T14:31:33.617Z",
               "EditorCaption": ""

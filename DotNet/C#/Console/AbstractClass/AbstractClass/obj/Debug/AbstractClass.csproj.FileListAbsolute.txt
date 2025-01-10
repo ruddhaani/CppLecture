@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+E:\DotNet\C#\Console\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

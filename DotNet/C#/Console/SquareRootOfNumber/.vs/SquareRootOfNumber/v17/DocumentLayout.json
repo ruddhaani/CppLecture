@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\SquareRootOfNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED7B7EB-A2D6-4362-A286-3A4C0280DD22}|SquareRootOfNumber\\SquareRootOfNumber.csproj|e:\\dotnet\\c#\\console\\squarerootofnumber\\squarerootofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED7B7EB-A2D6-4362-A286-3A4C0280DD22}|SquareRootOfNumber\\SquareRootOfNumber.csproj|solutionrelative:squarerootofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\SquareRootOfNumber\\SquareRootOfNumber\\Program.cs",
+              "RelativeDocumentMoniker": "SquareRootOfNumber\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\SquareRootOfNumber\\SquareRootOfNumber\\Program.cs",
+              "RelativeToolTip": "SquareRootOfNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:10:54.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

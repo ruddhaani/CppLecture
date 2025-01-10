@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\bin\Debug\CreateDirectoryprogram.exe.config
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\bin\Debug\CreateDirectoryprogram.exe
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\bin\Debug\CreateDirectoryprogram.pdb
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\obj\Debug\CreateDirectoryprogram.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\obj\Debug\CreateDirectoryprogram.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\obj\Debug\CreateDirectoryprogram.exe
+E:\DotNet\C#\Console\CreateDirectoryprogram\CreateDirectoryprogram\obj\Debug\CreateDirectoryprogram.pdb

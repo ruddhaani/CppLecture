@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\bin\Debug\StackNonGeneric.exe.config
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\bin\Debug\StackNonGeneric.exe
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\bin\Debug\StackNonGeneric.pdb
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\obj\Debug\StackNonGeneric.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\obj\Debug\StackNonGeneric.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\obj\Debug\StackNonGeneric.exe
+E:\DotNet\C#\Console\StackNonGeneric\StackNonGeneric\obj\Debug\StackNonGeneric.pdb

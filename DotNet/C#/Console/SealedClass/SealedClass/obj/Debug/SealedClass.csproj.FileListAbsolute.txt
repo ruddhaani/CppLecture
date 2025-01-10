@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\SealedClass\SealedClass\bin\Debug\SealedClass.exe.config
+E:\DotNet\C#\Console\SealedClass\SealedClass\bin\Debug\SealedClass.exe
+E:\DotNet\C#\Console\SealedClass\SealedClass\bin\Debug\SealedClass.pdb
+E:\DotNet\C#\Console\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\SealedClass\SealedClass\obj\Debug\SealedClass.exe
+E:\DotNet\C#\Console\SealedClass\SealedClass\obj\Debug\SealedClass.pdb

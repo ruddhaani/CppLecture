@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe.config
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\bin\Debug\GetterSetter.exe
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\bin\Debug\GetterSetter.pdb
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\obj\Debug\GetterSetter.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\obj\Debug\GetterSetter.exe
+E:\DotNet\C#\Console\GetterSetter\GetterSetter\obj\Debug\GetterSetter.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\obj\Debug\stringConcatenation.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\obj\Debug\stringConcatenation.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\bin\Debug\stringConcatenation.exe.config
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\bin\Debug\stringConcatenation.exe
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\bin\Debug\stringConcatenation.pdb
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\obj\Debug\stringConcatenation.exe
+E:\DotNet\C#\Console\stringConcatenation\stringConcatenation\obj\Debug\stringConcatenation.pdb

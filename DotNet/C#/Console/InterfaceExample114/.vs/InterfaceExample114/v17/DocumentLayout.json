@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{946A8324-B8B3-44B6-81CF-4442930199A4}|InterfaceExample114\\InterfaceExample114.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\interfaceexample114\\interfaceexample114\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A8324-B8B3-44B6-81CF-4442930199A4}|InterfaceExample114\\InterfaceExample114.csproj|solutionrelative:interfaceexample114\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946A8324-B8B3-44B6-81CF-4442930199A4}|InterfaceExample114\\InterfaceExample114.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\interfaceexample114\\interfaceexample114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A8324-B8B3-44B6-81CF-4442930199A4}|InterfaceExample114\\InterfaceExample114.csproj|solutionrelative:interfaceexample114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946A8324-B8B3-44B6-81CF-4442930199A4}|InterfaceExample114\\InterfaceExample114.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\interfaceexample114\\interfaceexample114\\lambo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946A8324-B8B3-44B6-81CF-4442930199A4}|InterfaceExample114\\InterfaceExample114.csproj|solutionrelative:interfaceexample114\\lambo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lambo.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\InterfaceExample114\\Lambo.cs",
+              "RelativeDocumentMoniker": "InterfaceExample114\\Lambo.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\InterfaceExample114\\Lambo.cs",
+              "RelativeToolTip": "InterfaceExample114\\Lambo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:00:21.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\InterfaceExample114\\Vehicle.cs",
+              "RelativeDocumentMoniker": "InterfaceExample114\\Vehicle.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\InterfaceExample114\\Vehicle.cs",
+              "RelativeToolTip": "InterfaceExample114\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:59:36.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\InterfaceExample114\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample114\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\InterfaceExample114\\InterfaceExample114\\Program.cs",
+              "RelativeToolTip": "InterfaceExample114\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:59:18.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

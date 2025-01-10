@@ -11,12 +11,14 @@ namespace StreamExample2
     {
         static void Main(string[] args)
         {
-            string path = "D:\\DirectoryPracticalC#\\filename.txt";
-            using (StreamWriter sw = new StreamWriter(path, true)) {
-                sw.WriteLine("New line");
+            string path = "C:\\Aniruddha\\filename.txt";
+            
+            using (StreamWriter sw = new StreamWriter(path , true))
+            {
+                sw.WriteLine("Thick Thighs , Save Lives");
             }
 
-            using (StreamReader sr = new StreamReader(path))
+            using (StreamReader sr = new StreamReader(path , true))
             {
                 Console.WriteLine(sr.ReadToEnd());
             }

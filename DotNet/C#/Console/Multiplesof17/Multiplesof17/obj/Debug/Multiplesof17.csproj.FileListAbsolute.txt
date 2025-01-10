@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\obj\Debug\Multiplesof17.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\obj\Debug\Multiplesof17.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\bin\Debug\Multiplesof17.exe.config
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\bin\Debug\Multiplesof17.exe
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\bin\Debug\Multiplesof17.pdb
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\obj\Debug\Multiplesof17.exe
+E:\DotNet\C#\Console\Multiplesof17\Multiplesof17\obj\Debug\Multiplesof17.pdb

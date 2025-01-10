@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\bin\Debug\DelegatesSingleCastExample.exe.config
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\bin\Debug\DelegatesSingleCastExample.exe
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\bin\Debug\DelegatesSingleCastExample.pdb
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\obj\Debug\DelegatesSingleCastExample.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\obj\Debug\DelegatesSingleCastExample.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\obj\Debug\DelegatesSingleCastExample.exe
+E:\DotNet\C#\Console\DelegatesSingleCastExample\DelegatesSingleCastExample\obj\Debug\DelegatesSingleCastExample.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\bin\Debug\StaticClassDelegate.exe.config
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\bin\Debug\StaticClassDelegate.exe
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\bin\Debug\StaticClassDelegate.pdb
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\obj\Debug\StaticClassDelegate.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\obj\Debug\StaticClassDelegate.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\obj\Debug\StaticClassDelegate.exe
+E:\DotNet\C#\Console\StaticClassDelegate\StaticClassDelegate\obj\Debug\StaticClassDelegate.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\Fibonacci_series\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C56BF02-4905-4E96-AE58-BC8347715239}|Fibonacci_series\\Fibonacci_series.csproj|e:\\dotnet\\c#\\console\\fibonacci_series\\fibonacci_series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C56BF02-4905-4E96-AE58-BC8347715239}|Fibonacci_series\\Fibonacci_series.csproj|solutionrelative:fibonacci_series\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\Fibonacci_series\\Fibonacci_series\\Program.cs",
+              "RelativeDocumentMoniker": "Fibonacci_series\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\Fibonacci_series\\Fibonacci_series\\Program.cs",
+              "RelativeToolTip": "Fibonacci_series\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:06:10.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

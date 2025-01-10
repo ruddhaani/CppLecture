@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\obj\Debug\StackProgram2.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\obj\Debug\StackProgram2.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\bin\Debug\StackProgram2.exe.config
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\bin\Debug\StackProgram2.exe
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\bin\Debug\StackProgram2.pdb
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\obj\Debug\StackProgram2.exe
+E:\DotNet\C#\Console\StackProgram2\StackProgram2\obj\Debug\StackProgram2.pdb

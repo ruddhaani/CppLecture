@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\bin\Debug\ArithmeticOperationSwitchCase.exe.config
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\bin\Debug\ArithmeticOperationSwitchCase.exe
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\bin\Debug\ArithmeticOperationSwitchCase.pdb
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\obj\Debug\ArithmeticOperationSwitchCase.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\obj\Debug\ArithmeticOperationSwitchCase.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\obj\Debug\ArithmeticOperationSwitchCase.exe
+E:\DotNet\C#\Console\ArithmeticOperationSwitchCase\ArithmeticOperationSwitchCase\obj\Debug\ArithmeticOperationSwitchCase.pdb

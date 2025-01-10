@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\bin\Debug\constructorCalling.exe.config
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\bin\Debug\constructorCalling.exe
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\bin\Debug\constructorCalling.pdb
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\obj\Debug\constructorCalling.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\obj\Debug\constructorCalling.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\obj\Debug\constructorCalling.exe
+E:\DotNet\C#\Console\constructorCalling\constructorCalling\obj\Debug\constructorCalling.pdb

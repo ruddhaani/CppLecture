@@ -22,4 +22,5 @@ namespace StreamExample1
                 Console.WriteLine(sr.ReadToEnd());
             }
         }
+    }
 }

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\bin\Debug\Fibonacci_series.exe.config
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\bin\Debug\Fibonacci_series.exe
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\bin\Debug\Fibonacci_series.pdb
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.exe
+E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.pdb

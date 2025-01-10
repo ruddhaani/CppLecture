@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\IsStringPallindrome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA61827-8D2A-452B-AAD1-C12F52162972}|IsStringPallindrome\\IsStringPallindrome.csproj|e:\\dotnet\\c#\\console\\isstringpallindrome\\isstringpallindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA61827-8D2A-452B-AAD1-C12F52162972}|IsStringPallindrome\\IsStringPallindrome.csproj|solutionrelative:isstringpallindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\IsStringPallindrome\\IsStringPallindrome\\Program.cs",
+              "RelativeDocumentMoniker": "IsStringPallindrome\\Program.cs",
+              "ToolTip": "E:\\DotNet\\C#\\Console\\IsStringPallindrome\\IsStringPallindrome\\Program.cs",
+              "RelativeToolTip": "IsStringPallindrome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:25:22.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\bin\Debug\NoofFilesInFolder.exe.config
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\bin\Debug\NoofFilesInFolder.exe
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\bin\Debug\NoofFilesInFolder.pdb
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\obj\Debug\NoofFilesInFolder.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\obj\Debug\NoofFilesInFolder.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\obj\Debug\NoofFilesInFolder.exe
+E:\DotNet\C#\Console\NoofFilesInFolder\NoofFilesInFolder\obj\Debug\NoofFilesInFolder.pdb

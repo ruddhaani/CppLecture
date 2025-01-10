@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\StreamClass\StreamClass\bin\Debug\StreamClass.exe.config
+E:\DotNet\C#\Console\StreamClass\StreamClass\bin\Debug\StreamClass.exe
+E:\DotNet\C#\Console\StreamClass\StreamClass\bin\Debug\StreamClass.pdb
+E:\DotNet\C#\Console\StreamClass\StreamClass\obj\Debug\StreamClass.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\StreamClass\StreamClass\obj\Debug\StreamClass.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\StreamClass\StreamClass\obj\Debug\StreamClass.exe
+E:\DotNet\C#\Console\StreamClass\StreamClass\obj\Debug\StreamClass.pdb

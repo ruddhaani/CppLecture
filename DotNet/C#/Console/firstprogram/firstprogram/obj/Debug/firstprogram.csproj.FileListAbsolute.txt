@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\firstprogram\firstprogram\bin\Debug\firstprogram.exe.config
+E:\DotNet\C#\Console\firstprogram\firstprogram\bin\Debug\firstprogram.exe
+E:\DotNet\C#\Console\firstprogram\firstprogram\bin\Debug\firstprogram.pdb
+E:\DotNet\C#\Console\firstprogram\firstprogram\obj\Debug\firstprogram.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\firstprogram\firstprogram\obj\Debug\firstprogram.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\firstprogram\firstprogram\obj\Debug\firstprogram.exe
+E:\DotNet\C#\Console\firstprogram\firstprogram\obj\Debug\firstprogram.pdb

@@ -1,0 +1,10 @@
+E:\DotNet\C#\Console\LogInfo\LogInfo\bin\Debug\LogInfo.exe.config
+E:\DotNet\C#\Console\LogInfo\LogInfo\bin\Debug\LogInfo.exe
+E:\DotNet\C#\Console\LogInfo\LogInfo\bin\Debug\LogInfo.pdb
+E:\DotNet\C#\Console\LogInfo\LogInfo\bin\Debug\Logger.dll
+E:\DotNet\C#\Console\LogInfo\LogInfo\bin\Debug\Logger.pdb
+E:\DotNet\C#\Console\LogInfo\LogInfo\obj\Debug\LogInfo.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\LogInfo\LogInfo\obj\Debug\LogInfo.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\LogInfo\LogInfo\obj\Debug\LogInfo.csproj.Up2Date
+E:\DotNet\C#\Console\LogInfo\LogInfo\obj\Debug\LogInfo.exe
+E:\DotNet\C#\Console\LogInfo\LogInfo\obj\Debug\LogInfo.pdb

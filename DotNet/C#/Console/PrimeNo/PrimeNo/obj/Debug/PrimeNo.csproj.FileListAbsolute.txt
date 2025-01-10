@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe.config
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\bin\Debug\PrimeNo.pdb
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\obj\Debug\PrimeNo.exe
+E:\DotNet\C#\Console\PrimeNo\PrimeNo\obj\Debug\PrimeNo.pdb

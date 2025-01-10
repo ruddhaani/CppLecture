@@ -1,0 +1,7 @@
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\bin\Debug\QueueGeneric.exe.config
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\bin\Debug\QueueGeneric.exe
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\bin\Debug\QueueGeneric.pdb
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\obj\Debug\QueueGeneric.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\obj\Debug\QueueGeneric.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\obj\Debug\QueueGeneric.exe
+E:\DotNet\C#\Console\QueueGeneric\QueueGeneric\obj\Debug\QueueGeneric.pdb

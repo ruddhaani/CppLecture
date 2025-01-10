@@ -1,0 +1,2 @@
+E:\DotNet\C#\Console\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.AssemblyReference.cache
+E:\DotNet\C#\Console\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csproj.CoreCompileInputs.cache
