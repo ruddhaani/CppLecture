@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\params\\productparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\params\\productparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|solutionrelative:plantify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB17DA76-08AE-4C1B-BE79-EC8B2058AA50}|Plantify\\Plantify.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\plantify\\plantify\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,8 +110,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductParams.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Params\\ProductParams.cs",
+              "RelativeDocumentMoniker": "Plantify\\Params\\ProductParams.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Params\\ProductParams.cs",
+              "RelativeToolTip": "Plantify\\Params\\ProductParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:29:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Params\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "Plantify\\Params\\PaginationParams.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Params\\PaginationParams.cs",
+              "RelativeToolTip": "Plantify\\Params\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:29:26.468Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -114,7 +148,8 @@
               "RelativeToolTip": "Plantify\\Responses\\ProductResponses\\ProductResponse.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:52:53.065Z"
+              "WhenOpened": "2025-01-14T19:52:53.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,14 +159,14 @@
               "RelativeDocumentMoniker": "Plantify\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Plantify\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T19:51:19.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Services\\ProductServices\\ProductService.cs",
               "RelativeDocumentMoniker": "Plantify\\Services\\ProductServices\\ProductService.cs",
@@ -143,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Services\\ProductServices\\IProductService.cs",
               "RelativeDocumentMoniker": "Plantify\\Services\\ProductServices\\IProductService.cs",
@@ -155,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Repositories\\ProductRepositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Plantify\\Repositories\\ProductRepositories\\ProductRepository.cs",
@@ -167,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Repositories\\ProductRepositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Plantify\\Repositories\\ProductRepositories\\IProductRepository.cs",
@@ -179,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Plantify\\Data\\DataContext.cs",
@@ -191,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "Plantify\\Entity\\Product.cs",
@@ -203,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Dtos\\UserDtos\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "Plantify\\Dtos\\UserDtos\\CreateUserDto.cs",
@@ -221,13 +256,13 @@
               "RelativeDocumentMoniker": "Plantify\\Program.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Program.cs",
               "RelativeToolTip": "Plantify\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T14:57:04.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Services\\UserServices\\UserService.cs",
               "RelativeDocumentMoniker": "Plantify\\Services\\UserServices\\UserService.cs",
@@ -239,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "UserInformation.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Entity\\UserInformation.cs",
               "RelativeDocumentMoniker": "Plantify\\Entity\\UserInformation.cs",
@@ -251,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\appsettings.json",
               "RelativeDocumentMoniker": "Plantify\\appsettings.json",
@@ -263,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Dtos\\UserDtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "Plantify\\Dtos\\UserDtos\\LoginDto.cs",
@@ -275,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Responses\\UserResponses\\UserResponse.cs",
               "RelativeDocumentMoniker": "Plantify\\Responses\\UserResponses\\UserResponse.cs",
@@ -287,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Plantify\\Controllers\\UserController.cs",
@@ -295,12 +330,11 @@
               "RelativeToolTip": "Plantify\\Controllers\\UserController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:14:59.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T15:14:59.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Repositories\\UserRepositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Plantify\\Repositories\\UserRepositories\\UserRepository.cs",
@@ -312,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Repositories\\UserRepositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Plantify\\Repositories\\UserRepositories\\IUserRepository.cs",
@@ -324,20 +358,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Services\\JWT\\JwtService.cs",
               "RelativeDocumentMoniker": "Plantify\\Services\\JWT\\JwtService.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Services\\JWT\\JwtService.cs",
               "RelativeToolTip": "Plantify\\Services\\JWT\\JwtService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T06:41:54.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T06:41:54.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Services\\UserServices\\IUserService.cs",
               "RelativeDocumentMoniker": "Plantify\\Services\\UserServices\\IUserService.cs",
@@ -349,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20250113132447_changedPhonefrominttoLong.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Migrations\\20250113132447_changedPhonefrominttoLong.cs",
               "RelativeDocumentMoniker": "Plantify\\Migrations\\20250113132447_changedPhonefrominttoLong.cs",
@@ -361,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "BaseAPIController.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Controllers\\BaseAPIController.cs",
               "RelativeDocumentMoniker": "Plantify\\Controllers\\BaseAPIController.cs",
@@ -373,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "UserMapping.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\Plantify\\Plantify\\Mappings\\UserMappings\\UserMapping.cs",
               "RelativeDocumentMoniker": "Plantify\\Mappings\\UserMappings\\UserMapping.cs",
