@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DotNet\\C#\\Console\\EnumExample\\",
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|e:\\dotnet\\c#\\console\\enumexample\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\enumexample\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|E:\\DotNet\\C#\\Console\\EnumExample\\enumexample\\pricelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\enumexample\\pricelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\pricelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|E:\\DotNet\\C#\\Console\\EnumExample\\enumexample\\pricelevelconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\enumexample\\pricelevelconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\pricelevelconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|E:\\DotNet\\C#\\Console\\EnumExample\\enumexample\\crosinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\enumexample\\crosinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1723046-0EC1-4CC2-9C95-E71213FB616D}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\crosinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PriceLevelConstant.cs",
-              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevelConstant.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevelConstant.cs",
               "RelativeDocumentMoniker": "EnumExample\\PriceLevelConstant.cs",
-              "ToolTip": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevelConstant.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevelConstant.cs",
               "RelativeToolTip": "EnumExample\\PriceLevelConstant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T08:32:20.122Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CrosinRequest.cs",
-              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\CrosinRequest.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\CrosinRequest.cs",
               "RelativeDocumentMoniker": "EnumExample\\CrosinRequest.cs",
-              "ToolTip": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\CrosinRequest.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\CrosinRequest.cs",
               "RelativeToolTip": "EnumExample\\CrosinRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PriceLevel.cs",
-              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevel.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevel.cs",
               "RelativeDocumentMoniker": "EnumExample\\PriceLevel.cs",
-              "ToolTip": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevel.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\PriceLevel.cs",
               "RelativeToolTip": "EnumExample\\PriceLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\Program.cs",
               "RelativeDocumentMoniker": "EnumExample\\Program.cs",
-              "ToolTip": "E:\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EnumExample\\EnumExample\\Program.cs",
               "RelativeToolTip": "EnumExample\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T08:26:50.725Z",
               "EditorCaption": ""

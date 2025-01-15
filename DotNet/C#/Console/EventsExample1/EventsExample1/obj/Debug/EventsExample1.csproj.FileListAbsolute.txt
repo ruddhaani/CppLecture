@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\bin\Debug\EventsExample1.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\bin\Debug\EventsExample1.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\bin\Debug\EventsExample1.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\obj\Debug\EventsExample1.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\obj\Debug\EventsExample1.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\obj\Debug\EventsExample1.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EventsExample1\EventsExample1\obj\Debug\EventsExample1.pdb

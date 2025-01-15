@@ -1,0 +1,6 @@
+@EmployeeJWTTokenPractice_HostAddress = http://localhost:5125
+
+GET {{EmployeeJWTTokenPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

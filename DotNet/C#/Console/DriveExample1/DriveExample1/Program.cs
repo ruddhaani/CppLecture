@@ -11,7 +11,6 @@ namespace DriveExample1
     {
         static void Main(string[] args)
         {
-            string driveName = "D:\\";
             DriveInfo[] obj = DriveInfo.GetDrives();
 
             foreach (var files in obj)
@@ -19,7 +18,14 @@ namespace DriveExample1
                 Console.WriteLine(files);
             }
 
-            Console.WriteLine(Directory.GetDirectories(obj[1].ToString()).Count());
+            //string [] filesEntry = Directory.GetFileSystemEntries("C:\\Aniruddha\\CppLecture\\");
+
+            //foreach (var item in filesEntry)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            Console.WriteLine(Directory.GetDirectories(obj[0].ToString()).Count());
 
             foreach (var item in obj)
             {

@@ -11,7 +11,11 @@ namespace DelegatesExample2
     {
         static void Main(string[] args)
         {
-            ArithmeticDelegate arithmeticDelegate = new ArithmeticDelegate();
+            ArithmeticDelegate arithmeticDelegate = new ArithmeticDelegate(Arithmetic.Add);
+            arithmeticDelegate += Arithmetic.Subtract;
+            arithmeticDelegate += Arithmetic.Multiply;
+
+            arithmeticDelegate(10, 2);
         }
     }
 }

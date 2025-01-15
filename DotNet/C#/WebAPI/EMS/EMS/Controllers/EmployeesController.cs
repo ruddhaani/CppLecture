@@ -1,6 +1,7 @@
 ﻿using EMS.Dtos.EmployeeDtos;
 using EMS.Entities;
 using EMS.Mappings;
+using EMS.Params;
 using EMS.Responses.EmployeeResponses;
 using EMS.Services.EmployeeServices;
 using Microsoft.AspNetCore.Http;
@@ -30,10 +31,41 @@ namespace EMS.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<EmployeeResponse>>> GetEmployees()
+        public async Task<ActionResult<IEnumerable<EmployeeResponse>>> GetEmployees([FromQuery] EmployeeParams employeeParams)
         {
-            return Ok(await _employeeService.GetEmployees());
+            var employees = await _employeeService.GetEmployees();
+
+            int skipElements = (employeeParams.PageNumber - 1) * employeeParams.PageSize;
+
+            int takeElements = Math.Min(employees.Count() - skipElements, employeeParams.PageSize);
+
+            // Apply search filter only if SearchText is provided
+            if (!string.IsNullOrEmpty(employeeParams.SearchText))
+            {
+                employees = employees.Where(x =>
+                                        x.Name
+                                        .Contains(employeeParams.SearchText, StringComparison.OrdinalIgnoreCase));
+            }
+
+            int totalCount = employees.Count();
+
+            int totalPages = employees.Count() / employeeParams.PageSize;
+
+            if (employees.Count() % employeeParams.PageSize != 0)
+            {
+                totalPages++;
+            }
+
+            employees = employees.Skip(skipElements).Take(takeElements).ToList();
+
+            Response.Headers.Add("x-Page-Number" , employeeParams.PageNumber.ToString());
+            Response.Headers.Add("x-Page-Size", employeeParams.PageSize.ToString());
+            Response.Headers.Add("x-Total-Pages", totalPages.ToString());
+            Response.Headers.Add("x-Total-Count", totalCount.ToString());
+
+            return Ok(employees);
         }
+
 
         [HttpGet("{employeeId:int}")]
         //[Route("{employeeId:int}")]
@@ -93,6 +125,9 @@ namespace EMS.Controllers
 
 
         }
+
+
+
 
     }
 }

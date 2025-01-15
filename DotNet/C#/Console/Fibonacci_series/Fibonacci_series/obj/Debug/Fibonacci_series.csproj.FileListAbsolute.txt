@@ -5,3 +5,10 @@ E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_serie
 E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.csproj.CoreCompileInputs.cache
 E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.exe
 E:\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\bin\Debug\Fibonacci_series.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\bin\Debug\Fibonacci_series.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\bin\Debug\Fibonacci_series.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\Fibonacci_series\Fibonacci_series\obj\Debug\Fibonacci_series.pdb

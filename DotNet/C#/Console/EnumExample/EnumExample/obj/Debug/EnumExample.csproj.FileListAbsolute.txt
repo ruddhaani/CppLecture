@@ -5,3 +5,10 @@ E:\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.Assemb
 E:\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
 E:\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.exe
 E:\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\bin\Debug\EnumExample.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\bin\Debug\EnumExample.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.exe
+C:\Aniruddha\CppLecture\DotNet\C#\Console\EnumExample\EnumExample\obj\Debug\EnumExample.pdb

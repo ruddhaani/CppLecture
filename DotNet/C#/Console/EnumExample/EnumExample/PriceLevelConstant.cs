@@ -8,7 +8,7 @@ namespace EnumExample
 {
     public static class PriceLevelConstant
     {
-        public static string PriceLevel = "Listed";
+        public static string PriceLevel = "Government";
 
     }
 }

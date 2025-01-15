@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Delegates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B129DDF8-2F65-4EFD-8544-7ED252EAD41F}|Delegates\\Delegates.csproj|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B129DDF8-2F65-4EFD-8544-7ED252EAD41F}|Delegates\\Delegates.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B129DDF8-2F65-4EFD-8544-7ED252EAD41F}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B129DDF8-2F65-4EFD-8544-7ED252EAD41F}|Delegates\\Delegates.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\delegates\\delegates\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B129DDF8-2F65-4EFD-8544-7ED252EAD41F}|Delegates\\Delegates.csproj|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Delegates\\delegates\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B129DDF8-2F65-4EFD-8544-7ED252EAD41F}|Delegates\\Delegates.csproj|solutionrelative:delegates\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Delegates\\MultiCastDelegate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:56:03.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T08:56:03.833Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "Delegates\\Content.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:32:00.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T08:32:00.65Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\Delegates\\Delegates\\Program.cs",
               "RelativeToolTip": "Delegates\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T08:24:32.761Z",
               "EditorCaption": ""
