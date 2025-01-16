@@ -11,6 +11,7 @@ namespace Plantify.Responses.ProductResponses
 
         public ProductResponse(Product product)
         {
+            ProductId = product.ProductId;
             ProductName = product.ProductName;
             ProductDescription = product.ProductDescription;
             ProductType = product.ProductType;
@@ -18,6 +19,7 @@ namespace Plantify.Responses.ProductResponses
             ProductImageUrl = product.ProductImageUrl;
 
         }
+        public int ProductId { get; set; }
         public string ProductName { get; set; }
 
         public string ProductDescription { get; set; }

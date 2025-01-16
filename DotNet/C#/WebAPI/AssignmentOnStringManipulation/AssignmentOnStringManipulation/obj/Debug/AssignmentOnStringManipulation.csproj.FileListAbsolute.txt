@@ -1,0 +1,7 @@
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\bin\Debug\AssignmentOnStringManipulation.exe.config
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\bin\Debug\AssignmentOnStringManipulation.exe
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\bin\Debug\AssignmentOnStringManipulation.pdb
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\obj\Debug\AssignmentOnStringManipulation.csproj.AssemblyReference.cache
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\obj\Debug\AssignmentOnStringManipulation.csproj.CoreCompileInputs.cache
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\obj\Debug\AssignmentOnStringManipulation.exe
+C:\Aniruddha\CppLecture\DotNet\C#\WebAPI\AssignmentOnStringManipulation\AssignmentOnStringManipulation\obj\Debug\AssignmentOnStringManipulation.pdb

@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\repositories\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\repositories\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\repositories\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\repositories\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\responses\\employeeresponses\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\responses\\employeeresponses\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\responses\\employeeresponses\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\responses\\employeeresponses\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\mappings\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\ems\\ems\\repositories\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FCF864-603D-4E5D-A414-6CE01FB79386}|EMS\\EMS.csproj|solutionrelative:ems\\repositories\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PaginationParams.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Params\\PaginationParams.cs",
               "RelativeDocumentMoniker": "EMS\\Params\\PaginationParams.cs",
@@ -94,31 +94,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Program.cs",
               "RelativeDocumentMoniker": "EMS\\Program.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Program.cs",
               "RelativeToolTip": "EMS\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T05:12:34.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EMS\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
               "RelativeToolTip": "EMS\\Repositories\\EmployeeRepositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T23:54:23.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Services\\EmployeeServices\\EmployeeService.cs",
               "RelativeDocumentMoniker": "EMS\\Services\\EmployeeServices\\EmployeeService.cs",
@@ -126,12 +126,11 @@
               "RelativeToolTip": "EMS\\Services\\EmployeeServices\\EmployeeService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T00:07:36.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T00:07:36.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Mapping.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Mappings\\Mapping.cs",
               "RelativeDocumentMoniker": "EMS\\Mappings\\Mapping.cs",
@@ -143,19 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "EMS\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "EMS\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T00:11:53.03Z"
+              "WhenOpened": "2025-01-09T00:11:53.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ServiceExtension.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Extensions\\ServiceExtension.cs",
               "RelativeDocumentMoniker": "EMS\\Extensions\\ServiceExtension.cs",
@@ -167,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EmployeeParams.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Params\\EmployeeParams.cs",
               "RelativeDocumentMoniker": "EMS\\Params\\EmployeeParams.cs",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\appsettings.json",
               "RelativeDocumentMoniker": "EMS\\appsettings.json",
@@ -191,19 +191,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "EmployeeResponse.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Responses\\EmployeeResponses\\EmployeeResponse.cs",
               "RelativeDocumentMoniker": "EMS\\Responses\\EmployeeResponses\\EmployeeResponse.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Responses\\EmployeeResponses\\EmployeeResponse.cs",
               "RelativeToolTip": "EMS\\Responses\\EmployeeResponses\\EmployeeResponse.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T00:16:27.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "EMS\\Entities\\Employee.cs",
@@ -215,19 +215,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Services\\EmployeeServices\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "EMS\\Services\\EmployeeServices\\IEmployeeService.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Services\\EmployeeServices\\IEmployeeService.cs",
               "RelativeToolTip": "EMS\\Services\\EmployeeServices\\IEmployeeService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA+wAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T00:05:47.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CreateEmployeeDto.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Dtos\\EmployeeDtos\\CreateEmployeeDto.cs",
               "RelativeDocumentMoniker": "EMS\\Dtos\\EmployeeDtos\\CreateEmployeeDto.cs",
@@ -239,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "EMS\\Data\\DataContext.cs",
@@ -251,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "EMS\\Controllers\\BaseApiController.cs",
@@ -263,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "UpdateEmployeeDto.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Dtos\\EmployeeDtos\\UpdateEmployeeDto.cs",
               "RelativeDocumentMoniker": "EMS\\Dtos\\EmployeeDtos\\UpdateEmployeeDto.cs",
@@ -275,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\EMS\\EMS\\Repositories\\EmployeeRepositories\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "EMS\\Repositories\\EmployeeRepositories\\IEmployeeRepository.cs",

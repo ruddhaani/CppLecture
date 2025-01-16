@@ -9,6 +9,8 @@ using Plantify.Services.JWT;
 using System.IdentityModel.Tokens.Jwt;
 using Plantify.Repositories.ProductRepositories;
 using Plantify.Services.ProductServices;
+using Plantify.Repositories.CartRepositories;
+using Plantify.Services.CartServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +25,8 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICartRepository, CartRepository>();
+builder.Services.AddScoped<ICartService, CartService>();
 
 builder.Services.AddCors(options =>
 {
