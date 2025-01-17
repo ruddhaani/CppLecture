@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Cart/cart": {
+      "get": {
+        "tags": [
+          "Cart"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Cart": {
       "post": {
         "tags": [

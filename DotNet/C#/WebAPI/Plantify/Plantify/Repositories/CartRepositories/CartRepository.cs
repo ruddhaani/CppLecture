@@ -28,6 +28,11 @@ namespace Plantify.Repositories.CartRepositories
             return cart;
         }
 
+        public async Task<IEnumerable<Cart>> GetCartItemsByUserIdAsync(int userId)
+        {
+            return await _context.Cart.Include(c => c.Product).Where(c => c.UserId == userId).ToListAsync();
+        }
+
         public async Task<bool> SaveChangesToDbAsync()
         {
             return await _context.SaveChangesAsync() > 0;

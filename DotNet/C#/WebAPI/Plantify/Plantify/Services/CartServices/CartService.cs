@@ -16,6 +16,10 @@ namespace Plantify.Services.CartServices
             return await _cartRepository.AddToCart(cart);
         }
 
+        public async Task<IEnumerable<Cart>> GetCartItemsByUserIdAsync(int userId)
+        {   
+            return await _cartRepository.GetCartItemsByUserIdAsync(userId);
+        }
         public async Task<bool> SaveChangesToDbAsync()
         {
             return await _cartRepository.SaveChangesToDbAsync();

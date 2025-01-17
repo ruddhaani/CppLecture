@@ -26,6 +26,16 @@
     ]
   },
   {
+    "ContainingType": "Plantify.Controllers.CartController",
+    "Method": "GetCartItemsByUserId",
+    "RelativePath": "api/Cart/cart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Plantify.Controllers.ProductController",
     "Method": "GetProducts",
     "RelativePath": "api/Product",
