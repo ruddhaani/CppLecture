@@ -16,5 +16,8 @@ namespace Plantify.Services.UserServices
         public Task<UserInformation> FindUser(string userId);
 
         public Task<bool> SaveChangesToDbAsync();
+
+        public void UpdateUser(UserInformation user);
+        public Task<UserInformation> UserDetails(int userId);
     }
 }

@@ -5,13 +5,16 @@ namespace Plantify.Mappings.UserMappings
 {
     public static class UserMapping
     {
-        public static void MapCreateUserDtoWithUser(this UserInformation user , CreateUserDto createUserDto)
+        public static void MapUpdateUserDtoWithUser(this UserInformation user , UpdateUserDto updateUserDto)
         {
-            user.Name = createUserDto.Name;
-            user.Email = createUserDto.Email;
-            user.PhoneNumber = createUserDto.PhoneNumber;
-            user.Password = createUserDto.Password;
+            user.Name = updateUserDto.Name;
+            user.Email = updateUserDto.Email;
+            user.PhoneNumber = updateUserDto.PhoneNumber;
+        }
 
+        public static void MapUpdatePasswordWithUser(this UserInformation user , UpdatePasswordDto updatePassword)
+        {
+            user.Password = updatePassword.Password;
         }
     }
 }

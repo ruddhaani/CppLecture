@@ -42,5 +42,15 @@ namespace Plantify.Services.UserServices
         {
             return await _userRepository.FindUser(userId);
         }
+
+        public async Task<UserInformation> UserDetails(int userId)
+        {
+            return await _userRepository.UserDetails(userId);
+        }
+
+        public void UpdateUser(UserInformation user)
+        {
+            _userRepository.UpdateUser(user);
+        }
     }
 }

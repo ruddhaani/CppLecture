@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Plantify.Dtos.UserDtos;
 using Plantify.Entity;
+using Plantify.Mappings.UserMappings;
 using Plantify.Responses.UserResponses;
 using Plantify.Services.JWT;
 using Plantify.Services.UserServices;
@@ -36,38 +37,6 @@ namespace Plantify.Controllers
             return Ok(token);
         }
 
-        [Authorize]
-        [HttpGet("me")]
-        public async Task<ActionResult<UserResponse>> GetMyDetails()
-        {
-            try
-            {
-                var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
-                var claimsPrincipal = _jwtService.ValidateToken(token);
-
-                var id = claimsPrincipal.FindFirst("UserId")?.Value;
-                Console.WriteLine(id);
-
-
-                if (string.IsNullOrEmpty(id))
-                {
-                    return Unauthorized("Invalid token.");
-                }
-
-                var user = await _userService.FindUser(id);
-
-                if (user == null)
-                {
-                    return NotFound("User not found.");
-                }
-
-                return Ok(new UserResponse(user));
-            }
-            catch (Exception ex)
-            {
-                return Unauthorized($"Token validation failed: {ex.Message}");
-            }
-        }
 
         [HttpGet("validate")]
         public async Task<ActionResult<bool>> IsTokenValid()
@@ -106,6 +75,115 @@ namespace Plantify.Controllers
             return NotFound("User Not Found");
 
         }
+
+        [HttpPut("password")]
+        public async Task<ActionResult> UpdatePassword(UpdatePasswordDto updatePassword)
+        {
+            try
+            {
+                var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
+                var claimsPrincipal = _jwtService.ValidateToken(token);
+
+                var id = claimsPrincipal.FindFirst("UserId")?.Value;
+
+                if (string.IsNullOrEmpty(id))
+                {
+                    return Unauthorized();
+                }
+
+                var user = await _userService.UserDetails(Convert.ToInt32(id));
+
+                if (!(string.IsNullOrEmpty(updatePassword.Password) || string.IsNullOrEmpty(Convert.ToString(updatePassword.OldPassword))))
+                {
+                    if (user.Password == updatePassword.OldPassword)
+                    {
+                        user.MapUpdatePasswordWithUser(updatePassword);
+
+                        _userService.UpdateUser(user);
+
+                        if (await _userService.SaveChangesToDbAsync())
+                        {
+                            return Ok();
+                        }
+
+                        return BadRequest();
+                    }
+
+                    return BadRequest();
+                }
+
+
+                return BadRequest();
+
+            }catch(Exception ex)
+            {
+                return Unauthorized();
+            }
+        }
+
+        [HttpGet("userDetails")]
+        public async Task<ActionResult<UserResponse>> UserDetails()
+        {
+            try
+            {
+                var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
+                var claimsPrincipal = _jwtService.ValidateToken(token);
+
+                var id = claimsPrincipal.FindFirst("UserId")?.Value;
+
+                if (string.IsNullOrEmpty(id))
+                {
+                    return Unauthorized("Please log in or sign up!");
+                }
+
+                UserResponse userResponse = new UserResponse(await _userService.UserDetails(Convert.ToInt32(id)));
+
+                return Ok(userResponse);
+            }catch(Exception ex)
+            {
+                return Unauthorized("Please log in or sign up!");
+            }
+        }
+
+        [HttpPut("updateUser")]
+        public async Task<ActionResult> UpdateUser(UpdateUserDto updateUser)
+        {
+            try
+            {
+                var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
+                var claimsPrincipal = _jwtService.ValidateToken(token);
+
+                var id = claimsPrincipal.FindFirst("UserId")?.Value;
+
+                if (string.IsNullOrEmpty(id))
+                {
+                    return Unauthorized("Please log in or sign up");
+                }
+
+                var user = await _userService.UserDetails(Convert.ToInt32(id));
+
+                if(!(string.IsNullOrEmpty(updateUser.Email) || string.IsNullOrEmpty(updateUser.Name) || string.IsNullOrEmpty(Convert.ToString(updateUser.PhoneNumber)))){
+                    user.MapUpdateUserDtoWithUser(updateUser);
+
+                    _userService.UpdateUser(user);
+
+                    if (await _userService.SaveChangesToDbAsync())
+                    {
+                        return Ok(user);
+                    }
+
+                    return BadRequest();
+                }
+
+                return BadRequest();
+                
+
+            }catch(Exception ex)
+            {
+                return Unauthorized();
+            }
+        }
+
 
         [HttpPost]
         public async Task<ActionResult<UserResponse>> AddUser([FromBody] CreateUserDto createUserDto)

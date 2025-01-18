@@ -36,6 +36,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Plantify.Controllers.CartController",
+    "Method": "UpdateQuantity",
+    "RelativePath": "api/Cart/updateQuantity",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateQuantityDto",
+        "Type": "Plantify.Dtos.CartDtos.UpdateQuantityDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Plantify.Entity.Cart",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Plantify.Controllers.ProductController",
     "Method": "GetProducts",
     "RelativePath": "api/Product",
@@ -70,6 +96,36 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Plantify.Controllers.SalesController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Sales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Plantify.Entity.Sales, Plantify, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Plantify.Controllers.SalesController",
+    "Method": "AddToSales",
+    "RelativePath": "api/Sales",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Plantify.Controllers.UserController",
@@ -177,8 +233,40 @@
   },
   {
     "ContainingType": "Plantify.Controllers.UserController",
-    "Method": "GetMyDetails",
-    "RelativePath": "api/User/me",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/User/password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatePassword",
+        "Type": "Plantify.Dtos.UserDtos.UpdatePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Plantify.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/updateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateUser",
+        "Type": "Plantify.Dtos.UserDtos.UpdateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Plantify.Controllers.UserController",
+    "Method": "UserDetails",
+    "RelativePath": "api/User/userDetails",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

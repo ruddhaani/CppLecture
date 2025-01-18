@@ -45,9 +45,21 @@ namespace Plantify.Repositories.UserRepositories
             return await _dbContext.Users.FirstOrDefaultAsync(x => (x.Email == email && x.Password == password));
         }
 
+        public async Task<UserInformation> UserDetails(int userId)
+        {
+            return await _dbContext.Users.FirstOrDefaultAsync(x => x.userId == userId);
+        }
+
         public async Task<bool> SaveChangesToDbAsync()
         {
             return await _dbContext.SaveChangesAsync() > 0;
         }
+
+        public async void UpdateUser(UserInformation user)
+        {
+            _dbContext.Entry(user).State = EntityState.Modified;
+        }
+
+
     }
 }

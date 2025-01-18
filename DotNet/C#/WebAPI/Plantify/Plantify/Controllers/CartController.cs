@@ -43,6 +43,7 @@ namespace Plantify.Controllers
                     c.Quantity,
                     Product = new
                     {
+                        c.Product.ProductId,
                         c.Product.ProductName,
                         c.Product.ProductDescription,
                         c.Product.Price,
@@ -55,6 +56,43 @@ namespace Plantify.Controllers
             catch(Exception ex)
             {
                 return Unauthorized("Please log in or sign up");
+            }
+        }
+
+        [Authorize]
+        [HttpPut("updateQuantity")]
+        public async Task<ActionResult<Cart>> UpdateQuantity(UpdateQuantityDto updateQuantityDto)
+        {
+            try
+            {
+                var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
+
+                var claimsPrincipal = _jwtService.ValidateToken(token);
+
+                var id = claimsPrincipal.FindFirst("UserId")?.Value;
+
+                if (string.IsNullOrEmpty(id))
+                {
+                    return Unauthorized("Please log in or sign up!");
+                }
+
+                var cart = new Cart(updateQuantityDto);
+
+                cart.UserId = Convert.ToInt32(id);
+
+                Cart newItem = await _cartService.UpdateQuantity(cart);
+
+                if(await _cartService.SaveChangesToDbAsync())
+                {
+                    return Ok(newItem);
+                }
+
+                return BadRequest();
+
+
+            }catch(Exception ex)
+            {
+                return Unauthorized();
             }
         }
 

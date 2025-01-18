@@ -18,6 +18,12 @@ namespace Plantify.Entity
             Quantity = addToCartDto.Quantity;
         }
 
+        public Cart(UpdateQuantityDto updateQuantityDto)
+        {
+            ProductId = updateQuantityDto.ProductId;
+            Quantity = updateQuantityDto.Quantity;
+        }
+
         [Key]
         public int CartId { get; set; }
 

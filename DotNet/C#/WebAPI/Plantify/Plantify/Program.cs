@@ -11,6 +11,8 @@ using Plantify.Repositories.ProductRepositories;
 using Plantify.Services.ProductServices;
 using Plantify.Repositories.CartRepositories;
 using Plantify.Services.CartServices;
+using Plantify.Repositories.SalesRepository;
+using Plantify.Services.SalesServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +29,8 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICartRepository, CartRepository>();
 builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<ISalesRepository, SalesRepository>();
+builder.Services.AddScoped<ISalesService, SalesService>();
 
 builder.Services.AddCors(options =>
 {

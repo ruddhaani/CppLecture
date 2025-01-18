@@ -15,6 +15,8 @@ namespace Plantify.Data
 
         public DbSet<Cart> Cart { get; set; }
 
+        public DbSet<Sales> Sales { get; set; }
+
 
         //protected internal virtual void OnModelCreating(ModelBuilder modelBuilder)
         //{

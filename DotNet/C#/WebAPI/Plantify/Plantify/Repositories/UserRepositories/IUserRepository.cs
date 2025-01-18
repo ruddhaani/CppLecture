@@ -12,8 +12,11 @@ namespace Plantify.Repositories.UserRepositories
 
         public void DeleteUser(UserInformation user);
 
+        public void UpdateUser(UserInformation user);
         public Task<bool> FindUserByEmail(string email);
 
         public Task<bool> SaveChangesToDbAsync();
+
+        public Task<UserInformation> UserDetails(int userId);
     }
 }

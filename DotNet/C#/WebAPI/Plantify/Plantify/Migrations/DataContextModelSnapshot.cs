@@ -80,6 +80,32 @@ namespace Plantify.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("Plantify.Entity.Sales", b =>
+                {
+                    b.Property<int>("SalesId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SalesId"));
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("SalesId");
+
+                    b.HasIndex("ProductId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Sales");
+                });
+
             modelBuilder.Entity("Plantify.Entity.UserInformation", b =>
                 {
                     b.Property<int>("userId")
@@ -109,6 +135,25 @@ namespace Plantify.Migrations
                 });
 
             modelBuilder.Entity("Plantify.Entity.Cart", b =>
+                {
+                    b.HasOne("Plantify.Entity.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Plantify.Entity.UserInformation", "UserInformation")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("UserInformation");
+                });
+
+            modelBuilder.Entity("Plantify.Entity.Sales", b =>
                 {
                     b.HasOne("Plantify.Entity.Product", "Product")
                         .WithMany()
