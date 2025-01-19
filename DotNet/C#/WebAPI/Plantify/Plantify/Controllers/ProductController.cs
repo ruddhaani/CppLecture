@@ -15,6 +15,21 @@ namespace Plantify.Controllers
             _productService = productService;
         }
 
+        [HttpGet("productDetails")]
+        public async Task<ActionResult<ProductResponse>> GetProductDetails(string productId)
+        {
+            var product = await _productService.GetProductDetails(Convert.ToInt32(productId));
+
+            ProductResponse productResponse = new ProductResponse(product);
+
+            if(productResponse != null)
+            {
+                return Ok(productResponse);
+            }
+
+            return BadRequest();
+        } 
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ProductResponse>>> GetProducts([FromQuery] ProductParams productParams)
         {

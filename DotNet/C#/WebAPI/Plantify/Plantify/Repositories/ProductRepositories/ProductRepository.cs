@@ -12,6 +12,12 @@ namespace Plantify.Repositories.ProductRepositories
         {
             _context = context;
         }
+
+        public async Task<Product> GetProductDetails(int productId)
+        {
+            return await _context.Products.FirstOrDefaultAsync(x => x.ProductId == productId);
+        }
+
         public async Task<IEnumerable<Product>> GetProducts()
         {
             return await _context.Products.ToListAsync();

@@ -6,6 +6,8 @@ namespace Plantify.Repositories.ProductRepositories
     {
         public Task<IEnumerable<Product>> GetProducts();
 
+        public Task<Product> GetProductDetails(int productId);
+
         public Task<bool> SaveChangesToDbAsync();
     }
 }

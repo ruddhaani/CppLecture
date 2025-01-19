@@ -11,6 +11,12 @@ namespace Plantify.Services.ProductServices
         {
             _productRepository = productRepository;
         }
+
+        public async Task<Product> GetProductDetails(int productId)
+        {
+            return await _productRepository.GetProductDetails(productId);
+        }
+
         public async Task<IEnumerable<Product>> GetProducts()
         {
             return await _productRepository.GetProducts();

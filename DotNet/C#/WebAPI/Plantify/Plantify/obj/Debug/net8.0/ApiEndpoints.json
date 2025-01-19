@@ -98,6 +98,32 @@
     ]
   },
   {
+    "ContainingType": "Plantify.Controllers.ProductController",
+    "Method": "GetProductDetails",
+    "RelativePath": "api/Product/productDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Plantify.Responses.ProductResponses.ProductResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Plantify.Controllers.SalesController",
     "Method": "GetHistory",
     "RelativePath": "api/Sales",
