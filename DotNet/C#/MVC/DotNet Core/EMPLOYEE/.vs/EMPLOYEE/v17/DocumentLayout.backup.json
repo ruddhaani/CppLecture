@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69133FD8-D9BB-4E9D-BED7-700F3C3CC30A}|EMPLOYEE\\EMPLOYEE.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\employee\\employee\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69133FD8-D9BB-4E9D-BED7-700F3C3CC30A}|EMPLOYEE\\EMPLOYEE.csproj|solutionrelative:employee\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69133FD8-D9BB-4E9D-BED7-700F3C3CC30A}|EMPLOYEE\\EMPLOYEE.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\employee\\employee\\views\\partial\\_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69133FD8-D9BB-4E9D-BED7-700F3C3CC30A}|EMPLOYEE\\EMPLOYEE.csproj|solutionrelative:employee\\views\\partial\\_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69133FD8-D9BB-4E9D-BED7-700F3C3CC30A}|EMPLOYEE\\EMPLOYEE.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\employee\\employee\\views\\shared\\_employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69133FD8-D9BB-4E9D-BED7-700F3C3CC30A}|EMPLOYEE\\EMPLOYEE.csproj|solutionrelative:employee\\views\\shared\\_employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\EMPLOYEE\\Views\\Employee\\View.cshtml",
+              "RelativeDocumentMoniker": "EMPLOYEE\\Views\\Employee\\View.cshtml",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\EMPLOYEE\\Views\\Employee\\View.cshtml",
+              "RelativeToolTip": "EMPLOYEE\\Views\\Employee\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:15:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Employee.cshtml",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\EMPLOYEE\\Views\\Partial\\_Employee.cshtml",
+              "RelativeDocumentMoniker": "EMPLOYEE\\Views\\Partial\\_Employee.cshtml",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\EMPLOYEE\\Views\\Partial\\_Employee.cshtml",
+              "RelativeToolTip": "EMPLOYEE\\Views\\Partial\\_Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:13:29.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_EmployeeLayout.cshtml",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\EMPLOYEE\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "RelativeDocumentMoniker": "EMPLOYEE\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\EMPLOYEE\\EMPLOYEE\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "RelativeToolTip": "EMPLOYEE\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:12:16.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

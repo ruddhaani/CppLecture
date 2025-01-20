@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\dtos\\cartcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\dtos\\cartcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\productuserrelationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\productuserrelationship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\migrations\\20250120043844_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\migrations\\20250120043844_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\productuserrelationship\\productuserrelationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B72A9336-014C-4BB1-99E7-7DC3F9D86569}|ProductUserRelationship\\ProductUserRelationship.csproj|solutionrelative:productuserrelationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\DTOs\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\DTOs\\AddToCartDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\DTOs\\AddToCartDto.cs",
+              "RelativeToolTip": "ProductUserRelationship\\DTOs\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:28:57.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartCreateDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\DTOs\\CartCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\DTOs\\CartCreateDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\DTOs\\CartCreateDto.cs",
+              "RelativeToolTip": "ProductUserRelationship\\DTOs\\CartCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:46:35.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\DTOs\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\DTOs\\UserCreateDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\DTOs\\UserCreateDto.cs",
+              "RelativeToolTip": "ProductUserRelationship\\DTOs\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:45:03.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductUserRelationship.csproj",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\ProductUserRelationship.csproj",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\ProductUserRelationship.csproj",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\ProductUserRelationship.csproj",
+              "RelativeToolTip": "ProductUserRelationship\\ProductUserRelationship.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T04:44:14.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:42:59.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250120043844_initialization.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Migrations\\20250120043844_initialization.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Migrations\\20250120043844_initialization.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Migrations\\20250120043844_initialization.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Migrations\\20250120043844_initialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:38:44.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Program.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:37:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\appsettings.json",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\appsettings.json",
+              "RelativeToolTip": "ProductUserRelationship\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T04:32:16.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Data\\DataContext.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:29:17.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Entity\\Cart.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Entity\\Cart.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Entity\\Cart.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Entity\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:23:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Entity\\Products.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Entity\\Products.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Entity\\Products.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Entity\\Products.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:21:46.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "ProductUserRelationship\\Entity\\User.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ProductUserRelationship\\ProductUserRelationship\\Entity\\User.cs",
+              "RelativeToolTip": "ProductUserRelationship\\Entity\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:20:20.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
