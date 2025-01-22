@@ -1,12 +1,246 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\migrations\\20250120102556_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\migrations\\20250120102556_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\basiccrudpractice\\basiccrudpractice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF79EF3-6F57-4A3B-A648-039F67DDB9B0}|BasicCRUDPractice\\BasicCRUDPractice.csproj|solutionrelative:basiccrudpractice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeParams.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Params\\EmployeeParams.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Params\\EmployeeParams.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Params\\EmployeeParams.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Params\\EmployeeParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:19:33.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Params\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Params\\PaginationParams.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Params\\PaginationParams.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Params\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:18:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\DTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\DTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:13:28.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:39:26.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employeeController.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Controllers\\employeeController.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Controllers\\employeeController.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Controllers\\employeeController.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Controllers\\employeeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwDwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:37:22.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:33:38.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:33:30.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:26:50.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:26:36.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250120102556_Initialization.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Migrations\\20250120102556_Initialization.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Migrations\\20250120102556_Initialization.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Migrations\\20250120102556_Initialization.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Migrations\\20250120102556_Initialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:25:57.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\appsettings.json",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\appsettings.json",
+              "RelativeToolTip": "BasicCRUDPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T10:23:54.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Program.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Program.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:22:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Data\\DataContext.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:22:05.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "BasicCRUDPractice\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\BasicCRUDPractice\\BasicCRUDPractice\\Entity\\Employee.cs",
+              "RelativeToolTip": "BasicCRUDPractice\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:20:18.259Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

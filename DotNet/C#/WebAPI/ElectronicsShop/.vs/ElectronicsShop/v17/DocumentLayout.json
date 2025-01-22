@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\dtos\\cartdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\dtos\\cartdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\dtos\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\dtos\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\dtos\\cartdtos\\createcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\dtos\\cartdtos\\createcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\electronicsshop\\electronicsshop\\dtos\\productimagedtos\\updateproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D631B272-9956-4D46-9292-E43CE35D98D2}|ElectronicsShop\\ElectronicsShop.csproj|solutionrelative:electronicsshop\\dtos\\productimagedtos\\updateproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ElectronicsShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwE0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:07:27.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\OrderDTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\DTOs\\OrderDTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\OrderDTOs\\OrderDto.cs",
+              "RelativeToolTip": "ElectronicsShop\\DTOs\\OrderDTOs\\OrderDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:05:31.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\CartDTOs\\CartDto.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\DTOs\\CartDTOs\\CartDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\CartDTOs\\CartDto.cs",
+              "RelativeToolTip": "ElectronicsShop\\DTOs\\CartDTOs\\CartDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:32:03.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCartItemDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\AddCartItemDto.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\DTOs\\AddCartItemDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\AddCartItemDto.cs",
+              "RelativeToolTip": "ElectronicsShop\\DTOs\\AddCartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:15:58.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Entities\\Cart.cs",
+              "RelativeToolTip": "ElectronicsShop\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:47:58.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCartDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\CartDTOs\\CreateCartDto.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\DTOs\\CartDTOs\\CreateCartDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\CartDTOs\\CreateCartDto.cs",
+              "RelativeToolTip": "ElectronicsShop\\DTOs\\CartDTOs\\CreateCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:54:56.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ElectronicsShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:46:37.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Program.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Program.cs",
+              "RelativeToolTip": "ElectronicsShop\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:05:18.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "ElectronicsShop\\Controllers\\ProductImageController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:03:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "ElectronicsShop\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:03:35.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductImageDto.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\ProductImageDTOs\\UpdateProductImageDto.cs",
+              "RelativeDocumentMoniker": "ElectronicsShop\\DTOs\\ProductImageDTOs\\UpdateProductImageDto.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\ElectronicsShop\\ElectronicsShop\\DTOs\\ProductImageDTOs\\UpdateProductImageDto.cs",
+              "RelativeToolTip": "ElectronicsShop\\DTOs\\ProductImageDTOs\\UpdateProductImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:03:25.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
