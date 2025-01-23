@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\22012025\\22012025\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|solutionrelative:22012025\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\22012025\\22012025\\models\\myservicesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|solutionrelative:22012025\\models\\myservicesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\22012025\\22012025\\views\\services\\myservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|solutionrelative:22012025\\views\\services\\myservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\22012025\\22012025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|solutionrelative:22012025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\22012025\\22012025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5303E7EC-B7CF-41DD-8D96-9646BE2089EF}|22012025\\22012025.csproj|solutionrelative:22012025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyServicesModel.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Models\\MyServicesModel.cs",
+              "RelativeDocumentMoniker": "22012025\\Models\\MyServicesModel.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Models\\MyServicesModel.cs",
+              "RelativeToolTip": "22012025\\Models\\MyServicesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:59:45.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "22012025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "22012025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:54:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyServices.cshtml",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Views\\Services\\MyServices.cshtml",
+              "RelativeDocumentMoniker": "22012025\\Views\\Services\\MyServices.cshtml",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Views\\Services\\MyServices.cshtml",
+              "RelativeToolTip": "22012025\\Views\\Services\\MyServices.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:32:52.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "22012025\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "22012025\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:25:38.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Program.cs",
+              "RelativeDocumentMoniker": "22012025\\Program.cs",
+              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\22012025\\22012025\\Program.cs",
+              "RelativeToolTip": "22012025\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:20:18.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

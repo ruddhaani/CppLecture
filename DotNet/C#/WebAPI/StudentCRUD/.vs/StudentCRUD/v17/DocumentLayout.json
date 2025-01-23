@@ -55,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\Migrations\\20250121172937_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentCRUD\\Migrations\\20250121172937_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\studentcrud\\studentcrud\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,6 +65,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\studentcrud\\studentcrud\\studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\webapi\\studentcrud\\studentcrud\\migrations\\20250121172937_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BC48E7-8ADB-4C31-8F22-A0772C9F3355}|StudentCRUD\\StudentCRUD.csproj|solutionrelative:studentcrud\\migrations\\20250121172937_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,8 +90,7 @@
               "RelativeToolTip": "StudentCRUD\\Params\\StudentParams.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:57:20.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:57:20.28Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "StudentCRUD\\Params\\PaginationParams.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:57:09.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:57:09.279Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "StudentCRUD\\DTOs\\UpdateStudentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:53:56.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:53:56.367Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "StudentCRUD\\Responses\\StudentResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:41:56.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:41:56.053Z"
             },
             {
               "$type": "Document",
@@ -142,8 +138,7 @@
               "RelativeToolTip": "StudentCRUD\\DTOs\\AddStudentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:39:55.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:39:55.006Z"
             },
             {
               "$type": "Document",
@@ -153,7 +148,7 @@
               "RelativeDocumentMoniker": "StudentCRUD\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentCRUD\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T17:39:30.833Z",
               "EditorCaption": ""
@@ -168,8 +163,7 @@
               "RelativeToolTip": "StudentCRUD\\Controllers\\BaseAPIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:39:12.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:39:12.244Z"
             },
             {
               "$type": "Document",
@@ -181,8 +175,7 @@
               "RelativeToolTip": "StudentCRUD\\Services\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:35:52.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:35:52.398Z"
             },
             {
               "$type": "Document",
@@ -194,8 +187,7 @@
               "RelativeToolTip": "StudentCRUD\\Services\\IStudentService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwBAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:35:36.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:35:36.608Z"
             },
             {
               "$type": "Document",
@@ -207,8 +199,7 @@
               "RelativeToolTip": "StudentCRUD\\Repositories\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:30:18.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:30:18.177Z"
             },
             {
               "$type": "Document",
@@ -220,12 +211,11 @@
               "RelativeToolTip": "StudentCRUD\\Repositories\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:30:08.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:30:08.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20250121172937_initialization.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\Migrations\\20250121172937_initialization.cs",
               "RelativeDocumentMoniker": "StudentCRUD\\Migrations\\20250121172937_initialization.cs",
@@ -233,8 +223,7 @@
               "RelativeToolTip": "StudentCRUD\\Migrations\\20250121172937_initialization.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:29:37.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:29:37.946Z"
             },
             {
               "$type": "Document",
@@ -246,12 +235,11 @@
               "RelativeToolTip": "StudentCRUD\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:28:33.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:28:33.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "StudentCRUD\\Data\\DataContext.cs",
@@ -259,8 +247,7 @@
               "RelativeToolTip": "StudentCRUD\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:27:01.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:27:01.293Z"
             },
             {
               "$type": "Document",
@@ -272,12 +259,11 @@
               "RelativeToolTip": "StudentCRUD\\Entities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:25:08.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:25:08.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\appsettings.json",
               "RelativeDocumentMoniker": "StudentCRUD\\appsettings.json",
@@ -285,21 +271,19 @@
               "RelativeToolTip": "StudentCRUD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-21T17:23:49.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:23:49.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentCRUD",
+              "DocumentIndex": 15,
+              "Title": "StudentCRUD.csproj",
               "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\StudentCRUD.csproj",
               "RelativeDocumentMoniker": "StudentCRUD\\StudentCRUD.csproj",
               "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\WebAPI\\StudentCRUD\\StudentCRUD\\StudentCRUD.csproj",
               "RelativeToolTip": "StudentCRUD\\StudentCRUD.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T17:23:25.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T17:23:25.14Z"
             }
           ]
         }
