@@ -6,16 +6,23 @@ namespace _22012025.Controllers
     public class ServicesController : Controller
     {
 
-        [HttpGet]
         public IActionResult MyServices()
         {
             return View();
         }
 
-        [HttpPost]
-        public IActionResult MyServices(MyServicesModel myServicesModel)
+        public IActionResult Company()
         {
             return View();
         }
+
+
+        [HttpPost]
+        public IActionResult CompanyData(CompanyModel companyModel)
+        {
+            return View(companyModel);
+        }
+
+
     }
 }

@@ -1,0 +1,26 @@
+﻿@model _22012025.Models.CompanyModel
+@{
+    ViewData["Title"] = "Company";
+}
+
+<form method="post" asp-controller="Services" asp-action="CompanyData">
+    
+    <div>
+        <label asp-for="CompanyName"></label>
+        <input asp-for="CompanyName" />
+    </div>
+
+    <div>
+        <label asp-for="GST"></label>
+        <input asp-for="GST" />
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+
+    <input type="submit" value="Submit" />
+
+</form>
+
