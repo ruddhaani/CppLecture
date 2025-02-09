@@ -1,0 +1,15 @@
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\bin\Debug\net8.0\PracticeCollection1.exe
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\bin\Debug\net8.0\PracticeCollection1.deps.json
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\bin\Debug\net8.0\PracticeCollection1.runtimeconfig.json
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\bin\Debug\net8.0\PracticeCollection1.dll
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\bin\Debug\net8.0\PracticeCollection1.pdb
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.sourcelink.json
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.dll
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\refint\PracticeCollection1.dll
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.pdb
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\PracticeCollection1.genruntimeconfig.cache
+C:\CppLecture\DotNet\C#\Console\PracticeCollection1\PracticeCollection1\obj\Debug\net8.0\ref\PracticeCollection1.dll

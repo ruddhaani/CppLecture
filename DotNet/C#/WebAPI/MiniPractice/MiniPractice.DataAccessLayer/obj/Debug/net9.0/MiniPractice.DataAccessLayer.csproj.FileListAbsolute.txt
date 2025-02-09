@@ -1,0 +1,16 @@
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\bin\Debug\net9.0\MiniPractice.DataAccessLayer.deps.json
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\bin\Debug\net9.0\MiniPractice.DataAccessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\bin\Debug\net9.0\MiniPractice.DataAccessLayer.pdb
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\bin\Debug\net9.0\MiniPractice.BusinessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\bin\Debug\net9.0\MiniPractice.BusinessLayer.pdb
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.sourcelink.json
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPrac.7BCF0F4B.Up2Date
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\refint\MiniPractice.DataAccessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\MiniPractice.DataAccessLayer.pdb
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.DataAccessLayer\obj\Debug\net9.0\ref\MiniPractice.DataAccessLayer.dll

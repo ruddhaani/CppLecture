@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\bin\Debug\net9.0\MiniPractice.BusinessLayer.deps.json
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\bin\Debug\net9.0\MiniPractice.BusinessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\bin\Debug\net9.0\MiniPractice.BusinessLayer.pdb
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.sourcelink.json
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\refint\MiniPractice.BusinessLayer.dll
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\MiniPractice.BusinessLayer.pdb
+C:\CppLecture\DotNet\C#\WebAPI\MiniPractice\MiniPractice.BusinessLayer\obj\Debug\net9.0\ref\MiniPractice.BusinessLayer.dll

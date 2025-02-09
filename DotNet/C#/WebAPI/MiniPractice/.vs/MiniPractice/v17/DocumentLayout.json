@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.presentation\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|solutionrelative:minipractice.presentation\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D82031-3669-43C4-857E-318F247F47D0}|MiniPractice.DataAccessLayer\\MiniPractice.DataAccessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.dataaccesslayer\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D82031-3669-43C4-857E-318F247F47D0}|MiniPractice.DataAccessLayer\\MiniPractice.DataAccessLayer.csproj|solutionrelative:minipractice.dataaccesslayer\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.presentation\\views\\company\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|solutionrelative:minipractice.presentation\\views\\company\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|solutionrelative:minipractice.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|solutionrelative:minipractice.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB69DD-52BA-42CE-8D8B-899641D89C27}|MiniPractice.Presentation\\MiniPractice.Presentation.csproj|solutionrelative:minipractice.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C1BB06-C48C-4DDA-8209-DC18C400F936}|MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.businesslayer\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C1BB06-C48C-4DDA-8209-DC18C400F936}|MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj|solutionrelative:minipractice.businesslayer\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C1BB06-C48C-4DDA-8209-DC18C400F936}|MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.businesslayer\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C1BB06-C48C-4DDA-8209-DC18C400F936}|MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj|solutionrelative:minipractice.businesslayer\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C1BB06-C48C-4DDA-8209-DC18C400F936}|MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\webapi\\minipractice\\minipractice.businesslayer\\minipractice.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58C1BB06-C48C-4DDA-8209-DC18C400F936}|MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj|solutionrelative:minipractice.businesslayer\\minipractice.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiniPractice.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiniPractice.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:13:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MiniPractice.Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MiniPractice.Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:13:36.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "MiniPractice.Presentation\\Program.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Program.cs",
+              "RelativeToolTip": "MiniPractice.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:11:29.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cshtml",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Views\\Company\\Company.cshtml",
+              "RelativeDocumentMoniker": "MiniPractice.Presentation\\Views\\Company\\Company.cshtml",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Views\\Company\\Company.cshtml",
+              "RelativeToolTip": "MiniPractice.Presentation\\Views\\Company\\Company.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T08:06:29.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "MiniPractice.Presentation\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.Presentation\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "MiniPractice.Presentation\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:05:48.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.DataAccessLayer\\Repository\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "MiniPractice.DataAccessLayer\\Repository\\CompanyRepository.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.DataAccessLayer\\Repository\\CompanyRepository.cs",
+              "RelativeToolTip": "MiniPractice.DataAccessLayer\\Repository\\CompanyRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:12:22.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.BusinessLayer\\IRepository\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "MiniPractice.BusinessLayer\\IRepository\\ICompanyRepository.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.BusinessLayer\\IRepository\\ICompanyRepository.cs",
+              "RelativeToolTip": "MiniPractice.BusinessLayer\\IRepository\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:08:03.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.BusinessLayer\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "MiniPractice.BusinessLayer\\Models\\Company.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.BusinessLayer\\Models\\Company.cs",
+              "RelativeToolTip": "MiniPractice.BusinessLayer\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:06:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiniPractice.BusinessLayer",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\WebAPI\\MiniPractice\\MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj",
+              "RelativeToolTip": "MiniPractice.BusinessLayer\\MiniPractice.BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T07:07:36.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

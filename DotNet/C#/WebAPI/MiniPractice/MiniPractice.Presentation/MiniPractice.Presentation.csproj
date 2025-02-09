@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiniPractice.BusinessLayer\MiniPractice.BusinessLayer.csproj" />
+    <ProjectReference Include="..\MiniPractice.DataAccessLayer\MiniPractice.DataAccessLayer.csproj" />
+  </ItemGroup>
+
+</Project>

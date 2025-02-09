@@ -1,0 +1,9 @@
+﻿@model MiniPractice.BusinessLayer.Models.Company
+
+<h1>Company</h1>
+
+<form asp-action="Create" asp-controller="Company" method="post">
+	<input type="text" asp-for="Name" />
+	<input type="text" asp-for="City" />
+	<input type="submit"/>
+</form>
