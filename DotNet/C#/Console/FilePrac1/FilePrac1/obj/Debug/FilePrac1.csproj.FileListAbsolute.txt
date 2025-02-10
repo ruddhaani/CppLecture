@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\bin\Debug\FilePrac1.exe.config
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\bin\Debug\FilePrac1.exe
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\bin\Debug\FilePrac1.pdb
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\obj\Debug\FilePrac1.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\obj\Debug\FilePrac1.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\obj\Debug\FilePrac1.exe
+C:\CppLecture\DotNet\C#\Console\FilePrac1\FilePrac1\obj\Debug\FilePrac1.pdb

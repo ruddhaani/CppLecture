@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\bin\Debug\DelegateExample1012.exe.config
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\bin\Debug\DelegateExample1012.exe
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\bin\Debug\DelegateExample1012.pdb
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\obj\Debug\DelegateExample1012.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\obj\Debug\DelegateExample1012.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\obj\Debug\DelegateExample1012.exe
+C:\CppLecture\DotNet\C#\Console\DelegateExample1012\DelegateExample1012\obj\Debug\DelegateExample1012.pdb

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\",
+  "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{389C8BBC-F34E-43E3-B009-FF29CDC7E3F3}|DelegatesExample2\\DelegatesExample2.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\delegatesexample2\\delegatesexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{389C8BBC-F34E-43E3-B009-FF29CDC7E3F3}|DelegatesExample2\\DelegatesExample2.csproj|c:\\cpplecture\\dotnet\\c#\\console\\delegatesexample2\\delegatesexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{389C8BBC-F34E-43E3-B009-FF29CDC7E3F3}|DelegatesExample2\\DelegatesExample2.csproj|solutionrelative:delegatesexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{389C8BBC-F34E-43E3-B009-FF29CDC7E3F3}|DelegatesExample2\\DelegatesExample2.csproj|C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\delegatesexample2\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{389C8BBC-F34E-43E3-B009-FF29CDC7E3F3}|DelegatesExample2\\DelegatesExample2.csproj|C:\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\delegatesexample2\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{389C8BBC-F34E-43E3-B009-FF29CDC7E3F3}|DelegatesExample2\\DelegatesExample2.csproj|solutionrelative:delegatesexample2\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,21 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Arithmetic.cs",
-              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Arithmetic.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Arithmetic.cs",
               "RelativeDocumentMoniker": "DelegatesExample2\\Arithmetic.cs",
-              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Arithmetic.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Arithmetic.cs",
               "RelativeToolTip": "DelegatesExample2\\Arithmetic.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T13:37:56.566Z"
+              "WhenOpened": "2025-01-10T13:37:56.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Program.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Program.cs",
               "RelativeDocumentMoniker": "DelegatesExample2\\Program.cs",
-              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Program.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\Console\\DelegatesExample2\\DelegatesExample2\\Program.cs",
               "RelativeToolTip": "DelegatesExample2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

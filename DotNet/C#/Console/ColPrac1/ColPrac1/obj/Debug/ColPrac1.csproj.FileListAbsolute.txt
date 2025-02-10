@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\bin\Debug\ColPrac1.exe.config
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\bin\Debug\ColPrac1.exe
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\bin\Debug\ColPrac1.pdb
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\obj\Debug\ColPrac1.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\obj\Debug\ColPrac1.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\obj\Debug\ColPrac1.exe
+C:\CppLecture\DotNet\C#\Console\ColPrac1\ColPrac1\obj\Debug\ColPrac1.pdb

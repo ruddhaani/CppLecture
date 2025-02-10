@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\",
+  "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\eventsexample1\\eventsexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\eventsexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|solutionrelative:eventsexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\eventsexample1\\eventsexample1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\eventsexample1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|solutionrelative:eventsexample1\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|c:\\aniruddha\\cpplecture\\dotnet\\c#\\console\\eventsexample1\\eventsexample1\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|c:\\cpplecture\\dotnet\\c#\\console\\eventsexample1\\eventsexample1\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8151D0A-8F87-401C-AF81-6B760DE0E214}|EventsExample1\\EventsExample1.csproj|solutionrelative:eventsexample1\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Subscriber.cs",
-              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Subscriber.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Subscriber.cs",
               "RelativeDocumentMoniker": "EventsExample1\\Subscriber.cs",
-              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Subscriber.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Subscriber.cs",
               "RelativeToolTip": "EventsExample1\\Subscriber.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:25:05.337Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Publisher.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Publisher.cs",
               "RelativeDocumentMoniker": "EventsExample1\\Publisher.cs",
-              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Publisher.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Publisher.cs",
               "RelativeToolTip": "EventsExample1\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:21:02.207Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Program.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Program.cs",
               "RelativeDocumentMoniker": "EventsExample1\\Program.cs",
-              "ToolTip": "C:\\Aniruddha\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Program.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\Console\\EventsExample1\\EventsExample1\\Program.cs",
               "RelativeToolTip": "EventsExample1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:19:31.069Z",
               "EditorCaption": ""

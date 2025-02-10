@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\Console\\FilePrac1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13030CA-64CA-4988-AB52-CDA04AA4D934}|FilePrac1\\FilePrac1.csproj|c:\\cpplecture\\dotnet\\c#\\console\\fileprac1\\fileprac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13030CA-64CA-4988-AB52-CDA04AA4D934}|FilePrac1\\FilePrac1.csproj|solutionrelative:fileprac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\Console\\FilePrac1\\FilePrac1\\Program.cs",
+              "RelativeDocumentMoniker": "FilePrac1\\Program.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\Console\\FilePrac1\\FilePrac1\\Program.cs",
+              "RelativeToolTip": "FilePrac1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAxwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:56:31.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
