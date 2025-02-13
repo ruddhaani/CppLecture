@@ -21,7 +21,7 @@
                 <td>@company.CompanyName</td>
                 <td>@company.CompanyAddress</td>
                 <td>
-                    <a class="Link-dark" asp-controller="Company" asp-action="CompanyView" asp-route-id="@company.CompanyId">View</a> | <a class="Link-dark">Edit</a> | <a class="Link-dark" asp-action="Delete" asp-controller="Company" asp-route-id="@company.CompanyId">Delete</a>
+                    <a class="Link-dark" asp-controller="Company" asp-action="CompanyView" asp-route-id="@company.CompanyId">View</a> | <a class="Link-dark" asp-controller="Company" asp-action="Update" asp-route-id="@company.CompanyId">Edit</a> | <a class="Link-dark" asp-action="Delete" asp-controller="Company" asp-route-id="@company.CompanyId">Delete</a>
                 </td>
         </tr>
     }

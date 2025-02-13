@@ -84,7 +84,17 @@ namespace ADOPrac.DataAccessLayer.Repository
 
         public int Update(Company company)
         {
-            throw new NotImplementedException();
+            string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand command = new SqlCommand("UpdateCompany", connection);
+            command.Parameters.AddWithValue("@CompanyId", company.CompanyId);
+            command.Parameters.AddWithValue("@CompanyName", company.CompanyName);
+            command.Parameters.AddWithValue("@CompanyAddress", company.CompanyAddress);
+            command.CommandType = CommandType.StoredProcedure;
+            var result = command.ExecuteNonQuery();
+            connection.Close();
+            return result;
         }
     }
 }

@@ -12,6 +12,19 @@ namespace ADOPrac.PresentationLayer.Controllers
         {
             _companyRepository = companyRepository;
         }
+
+        public IActionResult Update(int id)
+        {
+            var company = _companyRepository.GetCompanyById(id);
+            return View(company);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Company company)
+        {
+            _companyRepository.Update(company);
+            return RedirectToAction("Company");
+        }
         public IActionResult Company()
         {
             var companyList = _companyRepository.ListAllCompanies();
