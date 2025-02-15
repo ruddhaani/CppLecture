@@ -5,6 +5,11 @@
 
 <div class="row">
 	<div class="col-md-6">
+		<div>
+			<a class="btn btn-primary" asp-controller="State" asp-action="State" asp-route-flag=0>All</a>
+			<a class="btn btn-success" asp-controller="State" asp-action="State" asp-route-flag=1>Active</a>
+			<a class="btn btn-danger" asp-controller="State" asp-action="State" asp-route-flag=2>Inactive</a>
+		</div>
 		<table class="table">
 			<tr>
 				<th>State Id</th>
@@ -21,8 +26,17 @@
 				<td>@state.StateName</td>
 				<td>@state.StateDescription</td>
 				<td>@state.CountryName</td>
-				<td>@state.isActive</td>
-					<td><a>Edit</a> | <a>Delete</a></td>
+					<td>
+						<form asp-action="ActiveChange" asp-controller="State" method="post">
+							<input type="hidden" name="id" value="@state.StateId" />
+							<input type="checkbox"
+								   name="flag"
+								   value="1"
+							@(state.isActive == 1 ? "checked" : "")
+								   onchange="this.form.flag.value = this.checked ? 1 : 0; this.form.submit();" />
+						</form>
+					</td>
+					<td><a asp-action="Update" asp-controller="State" asp-route-id="@state.StateId">Edit</a> | <a asp-controller="State" asp-action="ActiveChange" asp-route-id="@state.StateId" asp-route-flag=0>Delete</a></td>
 				</tr>
 			}
 

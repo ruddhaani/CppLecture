@@ -17,6 +17,8 @@ namespace ADOPrac.BusinessLogicLayer.IRepository
 
         public State GetStateById(int id);
 
+        public int ChangeIsActive(int id, int flag);
+
         public List<StateListResponse> GetStatesList();
     }
 }

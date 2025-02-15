@@ -13,6 +13,20 @@ namespace ADOPrac.DataAccessLayer.Repository
 {
     public class StateRepository : IStateRepository
     {
+        public int ChangeIsActive(int id, int flag)
+        {
+            string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand command = new SqlCommand("ChangeIsActiveForState", connection);
+            command.Parameters.AddWithValue("@StateId", id);
+            command.Parameters.AddWithValue("@isActive", flag);
+            command.CommandType = CommandType.StoredProcedure;
+            var result = command.ExecuteNonQuery();
+            connection.Close();
+            return result;
+        }
+
         public int Create(State state)
         {
             string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
@@ -35,12 +49,36 @@ namespace ADOPrac.DataAccessLayer.Repository
 
         public int Delete(int id)
         {
-            throw new NotImplementedException();
+            string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand command = new SqlCommand("DeleteState", connection);
+            command.Parameters.AddWithValue("@StateId", id);
+            command.CommandType = CommandType.StoredProcedure;
+            var result = command.ExecuteNonQuery();
+            connection.Close();
+            return result;
         }
 
         public State GetStateById(int id)
         {
-            throw new NotImplementedException();
+            string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand command = new SqlCommand("GetStateById", connection);
+            command.Parameters.AddWithValue("@StateId", id);
+            command.CommandType = CommandType.StoredProcedure;
+            SqlDataReader sqlDataReader = command.ExecuteReader();
+            State state = new State();
+            while (sqlDataReader.Read())
+            {
+                state.StateId = Convert.ToInt32(sqlDataReader["StateId"]);
+                state.CountryId = Convert.ToInt32(sqlDataReader["CountryId"]);
+                state.StateName = Convert.ToString(sqlDataReader["StateName"]);
+                state.StateDescription = Convert.ToString(sqlDataReader["StateDescription"]);
+            }
+
+            return state;
         }
 
         public List<StateListResponse> GetStatesList()
@@ -70,7 +108,20 @@ namespace ADOPrac.DataAccessLayer.Repository
 
         public int Update(State state)
         {
-            throw new NotImplementedException();
+            string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand command = new SqlCommand("UpdateState", connection);
+            command.Parameters.AddWithValue("@StateId", state.StateId);
+            command.Parameters.AddWithValue("@StateName", state.StateName);
+            command.Parameters.AddWithValue("@StateDescription", state.StateDescription);
+            command.Parameters.AddWithValue("@CountryId", state.CountryId);
+            command.Parameters.AddWithValue("@UpdatedOn", DateTime.Now);
+            command.Parameters.AddWithValue("@UpdatedBy", 1);
+            command.CommandType = CommandType.StoredProcedure;
+            var result = command.ExecuteNonQuery();
+            connection.Close();
+            return result;
         }
     }
 }
