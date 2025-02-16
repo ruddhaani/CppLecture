@@ -1,9 +1,22 @@
-﻿@model ADOPrac.BusinessLogicLayer.Models.State
+﻿@{
+    var countries = ViewData["Countries"] as List<ADOPrac.BusinessLogicLayer.Models.Country>;
+}
+
+@model ADOPrac.BusinessLogicLayer.Models.State
 <h1>Add New State</h1>
 
 <form method="post" asp-action="Create" asp-controller="State">
-	<input type="text"  class="form-control mb-3" asp-for="StateName"/>
-	<input type="text" class="form-control mb-3" asp-for="StateDescription"/>
-	@await Html.PartialAsync("CountryOptions", ViewData["Countries"])
+	<input type="text"  class="form-control mb-3" asp-for="StateName" placeholder="Enter name of the state...."/>
+	<input type="text" class="form-control mb-3" asp-for="StateDescription" placeholder="Enter description of the state...."/>
+    <select class="form-control mb-3" asp-for="CountryId">
+        <option value="">Select a Country</option>
+        @if (countries != null)
+        {
+            @foreach (var country in countries)
+            {
+                <option value="@country.CountryId">@country.CountryName</option>
+            }
+        }
+    </select>
 	<input type="submit" class="btn btn-success" />
 </form>

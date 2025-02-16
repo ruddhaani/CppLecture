@@ -3,60 +3,16 @@
   "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\state\\state.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\state\\state.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\companymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\companymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF011E5A-CBF7-4181-BF00-CB757732C9D8}|ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.dataaccesslayer\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF011E5A-CBF7-4181-BF00-CB757732C9D8}|ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj|solutionrelative:adoprac.dataaccesslayer\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\state\\countryoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\state\\countryoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960C278-32BE-487A-855E-D22E3DFA9BA1}|ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.businesslogiclayer\\models\\statelistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5960C278-32BE-487A-855E-D22E3DFA9BA1}|ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj|solutionrelative:adoprac.businesslogiclayer\\models\\statelistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960C278-32BE-487A-855E-D22E3DFA9BA1}|ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.businesslogiclayer\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5960C278-32BE-487A-855E-D22E3DFA9BA1}|ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj|solutionrelative:adoprac.businesslogiclayer\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\state\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\state\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF011E5A-CBF7-4181-BF00-CB757732C9D8}|ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.dataaccesslayer\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF011E5A-CBF7-4181-BF00-CB757732C9D8}|ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj|solutionrelative:adoprac.dataaccesslayer\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\country\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\country\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5960C278-32BE-487A-855E-D22E3DFA9BA1}|ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.businesslogiclayer\\irepository\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5960C278-32BE-487A-855E-D22E3DFA9BA1}|ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj|solutionrelative:adoprac.businesslogiclayer\\irepository\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\company\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\company\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\dtos\\updatecompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\dtos\\updatecompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,175 +26,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\Create.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\State\\Create.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\Create.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\State\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T14:29:19.617Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "State.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\State.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\State\\State.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\State.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\State\\State.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T14:29:18.212Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "CompanyMappings.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\CompanyMappings.cs",
+              "RelativeDocumentMoniker": "ADOPrac.API\\Mappings\\CompanyMappings.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\CompanyMappings.cs",
+              "RelativeToolTip": "ADOPrac.API\\Mappings\\CompanyMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:24:14.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountryOptions.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\CountryOptions.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\State\\CountryOptions.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\CountryOptions.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\State\\CountryOptions.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T14:37:17.765Z",
-              "IsPinned": true
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "ADOPrac.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "ADOPrac.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:22:08.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StateRepository.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.DataAccessLayer\\Repository\\StateRepository.cs",
-              "RelativeDocumentMoniker": "ADOPrac.DataAccessLayer\\Repository\\StateRepository.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.DataAccessLayer\\Repository\\StateRepository.cs",
-              "RelativeToolTip": "ADOPrac.DataAccessLayer\\Repository\\StateRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwCUAAABMAAAAAAAAAA==",
+              "Title": "UpdateCompanyDto.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "RelativeDocumentMoniker": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "RelativeToolTip": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:12:32.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StateController.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\StateController.cs",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Controllers\\StateController.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\StateController.cs",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Controllers\\StateController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:35:07.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StateListResponse.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.BusinessLogicLayer\\Models\\StateListResponse.cs",
-              "RelativeDocumentMoniker": "ADOPrac.BusinessLogicLayer\\Models\\StateListResponse.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.BusinessLogicLayer\\Models\\StateListResponse.cs",
-              "RelativeToolTip": "ADOPrac.BusinessLogicLayer\\Models\\StateListResponse.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:37:31.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "State.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.BusinessLogicLayer\\Models\\State.cs",
-              "RelativeDocumentMoniker": "ADOPrac.BusinessLogicLayer\\Models\\State.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.BusinessLogicLayer\\Models\\State.cs",
-              "RelativeToolTip": "ADOPrac.BusinessLogicLayer\\Models\\State.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:37:44.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\Update.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\State\\Update.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\State\\Update.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\State\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T18:21:06.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CountryRepository.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
-              "RelativeDocumentMoniker": "ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
-              "RelativeToolTip": "ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAwGUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:12:43.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Country\\Create.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\Country\\Create.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Country\\Create.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\Country\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T14:40:17.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Country.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Country\\Country.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\Country\\Country.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Country\\Country.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\Country\\Country.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T14:37:31.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IStateRepository.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.BusinessLogicLayer\\IRepository\\IStateRepository.cs",
-              "RelativeDocumentMoniker": "ADOPrac.BusinessLogicLayer\\IRepository\\IStateRepository.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.BusinessLogicLayer\\IRepository\\IStateRepository.cs",
-              "RelativeToolTip": "ADOPrac.BusinessLogicLayer\\IRepository\\IStateRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T15:39:20.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CompanyController.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:48:36.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Company.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Company\\Company.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\Company\\Company.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Company\\Company.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\Company\\Company.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T14:56:18.704Z"
+              "WhenOpened": "2025-02-16T09:22:03.826Z",
+              "EditorCaption": ""
             }
           ]
         }
