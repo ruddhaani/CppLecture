@@ -48,5 +48,23 @@ namespace ADOPrac.API.Controllers
             var result = _countryRepository.Delete(id);
             return Ok(result);
         }
+
+        
+        [HttpPut("update/{id}")]
+        public IActionResult Update(int id , [FromBody] UpdateCountryDto updateCountryDto)
+        {
+            var country = _countryRepository.GetCountryById(id);
+
+            if(country == null || country.CountryId == 0)
+            {
+                return BadRequest("Not updated");
+            }
+
+            country.MapUpdateCountryDtoWithCountry(updateCountryDto);
+
+            var result = _countryRepository.Update(country);
+
+            return Ok(result);
+        }
     }
 }

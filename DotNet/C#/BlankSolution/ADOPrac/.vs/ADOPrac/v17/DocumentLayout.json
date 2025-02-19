@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EF011E5A-CBF7-4181-BF00-CB757732C9D8}|ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.dataaccesslayer\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF011E5A-CBF7-4181-BF00-CB757732C9D8}|ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj|solutionrelative:adoprac.dataaccesslayer\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\dtos\\countrydtos\\updatecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\dtos\\countrydtos\\updatecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\countrymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\countrymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\companymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\companymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\dtos\\countrydtos\\createcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\dtos\\countrydtos\\createcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\companymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\companymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:20:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCountryDto.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\CountryDTOs\\UpdateCountryDto.cs",
+              "RelativeDocumentMoniker": "ADOPrac.API\\DTOs\\CountryDTOs\\UpdateCountryDto.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\CountryDTOs\\UpdateCountryDto.cs",
+              "RelativeToolTip": "ADOPrac.API\\DTOs\\CountryDTOs\\UpdateCountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:14:08.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CountryMappings.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\CountryMappings.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Mappings\\CountryMappings.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\CountryMappings.cs",
               "RelativeToolTip": "ADOPrac.API\\Mappings\\CountryMappings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwA0AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T21:08:39.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateCountryDto.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\CountryDTOs\\CreateCountryDto.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\DTOs\\CountryDTOs\\CreateCountryDto.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\CountryDTOs\\CreateCountryDto.cs",
               "RelativeToolTip": "ADOPrac.API\\DTOs\\CountryDTOs\\CreateCountryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T21:05:50.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Program.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Program.cs",
@@ -76,8 +110,7 @@
               "RelativeToolTip": "ADOPrac.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:54:47.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:54:47.469Z"
             },
             {
               "$type": "Document",
@@ -87,14 +120,14 @@
               "RelativeDocumentMoniker": "ADOPrac.API\\Controllers\\CountryController.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\CountryController.cs",
               "RelativeToolTip": "ADOPrac.API\\Controllers\\CountryController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T20:52:59.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CompanyMappings.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\CompanyMappings.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Mappings\\CompanyMappings.cs",
@@ -102,12 +135,11 @@
               "RelativeToolTip": "ADOPrac.API\\Mappings\\CompanyMappings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:24:14.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T09:24:14.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Controllers\\CompanyController.cs",
@@ -115,12 +147,11 @@
               "RelativeToolTip": "ADOPrac.API\\Controllers\\CompanyController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:22:08.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T09:22:08.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UpdateCompanyDto.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",

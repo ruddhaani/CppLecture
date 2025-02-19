@@ -10,5 +10,11 @@ namespace ADOPrac.API.Mappings
             country.CountryName = countryDto.CountryName;
             country.CountryDescription = countryDto.CountryDescription;
         }
+
+        public static void MapUpdateCountryDtoWithCountry(this Country country, UpdateCountryDto countryDto)
+        {
+            country.CountryName = countryDto.CountryName;
+            country.CountryDescription = countryDto.CountryDescription;
+        }
     }
 }
