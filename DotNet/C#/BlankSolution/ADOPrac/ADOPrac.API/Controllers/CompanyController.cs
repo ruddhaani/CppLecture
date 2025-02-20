@@ -2,6 +2,7 @@
 using ADOPrac.API.Mappings;
 using ADOPrac.BusinessLogicLayer.IRepository;
 using ADOPrac.BusinessLogicLayer.Models;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,10 +13,12 @@ namespace ADOPrac.API.Controllers
     public class CompanyController : ControllerBase
     {
         private readonly ICompanyRepository _companyRepository;
+        private readonly IMapper _mapper;
 
-        public CompanyController(ICompanyRepository companyRepository)
+        public CompanyController(ICompanyRepository companyRepository , IMapper mapper)
         {
             _companyRepository = companyRepository;
+            _mapper = mapper;
         }
 
         [HttpGet("list")]
@@ -35,19 +38,21 @@ namespace ADOPrac.API.Controllers
         public IActionResult Update([FromRoute]int id, [FromBody] UpdateCompanyDto updateCompanyDto)
         {
             Company company = _companyRepository.GetCompanyById(id);
+            
             if(company != null || company.CompanyId != 0)
             {
-                company.MapUpdateCompanyDTOWithCompany(updateCompanyDto);
+                _mapper.Map(updateCompanyDto, company);
                 var result = _companyRepository.Update(company);
-                return Ok(result);
+                if (result == -1) return Ok("Updated Successfully");
+                else return BadRequest("Not updated");
             }
 
             return BadRequest("Not Updated");
             
         }
 
-        [HttpGet]
-        public IActionResult GetById([FromQuery] int id)
+        [HttpGet("getById/{id}")]
+        public IActionResult GetById(int id)
         { 
             var company = _companyRepository.GetCompanyById(id);
             if(company == null || company.CompanyId == 0)
@@ -62,7 +67,8 @@ namespace ADOPrac.API.Controllers
         public IActionResult Create([FromBody] Company company)
         {
             var result = _companyRepository.Create(company);
-            return Ok(result);
+            if (result == -1) return Ok("Created Successfully");
+            else return BadRequest("Not Created");
         }
 
         [HttpDelete("delete/{id}")]
@@ -70,7 +76,8 @@ namespace ADOPrac.API.Controllers
         public IActionResult Delete([FromRoute] int id)
         {
             var result = _companyRepository.Delete(id);
-            return Ok(result);
+            if (result == -1) return Ok("Deleted Successfully");
+            else return BadRequest("Not deleted");
         }
 
     }

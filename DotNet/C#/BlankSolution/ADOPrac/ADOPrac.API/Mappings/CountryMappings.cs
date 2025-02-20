@@ -1,4 +1,5 @@
 ﻿using ADOPrac.API.DTOs.CountryDTOs;
+using ADOPrac.API.Response.CountryResponse;
 using ADOPrac.BusinessLogicLayer.Models;
 
 namespace ADOPrac.API.Mappings
@@ -15,6 +16,12 @@ namespace ADOPrac.API.Mappings
         {
             country.CountryName = countryDto.CountryName;
             country.CountryDescription = countryDto.CountryDescription;
+        }
+
+        public static void MapCountryDropdownResponseWithCountry(this CountryDropdownResponse countryDropdownResponse , Country country)
+        {
+            countryDropdownResponse.CountryId = country.CountryId;
+            countryDropdownResponse.CountryName = country.CountryName;
         }
     }
 }

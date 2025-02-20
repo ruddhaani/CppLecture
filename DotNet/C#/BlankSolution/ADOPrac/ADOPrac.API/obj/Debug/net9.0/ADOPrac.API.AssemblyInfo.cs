@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADOPrac.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+007ba80e5b02c82bd82e8c9a0c0d9dd9da7c6a67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9d76b69fdf8ea369101be313d2afbbdc05e6552")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADOPrac.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADOPrac.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,7 +15,7 @@ namespace ADOPrac.BusinessLogicLayer.IRepository
 
         public int Update(State state);
 
-        public State GetStateById(int id);
+        public StateListResponse GetStateById(int id);
 
         public int ChangeIsActive(int id, int flag);
 

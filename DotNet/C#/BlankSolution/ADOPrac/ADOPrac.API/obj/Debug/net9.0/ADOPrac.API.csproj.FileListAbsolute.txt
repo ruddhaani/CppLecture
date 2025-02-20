@@ -74,3 +74,4 @@ C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.API\obj\Debug\net9.0\refin
 C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.API\obj\Debug\net9.0\ADOPrac.API.pdb
 C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.API\obj\Debug\net9.0\ADOPrac.API.genruntimeconfig.cache
 C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.API\obj\Debug\net9.0\ref\ADOPrac.API.dll
+C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.API\bin\Debug\net9.0\AutoMapper.dll

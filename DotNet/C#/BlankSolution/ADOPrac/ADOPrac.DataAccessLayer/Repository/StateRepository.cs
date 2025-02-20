@@ -60,7 +60,7 @@ namespace ADOPrac.DataAccessLayer.Repository
             return result;
         }
 
-        public State GetStateById(int id)
+        public StateListResponse GetStateById(int id)
         {
             string connectionString = "Server=localhost\\SQLEXPRESS;Database=ADOPracDb;Trusted_connection=True;TrustServerCertificate=True;";
             SqlConnection connection = new SqlConnection(connectionString);
@@ -69,12 +69,13 @@ namespace ADOPrac.DataAccessLayer.Repository
             command.Parameters.AddWithValue("@StateId", id);
             command.CommandType = CommandType.StoredProcedure;
             SqlDataReader sqlDataReader = command.ExecuteReader();
-            State state = new State();
+            StateListResponse state = new StateListResponse();
             while (sqlDataReader.Read())
             {
                 state.StateId = Convert.ToInt32(sqlDataReader["StateId"]);
                 state.CountryId = Convert.ToInt32(sqlDataReader["CountryId"]);
                 state.StateName = Convert.ToString(sqlDataReader["StateName"]);
+                state.CountryName = Convert.ToString(sqlDataReader["CountryName"]);
                 state.StateDescription = Convert.ToString(sqlDataReader["StateDescription"]);
             }
 
@@ -98,6 +99,7 @@ namespace ADOPrac.DataAccessLayer.Repository
                 state.StateName= Convert.ToString(reader["StateName"]);
                 state.StateDescription= Convert.ToString(reader["StateDescription"]);
                 state.CountryName= Convert.ToString(reader["CountryName"]);
+                state.CountryId = Convert.ToInt32(reader["CountryId"]);
                 state.isActive = Convert.ToInt32(reader["isActive"]);
 
                 stateList.Add(state);
