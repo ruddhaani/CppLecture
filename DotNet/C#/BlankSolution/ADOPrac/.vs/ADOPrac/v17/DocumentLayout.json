@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\profiles\\companyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\profiles\\companyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\profiles\\stateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\profiles\\stateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\mappings\\profiles\\companyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|solutionrelative:adoprac.api\\mappings\\profiles\\companyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{005FB5BA-49CC-4C73-BA29-A8C10FAD4C9A}|ADOPrac.API\\ADOPrac.API.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.api\\dtos\\updatecompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CountryProfile.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\Profiles\\CountryProfile.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Mappings\\Profiles\\CountryProfile.cs",
@@ -106,12 +106,11 @@
               "RelativeToolTip": "ADOPrac.API\\Mappings\\Profiles\\CountryProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:50:09.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T14:50:09.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Controllers\\CompanyController.cs",
@@ -119,18 +118,17 @@
               "RelativeToolTip": "ADOPrac.API\\Controllers\\CompanyController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:22:08.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T09:22:08.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CompanyProfile.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\Profiles\\CompanyProfile.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Mappings\\Profiles\\CompanyProfile.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\Profiles\\CompanyProfile.cs",
               "RelativeToolTip": "ADOPrac.API\\Mappings\\Profiles\\CompanyProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T14:41:58.393Z",
               "EditorCaption": ""
@@ -145,8 +143,7 @@
               "RelativeToolTip": "ADOPrac.API\\DTOs\\CountryDTOs\\UpdateCountryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:14:08.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:14:08.934Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:22:03.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T09:22:03.826Z"
             },
             {
               "$type": "Document",
@@ -169,14 +165,14 @@
               "RelativeDocumentMoniker": "ADOPrac.API\\Controllers\\StateController.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\StateController.cs",
               "RelativeToolTip": "ADOPrac.API\\Controllers\\StateController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA5wDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T11:19:55.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CountryController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Controllers\\CountryController.cs",
@@ -184,12 +180,11 @@
               "RelativeToolTip": "ADOPrac.API\\Controllers\\CountryController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:52:59.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:52:59.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Program.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Program.cs",
@@ -197,12 +192,11 @@
               "RelativeToolTip": "ADOPrac.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T20:54:47.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T20:54:47.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StateProfile.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\Mappings\\Profiles\\StateProfile.cs",
               "RelativeDocumentMoniker": "ADOPrac.API\\Mappings\\Profiles\\StateProfile.cs",
@@ -210,8 +204,7 @@
               "RelativeToolTip": "ADOPrac.API\\Mappings\\Profiles\\StateProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:25:21.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T15:25:21.319Z"
             },
             {
               "$type": "Document",
@@ -223,8 +216,7 @@
               "RelativeToolTip": "ADOPrac.API\\DTOs\\CountryDTOs\\CreateCountryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T21:05:50.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T21:05:50.301Z"
             },
             {
               "$type": "Document",
@@ -236,8 +228,7 @@
               "RelativeToolTip": "ADOPrac.DataAccessLayer\\Repository\\CompanyRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:51:34.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:51:34.019Z"
             },
             {
               "$type": "Document",
@@ -249,8 +240,7 @@
               "RelativeToolTip": "ADOPrac.API\\DTOs\\StateDTOs\\CreateStateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:33:53.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:33:53.02Z"
             },
             {
               "$type": "Document",
@@ -262,8 +252,7 @@
               "RelativeToolTip": "ADOPrac.API\\Mappings\\CompanyMappings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:24:14.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T09:24:14.485Z"
             },
             {
               "$type": "Document",
@@ -275,8 +264,7 @@
               "RelativeToolTip": "ADOPrac.BusinessLogicLayer\\Models\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:33:58.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:33:58.832Z"
             },
             {
               "$type": "Document",
@@ -288,8 +276,7 @@
               "RelativeToolTip": "ADOPrac.API\\DTOs\\StateDTOs\\UpdateStateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:47:55.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:47:55.318Z"
             },
             {
               "$type": "Document",
@@ -301,8 +288,7 @@
               "RelativeToolTip": "ADOPrac.API\\Mappings\\CountryMappings.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T21:08:39.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T21:08:39.379Z"
             },
             {
               "$type": "Document",
@@ -314,8 +300,7 @@
               "RelativeToolTip": "ADOPrac.DataAccessLayer\\Repository\\StateRepository.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAawEwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:23:55.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:23:55.845Z"
             },
             {
               "$type": "Document",
@@ -327,8 +312,7 @@
               "RelativeToolTip": "ADOPrac.DataAccessLayer\\Repository\\CountryRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:20:05.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:20:05.283Z"
             },
             {
               "$type": "Document",
@@ -340,8 +324,7 @@
               "RelativeToolTip": "ADOPrac.BusinessLogicLayer\\IRepository\\IStateRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:30:37.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:30:37.299Z"
             },
             {
               "$type": "Document",
@@ -353,8 +336,7 @@
               "RelativeToolTip": "ADOPrac.API\\Response\\CountryResponse\\CountryDropdownResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:09:12.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:09:12.507Z"
             },
             {
               "$type": "Document",
@@ -366,8 +348,7 @@
               "RelativeToolTip": "ADOPrac.BusinessLogicLayer\\Models\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:09:44.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T11:09:44.477Z"
             }
           ]
         }
