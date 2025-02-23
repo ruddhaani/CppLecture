@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\views\\home\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\views\\home\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\views\\home\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\views\\home\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Company.cshtml",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Views\\Home\\Company.cshtml",
               "RelativeDocumentMoniker": "ResultTypeExample\\Views\\Home\\Company.cshtml",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Views\\Home\\Company.cshtml",
               "RelativeToolTip": "ResultTypeExample\\Views\\Home\\Company.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-21T08:48:01.014Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ResultTypeExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ResultTypeExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwB0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T08:45:12.903Z",
               "EditorCaption": ""

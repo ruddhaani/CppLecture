@@ -15,4 +15,8 @@
     <ProjectReference Include="..\ADOPrac.DataAccessLayer\ADOPrac.DataAccessLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Helper\" />
+  </ItemGroup>
+
 </Project>

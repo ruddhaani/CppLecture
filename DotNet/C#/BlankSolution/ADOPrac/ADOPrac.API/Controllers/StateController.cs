@@ -21,7 +21,7 @@ namespace ADOPrac.API.Controllers
         {
             _stateRepository = stateRepository;
             _mapper = mapper;
-        } 
+        }
 
         [HttpGet("list")]
         public IActionResult GetStateList()

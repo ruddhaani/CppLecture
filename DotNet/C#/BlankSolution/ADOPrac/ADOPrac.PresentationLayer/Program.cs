@@ -1,13 +1,21 @@
 using ADOPrac.BusinessLogicLayer.IRepository;
 using ADOPrac.DataAccessLayer.Repository;
+using ADOPrac.PresentationLayer.Filters;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(opt =>
+{
+    opt.Filters.Add(new CustomExceptionFilter());
+}
+);
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
 builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 builder.Services.AddScoped<IStateRepository, StateRepository>();
+builder.Services.AddScoped<CustomActionFilter>();
+
 
 var app = builder.Build();
 
