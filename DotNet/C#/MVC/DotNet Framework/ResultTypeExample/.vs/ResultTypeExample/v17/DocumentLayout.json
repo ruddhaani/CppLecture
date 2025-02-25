@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\resulttypeexample\\resulttypeexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD6A94C-5C79-4F31-A2D0-0323EA874B81}|ResultTypeExample\\ResultTypeExample.csproj|solutionrelative:resulttypeexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ResultTypeExample\\Global.asax.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Global.asax.cs",
+              "RelativeToolTip": "ResultTypeExample\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:18:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\packages.config",
+              "RelativeDocumentMoniker": "ResultTypeExample\\packages.config",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\packages.config",
+              "RelativeToolTip": "ResultTypeExample\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-25T15:18:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ResultTypeExample\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ResultTypeExample\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:17:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Company.cshtml",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Views\\Home\\Company.cshtml",
               "RelativeDocumentMoniker": "ResultTypeExample\\Views\\Home\\Company.cshtml",
@@ -38,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ResultTypeExample\\Views\\Shared\\_Layout.cshtml",
@@ -50,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ResultTypeExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\ResultTypeExample\\ResultTypeExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ResultTypeExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T08:45:12.903Z",
               "EditorCaption": ""
