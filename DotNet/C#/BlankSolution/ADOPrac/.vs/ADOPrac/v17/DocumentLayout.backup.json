@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|solutionrelative:adoprac.presentationlayer\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D73D96AB-71E7-4C36-9D88-5A4A552BDADB}|ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj|c:\\cpplecture\\dotnet\\c#\\blanksolution\\adoprac\\adoprac.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,30 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
-              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
-              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T04:37:06.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Controllers\\ErrorController.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\ErrorController.cs",
               "RelativeToolTip": "ADOPrac.PresentationLayer\\Controllers\\ErrorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T04:36:00.107Z",
               "EditorCaption": ""
@@ -162,7 +149,7 @@
               "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Filters\\CustomExceptionFilter.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Filters\\CustomExceptionFilter.cs",
               "RelativeToolTip": "ADOPrac.PresentationLayer\\Filters\\CustomExceptionFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T04:17:40.274Z",
               "EditorCaption": ""
@@ -181,13 +168,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
               "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "ADOPrac.PresentationLayer\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T08:30:49.031Z",
               "EditorCaption": ""
@@ -244,19 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateCompanyDto.cs",
-              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
-              "RelativeDocumentMoniker": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
-              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
-              "RelativeToolTip": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T09:22:03.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CustomActionFilter.cs",
               "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Filters\\CustomActionFilter.cs",
               "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Filters\\CustomActionFilter.cs",
@@ -266,6 +241,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T08:26:03.86Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
+              "RelativeDocumentMoniker": "ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
+              "RelativeToolTip": "ADOPrac.PresentationLayer\\Views\\Error\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T04:37:06.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCompanyDto.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "RelativeDocumentMoniker": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\BlankSolution\\ADOPrac\\ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "RelativeToolTip": "ADOPrac.API\\DTOs\\UpdateCompanyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:22:03.826Z"
             },
             {
               "$type": "Document",
