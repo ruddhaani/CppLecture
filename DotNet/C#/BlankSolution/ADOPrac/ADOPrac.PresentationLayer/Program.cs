@@ -8,13 +8,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews(opt =>
 {
-    opt.Filters.Add(new CustomExceptionFilter());
+    opt.Filters.Add<CustomExceptionFilter>();
 }
 );
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
 builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 builder.Services.AddScoped<IStateRepository, StateRepository>();
 builder.Services.AddScoped<CustomActionFilter>();
+builder.Services.AddScoped<CustomExceptionFilter>();
 
 
 var app = builder.Build();

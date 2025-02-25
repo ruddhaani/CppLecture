@@ -19,4 +19,10 @@
     <Folder Include="Helper\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Custom Logger">
+      <HintPath>..\..\..\MVC\DotNet Framework\CustomLogger\Custom Logger\bin\Debug\net8.0\Custom Logger.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

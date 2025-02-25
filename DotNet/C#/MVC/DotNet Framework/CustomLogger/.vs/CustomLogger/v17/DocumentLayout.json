@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\CustomLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A804B9-D493-4644-8E71-8158242A64FE}|Custom Logger\\Custom Logger.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet framework\\customlogger\\custom logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A804B9-D493-4644-8E71-8158242A64FE}|Custom Logger\\Custom Logger.csproj|solutionrelative:custom logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\CustomLogger\\Custom Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Custom Logger\\Logger.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Framework\\CustomLogger\\Custom Logger\\Logger.cs",
+              "RelativeToolTip": "Custom Logger\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:32:43.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

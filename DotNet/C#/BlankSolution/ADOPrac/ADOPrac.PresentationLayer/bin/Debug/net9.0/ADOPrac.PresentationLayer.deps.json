@@ -10,7 +10,8 @@
         "dependencies": {
           "ADOPrac.BusinessLogicLayer": "1.0.0",
           "ADOPrac.DataAccessLayer": "1.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0",
+          "Custom Logger": "1.0.0.0"
         },
         "runtime": {
           "ADOPrac.PresentationLayer.dll": {}
@@ -1835,6 +1836,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Custom Logger/1.0.0.0": {
+        "runtime": {
+          "Custom Logger.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2817,6 +2826,11 @@
     },
     "ADOPrac.DataAccessLayer/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Custom Logger/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -322,3 +322,5 @@ C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.PresentationLayer\bin\Debu
 C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.PresentationLayer\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.PresentationLayer\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.PresentationLayer\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.PresentationLayer\bin\Debug\net9.0\Custom Logger.dll
+C:\CppLecture\DotNet\C#\BlankSolution\ADOPrac\ADOPrac.PresentationLayer\bin\Debug\net9.0\Custom Logger.pdb
