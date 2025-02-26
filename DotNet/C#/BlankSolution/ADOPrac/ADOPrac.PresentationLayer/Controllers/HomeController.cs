@@ -1,4 +1,6 @@
 using System.Diagnostics;
+using ADOPrac.BusinessLogicLayer.Models;
+using ADOPrac.PresentationLayer.Filters;
 using ADOPrac.PresentationLayer.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -13,7 +15,37 @@ namespace ADOPrac.PresentationLayer.Controllers
             _logger = logger;
         }
 
+        [ServiceFilter(typeof(CustomResultFilter))]
+        public IActionResult Test()
+        {
+            var company = new List<Company>();
+
+            company.Add(new Company()
+            {
+                CompanyName = "CORECO",
+                CompanyAddress = "Pune"
+            });
+
+            company.Add(new Company()
+            {
+                CompanyName = "BitWise",
+                CompanyAddress = "Pune"
+            });
+
+            return Json(company);
+        }
+
+        //[ServiceFilter(typeof(CustomAuthorizationFilter))]
+        //[ServiceFilter(typeof(CustomActionFilter))]
+        //[ServiceFilter(typeof(CustomExceptionFilter))]
+        //[ServiceFilter(typeof(CustomResultFilter))]
+
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Unauthorized()
         {
             return View();
         }

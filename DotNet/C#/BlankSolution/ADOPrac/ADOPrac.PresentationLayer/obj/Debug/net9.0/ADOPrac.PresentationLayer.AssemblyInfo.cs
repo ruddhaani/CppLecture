@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADOPrac.PresentationLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0856eedfca18d92091e6697190c6dbd58dcd1772")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4068685e9d6dd4c7fb9069123b2a3dec9220c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADOPrac.PresentationLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADOPrac.PresentationLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

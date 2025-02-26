@@ -16,6 +16,8 @@ builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 builder.Services.AddScoped<IStateRepository, StateRepository>();
 builder.Services.AddScoped<CustomActionFilter>();
 builder.Services.AddScoped<CustomExceptionFilter>();
+builder.Services.AddScoped<CustomResultFilter>();
+builder.Services.AddScoped<CustomAuthorizationFilter>();
 
 
 var app = builder.Build();

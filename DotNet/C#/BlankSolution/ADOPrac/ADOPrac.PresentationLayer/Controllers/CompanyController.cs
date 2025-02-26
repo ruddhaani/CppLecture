@@ -1,6 +1,7 @@
 ﻿using ADOPrac.BusinessLogicLayer.IRepository;
 using ADOPrac.BusinessLogicLayer.Models;
 using ADOPrac.PresentationLayer.Filters;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ADOPrac.PresentationLayer.Controllers
@@ -31,13 +32,14 @@ namespace ADOPrac.PresentationLayer.Controllers
         [ServiceFilter(typeof(CustomActionFilter))]
         public IActionResult Company()
         {
-            int a = 1;
-            int b = 0;
-            int c = a / b;
+            //int a = 1;
+            //int b = 0;
+            //int c = a / b;
             var companyList = _companyRepository.ListAllCompanies();
             return View(companyList);
         }
 
+        //To be removed
         public IActionResult CompanyView(int id)
         {
             var company = _companyRepository.GetCompanyById(id);
