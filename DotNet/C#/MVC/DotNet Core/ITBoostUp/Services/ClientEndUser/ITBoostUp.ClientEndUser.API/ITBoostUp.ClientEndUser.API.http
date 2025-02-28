@@ -1,0 +1,6 @@
+@ITBoostUp.ClientEndUser.API_HostAddress = http://localhost:5218
+
+GET {{ITBoostUp.ClientEndUser.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

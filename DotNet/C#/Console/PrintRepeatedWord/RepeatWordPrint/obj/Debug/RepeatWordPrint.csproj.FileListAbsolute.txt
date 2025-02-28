@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\bin\Debug\RepeatWordPrint.exe.config
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\bin\Debug\RepeatWordPrint.exe
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\bin\Debug\RepeatWordPrint.pdb
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\obj\Debug\RepeatWordPrint.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\obj\Debug\RepeatWordPrint.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\obj\Debug\RepeatWordPrint.exe
+C:\CppLecture\DotNet\C#\Console\RepeatWordPrint\RepeatWordPrint\obj\Debug\RepeatWordPrint.pdb

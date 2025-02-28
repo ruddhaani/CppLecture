@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\bin\Debug\ReverseWordsinAString.exe.config
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\bin\Debug\ReverseWordsinAString.exe
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\bin\Debug\ReverseWordsinAString.pdb
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\obj\Debug\ReverseWordsinAString.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\obj\Debug\ReverseWordsinAString.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\obj\Debug\ReverseWordsinAString.exe
+C:\CppLecture\DotNet\C#\Console\ReverseWordsinAString\ReverseWordsinAString\obj\Debug\ReverseWordsinAString.pdb

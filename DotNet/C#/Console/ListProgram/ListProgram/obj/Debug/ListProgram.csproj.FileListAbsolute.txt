@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\bin\Debug\ListProgram.exe.config
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\bin\Debug\ListProgram.exe
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\bin\Debug\ListProgram.pdb
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\obj\Debug\ListProgram.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\obj\Debug\ListProgram.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\obj\Debug\ListProgram.exe
+C:\CppLecture\DotNet\C#\Console\ListProgram\ListProgram\obj\Debug\ListProgram.pdb

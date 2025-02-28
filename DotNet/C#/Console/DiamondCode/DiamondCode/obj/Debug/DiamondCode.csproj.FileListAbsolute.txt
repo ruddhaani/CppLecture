@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\bin\Debug\DiamondCode.exe.config
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\bin\Debug\DiamondCode.exe
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\bin\Debug\DiamondCode.pdb
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\obj\Debug\DiamondCode.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\obj\Debug\DiamondCode.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\obj\Debug\DiamondCode.exe
+C:\CppLecture\DotNet\C#\Console\DiamondCode\DiamondCode\obj\Debug\DiamondCode.pdb

@@ -1,0 +1,6 @@
+@ITBoostUp.ProductAdmin.API_HostAddress = http://localhost:5057
+
+GET {{ITBoostUp.ProductAdmin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

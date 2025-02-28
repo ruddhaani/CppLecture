@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\bin\Debug\SwissProgram.exe.config
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\bin\Debug\SwissProgram.exe
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\bin\Debug\SwissProgram.pdb
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\obj\Debug\SwissProgram.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\obj\Debug\SwissProgram.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\obj\Debug\SwissProgram.exe
+C:\CppLecture\DotNet\C#\Console\SwissProgram\SwissProgram\obj\Debug\SwissProgram.pdb
