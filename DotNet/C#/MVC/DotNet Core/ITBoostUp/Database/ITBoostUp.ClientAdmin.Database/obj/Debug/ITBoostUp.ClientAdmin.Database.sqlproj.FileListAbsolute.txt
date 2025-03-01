@@ -1,0 +1,10 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\bin\Debug\ITBoostUp.ClientAdmin.Database.dacpac
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\bin\Debug\ITBoostUp.ClientAdmin.Database.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\bin\Debug\ITBoostUp.ClientAdmin.Database.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\ITBoostUp.ClientAdmin.Database.sqlproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\Model.xml
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\refactor.xml
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\postdeploy.sql
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\predeploy.sql
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\ITBoostUp.ClientAdmin.Database.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ClientAdmin.Database\obj\Debug\ITBoostUp.ClientAdmin.Database.pdb

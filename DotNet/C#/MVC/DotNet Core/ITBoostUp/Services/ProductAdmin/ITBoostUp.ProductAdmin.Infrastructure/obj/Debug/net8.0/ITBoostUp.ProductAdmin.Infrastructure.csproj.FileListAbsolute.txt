@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\bin\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\bin\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\bin\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\refint\ITBoostUp.ProductAdmin.Infrastructure.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Infrastructure.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Infrastructure\obj\Debug\net8.0\ref\ITBoostUp.ProductAdmin.Infrastructure.dll

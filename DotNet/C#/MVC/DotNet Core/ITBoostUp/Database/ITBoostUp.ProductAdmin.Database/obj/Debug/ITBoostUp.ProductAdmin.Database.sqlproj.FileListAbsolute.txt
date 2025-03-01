@@ -1,0 +1,6 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ProductAdmin.Database\bin\Debug\ITBoostUp.ProductAdmin.Database.dacpac
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ProductAdmin.Database\bin\Debug\ITBoostUp.ProductAdmin.Database.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ProductAdmin.Database\bin\Debug\ITBoostUp.ProductAdmin.Database.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ProductAdmin.Database\obj\Debug\ITBoostUp.ProductAdmin.Database.sqlproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ProductAdmin.Database\obj\Debug\ITBoostUp.ProductAdmin.Database.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Database\ITBoostUp.ProductAdmin.Database\obj\Debug\ITBoostUp.ProductAdmin.Database.pdb

@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\ITBoostUp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE70228A-39B9-41E0-9504-7A497D23365B}|Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Infrastructure\\ITBoostUp.ProductAdmin.Infrastructure.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\itboostup\\services\\productadmin\\itboostup.productadmin.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE70228A-39B9-41E0-9504-7A497D23365B}|Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Infrastructure\\ITBoostUp.ProductAdmin.Infrastructure.csproj|solutionrelative:services\\productadmin\\itboostup.productadmin.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2066D0E-A754-4793-B93B-D180CBB32916}|Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Application\\ITBoostUp.ProductAdmin.Application.csproj|c:\\cpplecture\\dotnet\\c#\\mvc\\dotnet core\\itboostup\\services\\productadmin\\itboostup.productadmin.application\\itboostup.productadmin.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2066D0E-A754-4793-B93B-D180CBB32916}|Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Application\\ITBoostUp.ProductAdmin.Application.csproj|solutionrelative:services\\productadmin\\itboostup.productadmin.application\\itboostup.productadmin.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\ITBoostUp\\Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\ITBoostUp\\Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:09:33.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITBoostUp.ProductAdmin.Application.csproj",
+              "DocumentMoniker": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\ITBoostUp\\Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Application\\ITBoostUp.ProductAdmin.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Application\\ITBoostUp.ProductAdmin.Application.csproj",
+              "ToolTip": "C:\\CppLecture\\DotNet\\C#\\MVC\\DotNet Core\\ITBoostUp\\Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Application\\ITBoostUp.ProductAdmin.Application.csproj",
+              "RelativeToolTip": "Services\\ProductAdmin\\ITBoostUp.ProductAdmin.Application\\ITBoostUp.ProductAdmin.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T10:01:58.348Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

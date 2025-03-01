@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITBoostUp.ClientAdmin.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4314c4abbc6d51b2e0a56e8d45d0b7ba5522017")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c861778997e77905345d1ab86297da6e5d1fa98")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITBoostUp.ClientAdmin.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITBoostUp.ClientAdmin.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

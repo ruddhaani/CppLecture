@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0qs8YiXBlEMllWr1HO6vL7tha2YVK7Wp4XYyiHcqtJc=",
+  "Source": "ITBoostUP.ApiGateway",
+  "BasePath": "_content/ITBoostUP.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

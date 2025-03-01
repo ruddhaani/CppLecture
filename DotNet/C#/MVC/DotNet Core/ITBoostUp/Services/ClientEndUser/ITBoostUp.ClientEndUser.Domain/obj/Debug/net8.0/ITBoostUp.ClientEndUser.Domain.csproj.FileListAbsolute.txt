@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\bin\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\bin\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\bin\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\refint\ITBoostUp.ClientEndUser.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Domain\obj\Debug\net8.0\ref\ITBoostUp.ClientEndUser.Domain.dll

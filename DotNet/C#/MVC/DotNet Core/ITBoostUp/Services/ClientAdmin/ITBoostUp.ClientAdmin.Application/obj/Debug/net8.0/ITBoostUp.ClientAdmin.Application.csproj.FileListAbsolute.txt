@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\bin\Debug\net8.0\ITBoostUp.ClientAdmin.Application.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\bin\Debug\net8.0\ITBoostUp.ClientAdmin.Application.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\bin\Debug\net8.0\ITBoostUp.ClientAdmin.Application.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\refint\ITBoostUp.ClientAdmin.Application.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Application.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Application\obj\Debug\net8.0\ref\ITBoostUp.ClientAdmin.Application.dll

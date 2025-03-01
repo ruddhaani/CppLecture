@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xr2xaVqXDCZYrvHT02POQqsToGuFGUXacPXgUkgujx8=",
+  "Source": "ITBoostUp.ProductEndUser.API",
+  "BasePath": "_content/ITBoostUp.ProductEndUser.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

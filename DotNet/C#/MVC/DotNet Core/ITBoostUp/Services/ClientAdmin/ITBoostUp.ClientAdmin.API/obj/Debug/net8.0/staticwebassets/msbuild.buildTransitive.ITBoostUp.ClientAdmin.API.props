@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ITBoostUp.ClientAdmin.API.props" />
+</Project>

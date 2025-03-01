@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\bin\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\bin\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\bin\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\refint\ITBoostUp.ProductAdmin.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ProductAdmin.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductAdmin\ITBoostUp.ProductAdmin.Domain\obj\Debug\net8.0\ref\ITBoostUp.ProductAdmin.Domain.dll

@@ -1,0 +1,7 @@
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.AssemblyReference.cache
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\CppLecture\DotNet\C#\Design Patterns\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

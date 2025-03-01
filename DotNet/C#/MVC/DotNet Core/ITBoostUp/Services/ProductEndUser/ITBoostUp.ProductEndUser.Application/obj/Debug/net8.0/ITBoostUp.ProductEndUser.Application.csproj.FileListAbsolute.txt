@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\bin\Debug\net8.0\ITBoostUp.ProductEndUser.Application.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\bin\Debug\net8.0\ITBoostUp.ProductEndUser.Application.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\bin\Debug\net8.0\ITBoostUp.ProductEndUser.Application.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\refint\ITBoostUp.ProductEndUser.Application.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Application.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Application\obj\Debug\net8.0\ref\ITBoostUp.ProductEndUser.Application.dll

@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\bin\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\bin\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\bin\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\refint\ITBoostUp.ProductEndUser.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ITBoostUp.ProductEndUser.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ProductEndUser\ITBoostUp.ProductEndUser.Domain\obj\Debug\net8.0\ref\ITBoostUp.ProductEndUser.Domain.dll

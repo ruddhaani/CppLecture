@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\bin\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\bin\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\bin\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\refint\ITBoostUp.ClientEndUser.Infrastructure.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ITBoostUp.ClientEndUser.Infrastructure.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientEndUser\ITBoostUp.ClientEndUser.Infrastructure\obj\Debug\net8.0\ref\ITBoostUp.ClientEndUser.Infrastructure.dll

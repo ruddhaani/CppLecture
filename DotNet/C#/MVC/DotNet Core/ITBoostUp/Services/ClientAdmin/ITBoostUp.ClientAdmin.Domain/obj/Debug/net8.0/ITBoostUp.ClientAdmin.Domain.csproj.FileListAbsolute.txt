@@ -1,0 +1,12 @@
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\bin\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.deps.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\bin\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\bin\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.AssemblyInfoInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.AssemblyInfo.cs
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.sourcelink.json
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\refint\ITBoostUp.ClientAdmin.Domain.dll
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ITBoostUp.ClientAdmin.Domain.pdb
+C:\CppLecture\DotNet\C#\MVC\DotNet Core\ITBoostUp\Services\ClientAdmin\ITBoostUp.ClientAdmin.Domain\obj\Debug\net8.0\ref\ITBoostUp.ClientAdmin.Domain.dll

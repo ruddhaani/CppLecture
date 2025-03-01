@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITBoostUp.ProductEndUser.API.props" />
+</Project>

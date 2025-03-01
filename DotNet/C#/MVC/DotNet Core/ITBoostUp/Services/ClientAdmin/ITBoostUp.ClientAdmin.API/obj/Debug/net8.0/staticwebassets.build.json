@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BMXqjlOQM4Y9jPfh3Ti7jJuF9AGkqTTMn1xGVyZfgdw=",
+  "Source": "ITBoostUp.ClientAdmin.API",
+  "BasePath": "_content/ITBoostUp.ClientAdmin.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
